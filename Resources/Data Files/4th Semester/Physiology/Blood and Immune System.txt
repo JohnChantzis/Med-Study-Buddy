@@ -1,0 +1,486 @@
+// Physiology of Blood and Immune System - GM - 2015/2016 26.11.2015
+1 Women compared to men have higher volume of blood. ===> FALSE
+2 The total blood volume in a normal subject is about 8 % of body weight. ===> TRUE
+3 The total blood volume is about 8 liters in a healthy young man. ===> FALSE
+4 The total blood volume in healthy adult men is similar to packed cell volume. ===> FALSE
+5 The total blood volume higher than normal is called polycytemia. ===> FALSE
+6 People living in high altitudes have usually higher volume of blood than people living in low altitudes. ===> TRUE
+7 The total amount of blood in a pregnant women's body is slightly less than in non-pregnant women. ===> FALSE
+8 Hypovolemia is lower blood volume than normal. ===> TRUE
+9 Value of pH higher than 7.44 in arteries is denoted as alkalemia. ===> TRUE
+10 Value of pH lower than 7.36 in arteries is denoted as alkalemia. ===> FALSE
+11 Maintaining of stable anion and cation concentrations in blood plasma is denoted as isoionia. ===> TRUE
+12 Acidemia is a situation in the human body when pH of the blood is higher than 7.36. ===> FALSE
+13 Blood in the right atrium usually has pH 7.35. ===> TRUE
+14 Hematocrit is the relative volume of erythrocytes in the total volume of blood. ===> TRUE
+15 Hematocrit is an average erythrocyte count in 1 liter of blood. ===> FALSE
+16 Hematocrit is a ratio of the erythrocytes volume to the plasma volume. ===> FALSE
+17 Value of hematocrit depends on the size of red blood cells. ===> TRUE
+18 Normal value of hematocrit in newborn is bigger than that in men. ===> TRUE
+19 The normal ranges for hematocrit do not depend on age, but depends on the sex of the individual. ===> FALSE
+20 A higher value of hematocrit can be found in people with anemia. ===> FALSE
+21 Blood viscosity is expressed in relation to viscosity of distilled water. ===> TRUE
+22 Value of blood viscosity depends mainly on the hematocrit. ===> TRUE
+23 Value of blood viscosity does not depend on mechanical properties of erythrocytes. ===> FALSE
+24 Dehydration produces a falsely high hematocrit. ===> TRUE
+25 The relative viscosity of plasma is about 2. ===> TRUE
+26 Blood viscosity is inversely proportional to the cross-section area of vessels. ===> FALSE
+27 Blood viscosity in the capillaries is closer to viscosity of plasma than to viscosity of the whole blood. ===> TRUE
+28 Erythrocyte sedimentation rate depends on the viscosity of plasma. ===> TRUE
+29 Erythrocyte sedimentation rate increases in anemia due to increases in erythrocyte count. ===> FALSE
+30 Erythrocyte sedimentation rate is expressed in mL/hour. ===> FALSE
+31 Erythrocyte sedimentation rate is increased in hyperfibrinogenemia. ===> TRUE
+32 During pregnancy, erythrocyte sedimentation rate decreases. ===> FALSE
+33 High erythrocyte count is usually associated with low sedimentation rate. ===> TRUE
+34 Normal values for the erythrocyte sedimentation rate are generally slightly higher in men than in women. ===> FALSE
+35 About 90 % of plasma is made by water. ===> TRUE
+36 More than half of the total blood volume is plasma. ===> TRUE
+37 Osmolality of the plasma is 285 mol/kg. ===> FALSE
+38 Osmolality of the plasma is the osmotic pressure of albumin that cannot cross membranes freely. ===> FALSE
+39 Hyperosmolarity is a decreased osmolarity of plasma. ===> FALSE
+40 Hyperosmolarity is often associated with high lost of body fluids. ===> TRUE
+41 Hypoosmolarity could be caused by dehydratation. ===> FALSE
+42 Albumin in plasma is important for transport of bilirubin. ===> TRUE
+43 Concentration of albumin in plasma is 42 g/L. ===> TRUE
+44 Albumin in plasma plays a key role in hemocoagulation. ===> FALSE
+45 Plasma protein acts as buffers. ===> TRUE
+46 Plasma proteins are subdivided into albumin, globulins and free amino acids. ===> FALSE
+47 Plasma protein physiologically includes also hemoglobin. ===> FALSE
+48 Plasma proteins are formed mainly in the liver. ===> TRUE
+49 Plasma proteins act as a protein reserve to the body. ===> TRUE
+50 Plasma oncotic pressure is about 300 mmol/kg. ===> FALSE
+51 Plasma oncotic pressure is the osmotic pressure of the plasma proteins. ===> TRUE
+52 Plasma oncotic pressure is caused by leakage of proteins into the interstitial fluid. ===> FALSE
+53 Physiological value of plasma oncotic pressure is 3.3 kPa. ===> TRUE
+54 The globulins have larger molecule than albumin. ===> TRUE
+55 The amount of globulins in the plasma is higher than that of albumin. ===> FALSE
+56 The optimal range of albumin/globulin ratio is about 2. ===> TRUE
+57 The albumin/globulin ratio usually increases in infectious states. ===> FALSE
+58 Fibrinogen concentration in the plasma is normally about 12 g/L. ===> FALSE
+59 Each liter of plasma has about 42 g of globulins and about 27 g of albumin. ===> FALSE
+60 The globulins have larger molecules than albumin. ===> TRUE
+61 Plasma glucose concentration in healthy adult man is about 4.4 mmol/L. ===> TRUE
+62 Plasma glucose concentration in healthy adult man is usually expressed in nmol/L. ===> FALSE
+63 Plasma cholesterol concentration in healthy adults is within the range 0.5-2.0 mmol/L. ===> FALSE
+64 The plasma contains sodium in concentration about 140 mmol/L. ===> TRUE
+65 Sodium concentration in the plasma is higher than plasma concentration of calcium. ===> TRUE
+66 Sodium concentration in the plasma is about 15 mmol/L higher than chloride concentration in the plasma. ===> FALSE
+67 Potasium plays crucial role in the blood clotting. ===> FALSE
+68 Potassium concentration in the plasma is nearly the same as sodium concentration in the plasma. ===> FALSE
+69 Potassium is important for the muscle contraction. ===> TRUE
+70 Potassium plasma concentration is about 4.5 mmol/L. ===> TRUE
+71 Potassium is the principal cation of intracellular fluid. ===> TRUE
+72 Calcium is crucial for maintaining acid-base balance in the body. ===> FALSE
+73 Calcium plays the important role in the blood clotting. ===> TRUE
+74 Calcium is the principal cation of the intracellular fluid. ===> FALSE
+75 Calcium is important for nerve-muscle irritability. ===> TRUE
+76 The plasma chloride concentration is about 100 mmol/L. ===> TRUE
+77 The plasma chloride is one of the principal coagulation factors. ===> FALSE
+78 The plasma chloride function is to transport carbon monoxide. ===> FALSE
+79 Hydrogen carbonate is very important for carbon dioxide transport. ===> TRUE
+80 Lipoproteins are particles present in the blood containing cholesterol, triglycerides and special plasmaproteins. ===> TRUE
+81 Calcium plasma concentration is about 1 mmol/L. ===> FALSE
+82 Magnesium plasma concentration is about 4.5 mmol/L. ===> FALSE
+83 Hydrogen carbonate concentration in the plasma is nearly the same as sodium concentration in theintracellular fluid. ===> FALSE
+84 Chylomicrons transfer dietary cholesterol from the intestine to the liver. ===> TRUE
+85 The normal concentration of lipids in the serum is 4 to 10 g/L. ===> TRUE
+86 A high HDL cholesterol level may increase chances of developing heart disease. ===> FALSE
+87 VLDL and LDL transfer cholesterol from the liver to the rest of the body. ===> TRUE
+88 Red cells in the human blood are present in larger number per volume unit in women than in men. ===> FALSE
+89 Erythrocytes generate energy from glucose. ===> TRUE
+90 The average life span of the erythrocytes is about 2 months. ===> FALSE
+91 Normal red blood cell does not contain any enzyme. ===> FALSE
+92 2,3 - bisphosphoglycerate regulates the oxygen affinity of hemoglobin. ===> TRUE
+93 The main constituent of erythrocyte cytoplasm is hemoglobin. ===> TRUE
+94 Erythrocytes are the most numerous cells in the blood. ===> TRUE
+95 Erythrocytes generate energy from glucose mainly by aerobic glycolysis. ===> FALSE
+96 Erythrocytes of normal shape about 5.7 micrometers diameter are called normocytes. ===> FALSE
+97 Macrocytes are erythrocytes with diameter bigger than 7.7 micrometers. ===> TRUE
+98 Physiological erythrocyte is thicker in the centrum and thinner in the periphery of the cell. ===> FALSE
+99 Erythrocytes contain nucleus. ===> FALSE
+100 Microcytes are erythrocytes with smaller diameter than normal, which can physiologically appear in theperipheral blood. ===> TRUE
+101 Macrocytes are not present in the peripheral blood of healthy adult women. ===> FALSE
+102 Physiological anisocytosis is a slight irregularity in the sizes of red blood cells, which normally occur in ahealthy person. ===> TRUE
+103 Erythrocytosis is a relative or absolute increase in the number of circulating erythrocytes. ===> TRUE
+104 Absolute erythrocytosis can be caused by loss of plasma volume. ===> FALSE
+105 Severe dehydration can causes relative erythrocytosis. ===> TRUE
+106 Physiological polycytemia can be detected in people living for a long period of time at high altitudes. ===> TRUE
+107 Overproduction of red blood cells usually leads to erythrocytopenia. ===> FALSE
+108 The erythrocyte cytoskeleton consists of proteins forming a filamentous network under the lipid bilayer. ===> TRUE
+109 Spherocytes are much more deformable than normal erythrocytes. ===> FALSE
+110 Spherocytes are less able to survive the mechanical stresses imposed by their passage through thecapillaries. ===> TRUE
+111 Erythrocyte's surface-to-volume ratio is in comparison to sphere with the same volume about 30 % smaller. ===> FALSE
+112 High erythrocyte's surface-to-volume ratio is important for better gas diffusion. ===> TRUE
+113 Erythrocytes are not able to pass through capillaries with a diameter smaller than their size. ===> FALSE
+114 The major hemoglobin in adults is HbA. ===> TRUE
+115 The major adult hemoglobin consists of 2 alpha and 2 gama chains. ===> FALSE
+116 Hemoglobin molecule is tetramer consisting of two different pairs of polypeptide chains. ===> TRUE
+117 Molecule of Hb consists of for subunits, each containing one hem and one globin. ===> FALSE
+118 Hem consists of a four-pyrrole ring with an iron in its center and a polypeptide chain. ===> FALSE
+119 Hemoglobin concentration in the blood of healthy adult men is about 165 g/l of the blood. ===> TRUE
+120 Hemoglobin concentration in the blood of healthy adult women is about 165 g/l of the blood. ===> FALSE
+121 Hemoglobin concentration in the blood of healthy newborn is about 165 g/l of the blood. ===> TRUE
+122 Hemoglobin concentration in the blood of healthy newborn could be higher than in healthy adult men. ===> TRUE
+123 Hemoglobin concentration in the blood of healthy adult women is about 125 g/l of the blood. ===> TRUE
+124 Woman has physiologically lower concentration of hemoglobin in the blood than healthy man. ===> TRUE
+125 About 60 % of the erythrocyte's weight is formed by hemoglobin. ===> FALSE
+126 Majority of erythrocyte’s dry weight is formed by hemoglobin. ===> TRUE
+127 Hemoglobin concentration in the blood of healthy adults can decrease during long stay in high altitude. ===> FALSE
+128 Hemoglobin in the blood of healthy adults could contain globin made by two alpha and two gama chains. ===> TRUE
+129 Fetal type of hemoglobin differs from adult type of hemoglobin by the amino acid sequence of peptidechains. ===> TRUE
+130 Fetal type of hemoglobin differs from adult type of hemoglobin by a number of globin molecules. ===> FALSE
+131 HbF differs from HbA by a number of binding sites for oxygen. ===> FALSE
+132 HbA differs from HbF by the abundance in the blood of adult person. ===> TRUE
+133 HbF concentration in the blood of healthy adults is about 3 %. ===> FALSE
+134 HbF is never present in the blood of healthy adult men. ===> FALSE
+135 Fetal type of hemoglobin consists of two alpha and two gamma chains. ===> TRUE
+136 Oxygen has the same binding site on the molecule of hemoglobin as carbon monoxide. ===> TRUE
+137 Oxygen is bound to hemoglobin by oxidation. ===> FALSE
+138 Human hemoglobin molecule has two binding sites for oxygen molecules. ===> FALSE
+139 Methemoglobin contains iron in ferric state. ===> TRUE
+140 Methemoglobin could be converted to hemoglobin by methemoglobin oxidase. ===> FALSE
+141 Methemoglobin can carry carbon monoxide. ===> FALSE
+142 Carbaminohemoglobin contains iron in ferrous state. ===> TRUE
+143 Carbaminohemoglobin has no oxygen-carrying capacity. ===> FALSE
+144 Carbaminohemoglobin could be converted to oxyhemoglobin by methemoglobin reductase. ===> FALSE
+145 Carboxyhemoglobin contains iron in ferrous state. ===> TRUE
+146 Hb affinity to oxygen is lower when temperature rises. ===> TRUE
+147 Rise of blood pH stimulates release of oxygen from Hb. ===> FALSE
+148 Decrease of carbon dioxide concentration in the blood causes increase of Hb affinity to oxygen. ===> TRUE
+149 Mean cell hemoglobin is average amount of hemoglobin per one red cell. ===> TRUE
+150 Mean cell hemoglobin is average hemoglobin concentration in the blood. ===> FALSE
+151 Women compared to men have higher mean cell hemoglobin. ===> FALSE
+152 Physiological value of mean cell hemoglobin is about 30 ng. ===> FALSE
+153 Mean cell hemoglobin in healthy adults is about 325 g/L of red blood cells. ===> FALSE
+154 Mean cell hemoglobin can be lower in sideropenic anemia. ===> TRUE
+155 Mean cell hemoglobin concentration in healthy adult man is about 345 g/L of red blood cells. ===> TRUE
+156 Mean cell hemoglobin concentration is average amount of hemoglobin per one red blood cell. ===> FALSE
+157 Average amount of hemoglobin per one liter of red corpuscles is called mean cell hemoglobinconcentration. ===> TRUE
+158 Red cells in the human blood include about 1 % of reticulocytes. ===> TRUE
+159 Red cells in the human blood include physiologically about 1 % of erythrocytes from which the nucleus hasnot been extruded. ===> FALSE
+160 Volume of normocyte is about 85 microlitres. ===> FALSE
+161 Microcytes have usually volume lower than 80 femtolitres. ===> TRUE
+162 Volume of normal erythrocyte is usually equal to volume of thrombocyte. ===> FALSE
+163 The erythrocyte's cytoskeleton is form mainly by lipids and carbohydrates. ===> FALSE
+164 The erythrocyte's cytoskeleton is attached to the integral and peripheral proteins of cellular membrane. ===> TRUE
+165 The erythrocyte's cytoskeleton is responsible for its membrane stability. ===> TRUE
+166 One of the main components of red blood cells cytoskeleton is spectrin. ===> TRUE
+167 Erythrocytes contain myosin to be more deformable. ===> FALSE
+168 The most important peripheral protein of the red blood cells membrane is Na-K-ATPase. ===> FALSE
+169 Some of the integral proteins of the erythrocytes membrane are involved transport across the membrane. ===> TRUE
+170 The metabolic system of the erythrocyte keeps its level of activity stable during whole life of theerythrocyte. ===> FALSE
+171 The erythrocyte become progressively more fragile during its life. ===> TRUE
+172 The free iron released from old erythrocytes is carried to the spleen for production of new red blood cells. ===> FALSE
+173 The old erythrocytes are mostly destroyed by macrophages. ===> TRUE
+174 The metabolic system of the erythrocytes becomes progressively less active with time. ===> TRUE
+175 The old red blood cells are destroyed also in bone marrow. ===> TRUE
+176 The old RBCs are phagocytized by the tissue macrophages in the liver. ===> TRUE
+177 The spaces between trabeculae of the pulp in the spleen are only 7 µm wide. ===> FALSE
+178 Hemoglobin released during erythrocytes destruction is split into hem and bilirubin. ===> FALSE
+179 Conjugated bilirubin is formed in the liver. ===> TRUE
+180 Conjugated bilirubin is bound to albumin in the blood. ===> FALSE
+181 Conjugated bilirubin is water-soluble. ===> TRUE
+182 Conjugated bilirubin forms the greater part of the total bilirubin in the plasma than free one. ===> FALSE
+183 Free bilirubin gives the indirect van den Bergh reaction. ===> TRUE
+184 Free bilirubin is formed in the bile. ===> FALSE
+185 Free bilirubin concentration in the plasma decreases in hemolytic icterus. ===> FALSE
+186 Bilirubin does not contain iron. ===> TRUE
+187 Bilirubin is a steroid pigment. ===> FALSE
+188 Bilirubin travels from red cell breakdown sites to the hepatocytes combined with the plasma albumin. ===> TRUE
+189 Bilirubin is necessary for the digestion and absorption of fat in the intestine. ===> FALSE
+190 Urobilinogen is formed in the intestine. ===> TRUE
+191 Total bilirubin concentration in the plasma is increased mainly due to free bilirubin in an hemolytic icterus. ===> TRUE
+192 Total bilirubin concentration in the plasma is up to 20 nmol/L in healthy adults. ===> FALSE
+193 Total bilirubin concentration in the plasma is higher in newborns than in adults. ===> TRUE
+194 Urobilinogen can be excreted by the liver and by the kidney. ===> TRUE
+195 Urobilinogen is not present in the urine in healthy person. ===> FALSE
+196 Urobilinogen is formed in the liver. ===> FALSE
+197 Stercobilinogen is the end product of protein metabolism. ===> FALSE
+198 Stercobilinogen is present in the feces. ===> TRUE
+199 Stercobilinogen is formed in the small intestine from stercobilin. ===> FALSE
+200 Iron entering the intestinal cells can be retained within them as ferritin. ===> TRUE
+201 Iron absorption occurs predominantly in the distal part of the small intestine. ===> FALSE
+202 Iron concentration in the plasma is usually higher in man than in women. ===> TRUE
+203 Iron excretion is regulated by the transferrin. ===> FALSE
+204 Iron is bound to transferrin in the plasma. ===> TRUE
+205 Excess iron is excreted predominantly into the urine. ===> FALSE
+206 Iron bound to the Hb makes about 70 % of all iron in the body. ===> TRUE
+207 Iron daily loss is approximately 1 gram in adult men. ===> FALSE
+208 Man has higher iron stores than women. ===> TRUE
+209 Absorption of iron from animal sources is easier than from vegetable food. ===> TRUE
+210 Phytates and tannin stimulate iron absorption. ===> FALSE
+211 Iron can be transported into the enterocyte just in ferric form. ===> FALSE
+212 Vitamin C or alcohol can promote iron absorption. ===> TRUE
+213 Daily iron loss is about 1 milligram. ===> TRUE
+214 Transferrin is important in the iron transport. ===> TRUE
+215 Transferrin is the storage form of iron in the bone marrow. ===> FALSE
+216 Transferrin belongs to gama globulins. ===> FALSE
+217 Ferritin is a complex of apotransferrin and iron. ===> FALSE
+218 Ferritin is the storage form of iron. ===> TRUE
+219 Red blood cells are bigger than normal in patients with sideropenic anemia. ===> FALSE
+220 Red blood cells from patients with sideropenic anemia contain lower amount of hemoglobin. ===> TRUE
+221 Vitamin B12 needs an extrinsic factor to be absorbed. ===> FALSE
+222 Vitamin B12 is water-soluble. ===> TRUE
+223 Vitamin B12 is necessary for formation of coagulum. ===> FALSE
+224 Folic acid is essential for synthesis of nucleic acids. ===> TRUE
+225 Intrinsic factor is necessary for absorption of vitamin B12. ===> TRUE
+226 Intrinsic factor is formed in terminal ileum. ===> FALSE
+227 Intrinsic factor is important for intrinsic pathway of prothrombin formation. ===> FALSE
+228 Inability of human to form intrinsic factor leads to pernicious anemia. ===> TRUE
+229 Intrinsic factor is absorbed with vitamin B6 in the terminal ileum. ===> FALSE
+230 A lack of folic acid causes a failure of nuclear maturation. ===> TRUE
+231 A lack of vitamin B12 causes production of bigger erythrocytes, which are not able to carry oxygen. ===> FALSE
+232 Deficiency of vitamin B12 is associated with increased volume of the erythrocytes. ===> TRUE
+233 Parietal cells in the stomach wall are responsible for secretion of intrinsic factor. ===> TRUE
+234 Macrocytes have lower fragility than normal red blood cells. ===> FALSE
+235 Macrocytes survive in the circulation just few days. ===> FALSE
+236 Vitamin B12 dietary sources are foods of animal origin. ===> TRUE
+237 Vitamin B12 body stores are sufficient for several years. ===> TRUE
+238 Folic acid body stores are bigger than that of vitamin B12. ===> TRUE
+239 A lack of vitamin B12 can cause microcytic anemia. ===> FALSE
+240 A lack of folic acid can cause sideropenic anemia. ===> FALSE
+241 Intrinsic factor is a glycoprotein. ===> TRUE
+242 Hemoglobin concentration in the blood of healthy adult men is independent of plasma concentration oferythropoietin. ===> FALSE
+243 Erythrocytes production is dependent on erythropoietin secretion rate. ===> TRUE
+244 Erythropoietin stimulates production of new erythrocytes. ===> TRUE
+245 Erythropoietin is formed mainly in the liver. ===> FALSE
+246 Erythropoietin is a coagulation factor. ===> FALSE
+247 Main site of erythropoietin production in adults are kidneys. ===> TRUE
+248 Erythrocytes production is stimulated by a decrease of the oxygen level in the arterial blood. ===> TRUE
+249 Upon appropriate stimulation, erythropoietin production can increase a thousand-fold. ===> TRUE
+250 Decreased production of erythropoietin can leads to polyglobulia. ===> FALSE
+251 About 10 % of erythropoietin is physiologically produced by the spleen. ===> FALSE
+252 Production of new lymphocytes is stimulated mainly by the erythropoietin. ===> FALSE
+253 Erythropoietin is produced mainly by peritubular cells localized in the renal cortex. ===> TRUE
+254 Erythropoietin is important for proliferation of erythrocytes progenitor cells in the bone marrow. ===> TRUE
+255 Erythropoietin stimulates maturation of normoblasts into reticulocytes. ===> TRUE
+256 Resting level of erythropoietin is sufficient to stimulate about 80 % of progenitor cells to proliferate. ===> FALSE
+257 The erythropoietin secretion is stimulated by testosteron. ===> TRUE
+258 The erythropoietin secretion is directly proportional to the level of oxygen in the kidneys. ===> FALSE
+259 The action of erythropoietin is augmented by somatotropin. ===> TRUE
+260 Hemopoiesis is stimulated by estrogens. ===> FALSE
+261 Hemopoiesis after birth takes place in the bone marrow. ===> TRUE
+262 Hemopoiesis begins in the bone marrow about the 20th day of gestation. ===> FALSE
+263 In healthy adult man, hemopoiesis is confined only to the ribs and vertebrae. ===> FALSE
+264 The erythropoiesis in healthy newborn babies occurs in almost every bone. ===> TRUE
+265 The erythropoiesis occurs in healthy newborns also in the spleen. ===> FALSE
+266 Wihin a development of fetus, erythrocytes cannot be formed in the lung. ===> TRUE
+267 The erythropoiesis in healthy adults occurs in the cranium. ===> TRUE
+268 The red bone marrow in healthy adults is in the kidney. ===> FALSE
+269 In young children, active hemopoietic marrow is in almost every bone. ===> TRUE
+270 After delivery, the hemopoiesis still occurs in the liver. ===> FALSE
+271 Reticulocyte is a nucleated precursor of erythrocytes. ===> FALSE
+272 Reticulocytes possess mitochondria. ===> TRUE
+273 The reticulocyte is able to produce a hemoglobin. ===> TRUE
+274 The reticulocytes are physiologically present in the peripheral blood in concentration about 5 %. ===> FALSE
+275 Normal erythrocyte is bigger than reticulocyte. ===> FALSE
+276 The red marrow can expand if necessary. ===> TRUE
+277 Normoblast is a precursor of a red blood cell which contains a nucleus. ===> TRUE
+278 Normal bone marrow is able to increase the production of erythrocytes at about twenty times. ===> FALSE
+279 An ascending number of reticulocytes in the peripheral blood is characteristic for lower activity of the bonemarrow. ===> FALSE
+280 Erythrocytes production occurs in the liver in healthy newborn babies. ===> FALSE
+281 Normal population of hemopoietic stem cells is necessary for appropriate erythropoiesis. ===> TRUE
+282 Vasoconstriction during hemostatic process is caused by serotonin. ===> TRUE
+283 Vasoconstriction during hemostatic process could be caused by heparin. ===> FALSE
+284 Vasoconstriction during hemostatic process could occur due to local myogenic contraction. ===> TRUE
+285 Vascular spasm occurs instantaneously. ===> TRUE
+286 Vascular spasm lasts about 1-3 min. ===> FALSE
+287 Vascular spasm is stimulated by serotonin, which is released from erythrocytes. ===> FALSE
+288 Vascular spasm starts about 20 min after injury. ===> FALSE
+289 Vascular spasm is stimulated by serotonin. ===> TRUE
+290 Process of hemocoagulation includes also vascular spasm. ===> FALSE
+291 Vascular spasm is involved in the processes of hemostasis. ===> TRUE
+292 Vascular spasm causes increase of blood flow from damaged vessels. ===> FALSE
+293 Vascular spasm is directly proportional to the damage to the blood vessel wall. ===> TRUE
+294 Vasoconstriction of injured vessel could be caused by parasympathetic vasoconstrictive neurons. ===> FALSE
+295 Vasoconstriction of injured vessel usually lasts about 30 min. ===> TRUE
+296 Serotonin has a vasoconstrictory effect. ===> TRUE
+297 Serotonin is released from platelets during thrombopoiesis. ===> FALSE
+298 Serotonin belongs to group of plasmatic proteins with thrombolytic effect. ===> FALSE
+299 Serotonin is a clotting factor. ===> FALSE
+300 Vasoconstriction can be caused by local myogenic contraction of smooth muscle cells in the vessel wall. ===> TRUE
+301 The thrombocytes are small, nuclear cell fragments. ===> FALSE
+302 The thrombocytes are eliminated from the circulation mainly by the tissue macrophage system. ===> TRUE
+303 Platelets are formed in the liver. ===> FALSE
+304 Platelets are biconvex discs. ===> TRUE
+305 The thrombocytes are about 9 micrometers in diameter. ===> FALSE
+306 The average life span of circulating platelets is about 10 days. ===> TRUE
+307 Old platelets are destroyed by phagocytosis in the liver. ===> TRUE
+308 The normal range for platelets in healthy adults is 150,000 to 400,000 per milliliters. ===> FALSE
+309 Platelets contain mitochondria. ===> TRUE
+310 Platelets contain nucleus. ===> FALSE
+311 Thrombostenin is involved in the process of clot retraction. ===> TRUE
+312 The thrombocytes can release grown factors. ===> TRUE
+313 The thrombocytes release tissue factor. ===> FALSE
+314 The platelet plugging mechanism is extremely important for closing big damage of vessels. ===> FALSE
+315 Platelets contain phospholipids, which have a role in the clotting process. ===> TRUE
+316 The bleeding time tends to decrease when the platelet count is low. ===> FALSE
+317 Vascular inner surface damage can cause stimulation of the thrombocytes. ===> TRUE
+318 Thrombocytopenic purpura is associated with production of agglutinates in the circulation. ===> FALSE
+319 Glycoproteins are present on the surface of platelets. ===> TRUE
+320 Thromboxan A2 can activate thrombocytes. ===> TRUE
+321 Within the process of activation, thrombocytes form processes from their surfaces. ===> TRUE
+322 Platelets are not involved in the process of clot retraction. ===> FALSE
+323 The platelet plug usually occludes the injured vessel, so the blood could not flow throughout the vessel. ===> FALSE
+324 The clot begins to develop in 15 to 20 seconds if the trauma of the vascular wall has been severe. ===> TRUE
+325 The clot begins to develop in 15 to 20 seconds if the trauma of the vascular wall has been has been minor. ===> FALSE
+326 Procoagulants are substances responsible for prevention of clot formation. ===> FALSE
+327 Normally in the blood predominate anticoagulants. ===> TRUE
+328 The first activated clotting factor in the intrinsic pathway of hemocoagulation is tissue factor. ===> FALSE
+329 The first activated clotting factor in the extrinsic pathway of hemocoagulation is fibrinogen. ===> FALSE
+330 The rate limiting factor in causing blood coagulation is usually the formation of prothrombin activator. ===> TRUE
+331 The intrinsic pathway begins in the blood itself. ===> TRUE
+332 Majority of clotting factors is produced by macrophages in the spleen. ===> FALSE
+333 All the cloting factors are proteins present in the plasma. ===> FALSE
+334 Prothrombin activator comprises factor V. ===> TRUE
+335 Prothrombin activator comprises phospholipids. ===> TRUE
+336 The conversion of fibrinogen to fibrin is promoted by thrombin, a proteolytic enzyme. ===> TRUE
+337 The conversion of fibrinogen to fibrin is necessary for platelet plug formation. ===> FALSE
+338 The conversion of fibrinogen to fibrin is followed by fibrin polymerization, which is supported byantithrombin. ===> FALSE
+339 Fibrinogen is a precursor of fibrin monomer. ===> TRUE
+340 Fibrinogen production is vitamin K dependent. ===> FALSE
+341 Fibrinogen level in the plasma is higher in women than in men. ===> TRUE
+342 Fibrinogen is cleaved by thrombin to form fibrinopeptides A and B, which spontaneously polymerize. ===> FALSE
+343 Factor VIII is necessary for the intrinsic coagulation pathway. ===> TRUE
+344 Factor IX is necessary for the extrinsic coagulation pathway. ===> FALSE
+345 Factor VI is called anticlotting globulin. ===> FALSE
+346 Calcium ions can be removed from the blood by Na2EDTA in vitro. ===> TRUE
+347 Calcium ions can be removed from the blood by sodium citrate in vitro. ===> TRUE
+348 Calcium ions can be removed from the blood by heparin. ===> FALSE
+349 Vitamin K dependent clotting factors production is inhibited by coumarin. ===> TRUE
+350 Vitamin K dependent clotting factors production is decreased in patients suffered from hemolytic icterus. ===> FALSE
+351 Vitamin K dependent clotting factors include prothrombin. ===> TRUE
+352 Vitamin K is necessary for the formation of factor VII. ===> TRUE
+353 Vitamin K is inactivated by sodium citrate. ===> FALSE
+354 Plasminogen can be activated by urokinase. ===> TRUE
+355 Plasminogen splits fibrin threads. ===> FALSE
+356 Heparin enhances effect of antithrombin III. ===> TRUE
+357 Heparin is necessary for production of blood clot. ===> FALSE
+358 Heparin does not belongs into the group of substances with vitamin K antagonistic activity. ===> TRUE
+359 Heparin is produced in the pericapillary connective tissue. ===> TRUE
+360 Heparin in complex with antithrombin III is able to react with activated clotting factor IX. ===> TRUE
+361 Thrombin concentration in the blood can be lowered by the action of procoagulant substances. ===> FALSE
+362 Fibrin threads act as procoagulant substance. ===> FALSE
+363 Majority of the thrombin becomes adsorbed to the fibrin threads. ===> TRUE
+364 Antithrombin III inactivates about 40 % of the thrombin. ===> FALSE
+365 Thrombin is inactivated within 15 minutes after blood clot formation. ===> TRUE
+366 Tissue macrophages are not able to remove procoagulants from the blood. ===> FALSE
+367 Plasminogen is not under physiological conditions present in blood. ===> FALSE
+368 Plasmin is able to digest fibrinogen. ===> TRUE
+369 Plasmin is another name for profibrinolysin. ===> FALSE
+370 Urokinase is important in the lysis of clot developed in the renal tubules. ===> TRUE
+371 Quick's prothrombin time is prolonged in hemophilia. ===> FALSE
+372 Quick's prothrombin time is prolonged in vitamin K deficiency. ===> TRUE
+373 Quick's prothrombin time does not depend on plasma dilution. ===> FALSE
+374 Sodium citrate is usually used as an anticoagulant "in vivo". ===> FALSE
+375 Heparin can be used for prevention of blood coagulation outside the body. ===> TRUE
+376 On the surface of erythrocytes there are several hundreds of antigens. ===> TRUE
+377 Bloods are divided into different groups in accordance with the types of antigens present in the plasma. ===> FALSE
+378 The blood groups are constant throughout life. ===> TRUE
+379 Blood group's antigen protein can acts as a membrane transporter. ===> TRUE
+380 The agglutinogens are hereditary. ===> TRUE
+381 The agglutinins are hereditary. ===> FALSE
+382 Agglutinins of AB0 system are present in the plasma. ===> TRUE
+383 Agglutinins of AB0 system start to be formed during fetal life. ===> FALSE
+384 Agglutinins of AB0 system are situated on the surfaces of red blood cells. ===> FALSE
+385 Agglutinins of AB0 system are mucopolysacharides. ===> FALSE
+386 Agglutinogens are antigens localized on the surface of the erythrocytes. ===> TRUE
+387 Agglutinogens are glycoproteins. ===> TRUE
+388 A maximum titer of agglutinins is usually reached at adulthood. ===> FALSE
+389 Antibodies against A antigen of red blood cells cause clumping of B erythrocytes. ===> FALSE
+390 Antibodies against B antigen of red blood cells cause clumping of B erythrocytes. ===> TRUE
+391 Antibodies against A antigen of red blood cells pass easily from maternal to fetal blood across the placentalbarrier. ===> FALSE
+392 Antibodies against A and B antigen of red blood cells are predominantly immunoglobulins E. ===> FALSE
+393 Antibodies against A and B antigen of erythrocytes can naturally occur in the plasma of an adult person. ===> TRUE
+394 Agglutinogen H is present on the surface of erythrocytes of blood group 0. ===> TRUE
+395 The transfused cells are likely to be affected by an antigen antibody reaction when group 0 is transfused toa group AB person. ===> FALSE
+396 A person with blood group 0 has antigen H in his plasma. ===> FALSE
+397 A person with blood group AB cannot have child with genotype 00. ===> TRUE
+398 A person with blood group 0 can have father with blood group B. ===> TRUE
+399 A person with blood group A can have a child with genotype B0. ===> TRUE
+400 A person with blood group B may have the genotype just BB. ===> FALSE
+401 Agglutination is immune reaction. ===> TRUE
+402 Agglutination is another term for hemolysis. ===> FALSE
+403 Agglutination is enzymatic reaction. ===> FALSE
+404 Anti-RhD agglutinins can occur in RhD-negative person, who had been previously sensitized by transfusionof RhD-positive blood. ===> TRUE
+405 The person with D-antigen can have also C antigen. ===> TRUE
+406 Innate anti-RhD agglutinins occur only in RhD-negative persons. ===> FALSE
+407 The anti-RhD agglutinins are immunoglobulins of type IgM. ===> FALSE
+408 The anti-Rh agglutinins develop in the plasma of RhD-positive woman, who carried RhD-negative infant. ===> FALSE
+409 Fetal erythroblastosis is associated with rapid erythropoiesis. ===> TRUE
+410 Fetal erythroblastosis arises when RhD-negative mother carries RhD-negative fetus. ===> FALSE
+411 Fetal erythroblastosis arises when mother has blood group A and fetus has blood group 0. ===> FALSE
+412 Fetal erythroblastosis is characterized by progressive coagulation. ===> FALSE
+413 Transfusion of incompatible blood usually causes agglutination of donor's erythrocytes. ===> TRUE
+414 Transfusion of incompatible blood may result in acute renal failure. ===> TRUE
+415 Transfusion of incompatible blood can cause hemoglobinuria and icterus. ===> TRUE
+416 Cross matching of the blood is used for blood typing. ===> FALSE
+417 Cross matching of the blood determines the compatibility of donor's and recipient's blood beforetransfusion. ===> TRUE
+418 Cross matching of the blood tests donor's cells against recipient's plasma. ===> TRUE
+419 Cross matching of the blood tests donor's plasma against recipient's cells. ===> TRUE
+420 Cross matching of the blood serves for evaluation of ability a person to produce platelet plug. ===> FALSE
+421 The transfusion of RhD-positive blood to an RhD-negative person usually does not cause immediatereaction. ===> TRUE
+422 The leukocytes in the blood of healthy adults are more numerous than erythrocytes. ===> FALSE
+423 The granulocytes are capable to cross capillary walls. ===> TRUE
+424 The granulocytes do not contain nucleus. ===> FALSE
+425 Neutrophil granulocytes are attracted chemically to sites of inflammation. ===> TRUE
+426 Neutrophil granulocytes developed to macrophages. ===> FALSE
+427 Neutrophil granulocytes are present only in the circulation. ===> FALSE
+428 Neutrophil granulocytes are the most numerous leukocytes in blood. ===> TRUE
+429 Neutrophil granulocytes are smaller than thrombocytes. ===> FALSE
+430 Neutrophil granulocytes can release vasodilators. ===> TRUE
+431 Eosinophils are important in parasitic diseases. ===> TRUE
+432 Basophils are more numerous than monocytes in healthy adults. ===> FALSE
+433 Basophils contain inflammatory mediators in their vesicles. ===> TRUE
+434 Basophils are produced in the peripheral lymphoid organs. ===> FALSE
+435 Basophils are less numerous than eosinophils in healthy adults. ===> TRUE
+436 Basophils enter tissue and there are transformed into macrophages. ===> FALSE
+437 Monocytes are produced in the bone marrow. ===> TRUE
+438 Monocytes release histamine. ===> FALSE
+439 NK cells belongs to group of lymphocytes. ===> TRUE
+440 Mast cells release histamine. ===> TRUE
+441 Mast cells differentiate from bone marrow cells. ===> TRUE
+442 Mature mast cells are normally present in the blood. ===> FALSE
+443 Macrophages secrete antibodies. ===> FALSE
+444 Innate defense mechanisms does not include immunocompetent lymphocytes. ===> TRUE
+445 Innate defense mechanisms includes the gastric juice. ===> TRUE
+446 Tissue macrophages originate from monocytes. ===> TRUE
+447 Tissue macrophages stimulated by cytokines are called plasma cells. ===> FALSE
+448 Tissue macrophages produce antibodies. ===> FALSE
+449 Opsonization is coating of the bacteria by specific antigens. ===> FALSE
+450 Opsonization may be caused by some components of complement. ===> TRUE
+451 Opsonization is a process by which microbes are directly destructed. ===> FALSE
+452 Chemotaxis is a process including also margination. ===> TRUE
+453 Chemotaxis involves also adhesion molecules on the endothelial cells. ===> TRUE
+454 Chemotaxins are molecules released by cells in the injured area. ===> TRUE
+455 Chemotaxis is crucial process of specific immunity. ===> FALSE
+456 Movement of leukocytes from the blood into the damaged area is limited to neutrophils. ===> FALSE
+457 The complement system is involved in the extrinsic pathway of blood clotting. ===> FALSE
+458 The complement system is responsible for direct destruction of invading microbes. ===> TRUE
+459 Antibodies are required to activate the complement protein C1. ===> TRUE
+460 Interferons nonspecifically inhibit viral replication. ===> TRUE
+461 C-reactive protein acts as an interferon. ===> FALSE
+462 C-reactive protein's plasma concentration is increased during inflammation. ===> TRUE
+463 Plasma cells differentiate from B lymphocytes. ===> TRUE
+464 B-lymphocytes provide humoral immunity. ===> TRUE
+465 B-lymphocytes are formed in the thymus. ===> FALSE
+466 B-lymphocytes mature in bone marrow. ===> TRUE
+467 T-lymphocytes contain granules with antibodies in their cytoplasm. ===> FALSE
+468 Immunoglobulins are produced by NK-cells during virus infection. ===> FALSE
+469 IgG antibodies are the most abundant antibodies. ===> TRUE
+470 Each IgG molecule is composed of four polypeptide chain. ===> TRUE
+471 Different classes of immunoglobulins are determined by the amino acid sequences in the heavy chains. ===> TRUE
+472 The amino acid sequences of the Fc portion are identical for all classes of immunoglobulins. ===> FALSE
+473 IgE antibodies participate in defence against multicellular parasites. ===> TRUE
+474 IgE antibodies are produced by complement system. ===> FALSE
+475 IgA antibodies are the major antibodies of the mother milk. ===> TRUE
+476 IgA antibodies mediate allergic response. ===> FALSE
+477 IgD antibodies provide the bulk of specific immunity against bacteria. ===> FALSE
+478 Antibodies can act directly as opsonins. ===> TRUE
+479 T-lymphocytes become immunologically competent in the thymus. ===> TRUE
+480 T-lymphocytes are transformed into NK-cells after antigen presentation. ===> FALSE
+481 Delayed hypersensitivity results from over-activity of cell-mediated immunity. ===> TRUE
+482 Delayed hypersensitivity is called anaphylaxis. ===> FALSE
+483 Immediate hypersensitivity is associated with histamine-antagonist overproduction. ===> FALSE
+484 Acute phase proteins are produced in the liver. ===> TRUE
+485 Helper T cells secrete interleukins. ===> TRUE

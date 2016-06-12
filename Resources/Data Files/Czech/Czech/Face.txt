@@ -1,0 +1,9 @@
+# Prefix_A = [CZ]\n\n\n , Prefix_B = [EN]\n\n\n
+// á č ď é ě í ň ó ř š ť ú ů ý ž
+
+vlasy = hair
+oko (2 oči) = eye (2 eyes)
+ucho (2 uši) = ear (2 ears)
+nos = nose
+pusa = mouth
+hlava = face

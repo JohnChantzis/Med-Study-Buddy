@@ -1,0 +1,26 @@
+// á č ď é ě í ň ó ř š ť ú ů ý ž
+
+// 1
+malý = velký/vysoký
+chudý = bochatý
+hubený = tlustý
+štíhlý = tlustý
+zdravý = nemocný
+slabý = silný
+lehký = těžký
+studený = teplý
+mladý = starý
+nový = starý
+čistý = špinavý
+levný = drahý
+krasný = ošklivý/škaredý
+veselý = smutný
+
+// 2
+chytrý = hloupý
+široký = úzký
+hodný = zlý
+dobrý = špatný
+bílý = černý
+zajímavý = nudný
+bezpečný = nebezpečný

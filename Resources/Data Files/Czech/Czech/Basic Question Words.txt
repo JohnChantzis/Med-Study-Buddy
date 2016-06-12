@@ -1,0 +1,26 @@
+# Prefix_A = [CZ]\n\n\n , Prefix_B = [EN]\n\n\n
+// á č ď é ě í ň ó ř š ť ú ů ý ž
+
+kdo? = who?
+co? = what?
+jak? = how?
+odkud? = where from?
+jaký? = what like? / which?
+kde? = where?
+kdy? = when?
+proč? = why?
+protože = because (answer on why)
+kam? = where to?
+čí? = whose?
+Jak často? = how often?
+v kolik hodin? = at what time?
+
+
+někdy = sometimes
+nikdy = never
+vždycky = always
+za (e.g. za den) = per (e.g. per day)
+
+dvakrát = twice
+
+žádný = none/any

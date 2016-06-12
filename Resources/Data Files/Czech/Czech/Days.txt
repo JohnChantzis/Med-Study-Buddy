@@ -1,0 +1,11 @@
+# Prefix_A = [CZ]\n\n\n , Prefix_B = [EN]\n\n\n
+// á č ď é ě í ň ó ř š ť ú ů ý ž
+
+pondělí = Monday
+úterý = Tuesday
+středa = Wednesday
+čtvrtek = Thursday
+pátek = Friday
+sobota = Saturday
+neděle = Sunday
+

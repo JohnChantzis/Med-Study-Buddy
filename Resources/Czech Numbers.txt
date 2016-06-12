@@ -1,0 +1,139 @@
+třináct
+čtyři tisíce dvacet devět
+devadesát čtyři
+nula
+devět set jedenáct
+dvě stě sedmdesát osm
+osm tisíc dvě stě čtrnáct
+jeden tisíc padesát
+tři tisíce tři sta osmdesát jedna
+sto dvacet
+devět tisíc čtyři sta devadesát dva
+čtyři tisíce třicet pět
+dva tisíce sto
+sedm set jedenáct
+sto šestnáct
+deset
+
+
+
+// test 2015
+ctrnact
+pět set deset
+jeden tisic tri sta
+sedmdesat osm
+dva tisice devět set
+jedenáct
+sto patnáct
+jeden tisic šest set třicet
+osm set devet
+třicet
+sedmset sesdesat dva
+tri sta devadesat
+patnáct tisice jeden
+devatenáct
+tri sta dvanact
+ctiri sta sesdesat
+jeden tisíc sedm set třicet
+sto pět
+dvanact
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ANSWERS:
+
+   13
+   94
+  278
+  120
+9.492
+4.035
+  711
+  116
+8.214
+1.050
+3.381
+    0
+  911
+4.029
+2.100
+   10
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+// test 2015
+14. 510. 1300. 78. 2900. 11. 115. 1630.
+ 809. 30. 762. 390. 0. 15001. 19. 312.
+ 460. 1730. 105. 12

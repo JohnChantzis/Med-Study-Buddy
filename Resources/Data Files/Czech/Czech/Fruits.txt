@@ -1,0 +1,10 @@
+# Prefix_A = [CZ]\n\n\n , Prefix_B = [EN]\n\n\n
+// á č ď é ě í ň ó ř š ť ú ů ý ž
+
+pomeranč = orange
+pomerančový džus = orange juice
+ananas = pineapple
+jablko = apple
+broskev = peach
+meloun = watermelon
+zmrzlina = ice cream

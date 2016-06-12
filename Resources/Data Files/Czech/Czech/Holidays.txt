@@ -1,0 +1,9 @@
+# Prefix_A = [CZ]\n\n\n , Prefix_B = [EN]\n\n\n
+// á č ď é ě í ň ó ř š ť ú ů ý ž
+
+Všechno nejlepší k narozeninám! = Happy Birthday
+Veselé Velikonoce! = Happy Easter
+Hodně štěstí! = Good luck
+Veselé Vánoce! = Merry Christmas
+Šťastný nový rok! = Happy New Year
+Blahopřeji! = Congratulations

@@ -1,0 +1,29 @@
+# Prefix_A = [CZ]\n\n\n , Prefix_B = [EN]\n\n\n
+// á č ď é ě í ň ó ř š ť ú ů ý ž
+
+taška = bag
+batoh = backpack
+kabát = coat
+bunda = jacket
+plást' = cloak/coat
+sako = jacket/blazer
+svetr = sweater
+mikina = jumper
+kalhoty = trousers/pants
+sukně = skirt
+
+triko/tričko = T-shirt
+košile = shirt
+halenka = blouse
+podprsenka = bra
+kalhotky = panties
+slipy = slips/briefs
+trenky = short
+
+punčocháče = tights
+ponožky = socks
+čepice = cap
+šála = scarf
+rukavice = gloves
+plavky = swimwear
+pyžamo = pyjamas

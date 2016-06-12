@@ -1,0 +1,8 @@
+# Prefix_A = [CZ]\n\n\n , Prefix_B = [EN]\n\n\n
+// á č ď é ě í ň ó ř š ť ú ů ý ž
+
+narozeniny = birthday
+Vánoce = Christmas
+Velikonoce = Easter
+
+žádný = none/any

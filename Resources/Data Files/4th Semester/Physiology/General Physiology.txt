@@ -1,0 +1,404 @@
+// General Physiology - GM - 2015/2016 15.10.2015
+1 Homeostasis refers to maintaining a stable internal environment. ===> TRUE
+2 The concept of homeostasis refers only to the regulation of body temperature. ===> FALSE
+3 In a negative feedback loop, the effector organ produces changes that are opposite in directionto the change produced by the initial stimulus. ===> TRUE
+4 In a negative feedback loop, the effector acts to cause changes in the internal environmentthat compensate for the initial deviations that are detected by the sensor. ===> TRUE
+5 Positive feedback loops serve to amplify changes and may be a part of the action of an overallnegative feedback mechanism. ===> TRUE
+6 Positive feedback is less common in nature than negative feedback. ===> TRUE
+7 Feedforward regulation anticipates changes in regulated variables in order to prevent largechanges in physiological parameters. ===> TRUE
+8 Total body water accounts for 40% of body weight. ===> FALSE
+9 The normal total body water is 42 liters. ===> TRUE
+10 Most of the water in the human body is found in the interstitial fluid compartment. ===> FALSE
+11 Interstitial fluid is the fluid that bathes all of the body´s cells including blood cells. ===> FALSE
+12 The normal interstitial fluid volume is 10.5 liters. ===> TRUE
+13 Approximately two-thirds of total body water are in the extracellular compartment. ===> FALSE
+14 The extracellular compartment refers to the fluid within cells. ===> FALSE
+15 The extracellular fluid accounts for 15 percent of body weight. ===> FALSE
+16 The normal extracellular fluid volume is 14 liters. ===> TRUE
+17 The body´s internal environment is the intracellular fluid. ===> FALSE
+18 Of the extracellular fluid, 20-25 percent is plasma. ===> TRUE
+19 Of the extracellular fluid, 75-80 percent is interstitial fluid. ===> TRUE
+20 All cells communicate directly by gap junctions. ===> FALSE
+21 Connexin is an important component of gap junction. ===> TRUE
+22 Connexin is an important component of sarcoplasmic reticulum. ===> FALSE
+23 Connexin is an important component of synaptic vesicle. ===> FALSE
+24 The cell membrane is composed primarily of phospholipids and proteins. ===> TRUE
+25 The cell membrane has hydrophobic heads of lipid molecules pointing to the center of themembrane. ===> FALSE
+26 A phospholipid is an example of an amphiphatic molecule. ===> TRUE
+27 A phospholipid is an example of a steroid. ===> FALSE
+28 A phospholipid is an example of a glycoprotein. ===> FALSE
+29 A phospholipid is an example of a water soluble molecule. ===> FALSE
+30 Phospholipids move in the plane of the bilayer. ===> TRUE
+31 Phospholipids form ion channels through the membrane. ===> FALSE
+32 The ion present in highest concentration inside most cells is potassium. ===> TRUE
+33 Extracellular fluid differs markedly in composition from the fluid inside cells. ===> TRUE
+34 The ion present in highest concentration inside most cells is sodium. ===> FALSE
+35 Extracellular fluid has a lower potassium ions concentration than intracellular fluid. ===> TRUE
+36 Intracellular fluid has a lower sodium concentration than extracellular fluid. ===> TRUE
+37 Extracellular fluid has a higher protein concentration than intracellular fluid. ===> FALSE
+38 The intracellular concentration of potassium ions (in mmol/L) is 150. ===> TRUE
+39 The extracellular concentration of sodium ions (in mmol/L) is 145. ===> TRUE
+40 The intracellular concentration of sodium ions (in mmol/L) is 4. ===> FALSE
+41 The extracellular concentration of potassium ions (in mmol/L) is 10. ===> FALSE
+42 The cell membrane does not allow movement of oxygen and carbon dioxide across it. ===> FALSE
+43 The movement of of water across a cell membrane occurs by osmosis. ===> TRUE
+44 The movement of of water across a cell membrane occurs by facilitated diffusion. ===> FALSE
+45 Proteins account for most of the total osmotic pressure of the plasma. ===> FALSE
+46 Electrolytes account for most of the total osmotic pressure of the plasma. ===> TRUE
+47 Diffusion results in net movement of molecules from regions of low concentration to regions ofhigh concentration. ===> FALSE
+48 Active transport across the membrane requires energy from ATP. ===> TRUE
+49 Na+ - H+ exchange is an example of primary active transport. ===> FALSE
+50 Facilitated diffusion requires carrier proteins in the cell membrane. ===> TRUE
+51 Solution of sodium chloride and glucose that are of equal molality exert similar osmoticpressure. ===> FALSE
+52 Active transport means a net movement of a substance from the region of lower to the regionof higher concentration. ===> TRUE
+53 A substance can only be accumulated against its electrochemical gradient by active transport. ===> TRUE
+54 Facilitated diffusion is a form of secondary active transport. ===> FALSE
+55 Na+/K+ pump is constantly active. ===> TRUE
+56 Na+/K+ pump transports an equal number of Na+ and K+ with each cycle. ===> FALSE
+57 Na+/K+ pump transports actively Na+ out of the cell. ===> TRUE
+58 Na+/K+ pump transports actively K+ into the cell. ===> TRUE
+59 Na+/K+ pump is important for maintaining a constant cell volume. ===> TRUE
+60 Na+/K+ ATPase exchanges extracellular Na+ for intracellular K+. ===> FALSE
+61 Na+/K+ ATPase is an ion channel. ===> FALSE
+62 Diffusion is the net movement of molecules or ions from regions of higher to regions of lowerconcentration. ===> TRUE
+63 The passage of glucose, amino acids, and other large polar molecules through the cellmembrane is mediated by carrier proteins in the cell membrane. ===> TRUE
+64 The rate of diffusion through a membrane is indirectly proportional to the surface area of themembrane. ===> FALSE
+65 The plasma has significantly more water than interstitial fluid. ===> FALSE
+66 Exocytosis is a route by which membrane impermeable molecules can be released into theextracellular fluid. ===> TRUE
+67 Exocytosis takes up large molecules from the extracellular space. ===> FALSE
+68 Endocytosis secretes large molecules into the extracellular space. ===> FALSE
+69 Ion channels in a cell membrane permit the selective passage of Na+ and K+. ===> TRUE
+70 The largest percentage of body water is located in the intracellular fluid. ===> TRUE
+71 Osmosis is a special case of facilitated diffusion. ===> FALSE
+72 Molality of a solution is the number of moles of a solute per kilogram of solvent. ===> TRUE
+73 Osmolarity of a solution is the numer of osmoles per liter of a solution. ===> TRUE
+74 The solution with the higher osmolality has the lower osmotic pressure. ===> FALSE
+75 The solution with the higher osmolality has the lower concentration of water. ===> TRUE
+76 100 mmol/L of NaCl would have an osmolarity of 200 mOsmol/L. ===> TRUE
+77 200 mOsmol/L of NaCl would be hypoosmotic. ===> TRUE
+78 The watery medium that surrounds a cell is known as cytosol. ===> FALSE
+79 Cells in a hypotonic solution lose water and shrink. ===> FALSE
+80 Cells in a hypertonic solution gain water and swell. ===> FALSE
+81 In epithelial cells, the permeability and transport characteristics of the apical and basolateralmembranes are equal. ===> FALSE
+82 The cytoplasm of the cells contains negatively charged organic ions that cannot leave the cell. ===> TRUE
+83 If K+ were the only diffusible ion, the concentration of K+ on the inside and outside of the cellwould reach an equilibrium. ===> TRUE
+84 The diffusible ion that is most important in the establishment of the resting membrane potentialis Ca2+. ===> FALSE
+85 The Na+/K+ pump contributes to the membrane potential because it pumps more Na+ out thanK+ in. ===> TRUE
+86 Na+ is more highly concentrated inside than outside the cell. ===> FALSE
+87 In almost all resting cells, the plasma membrane is much more permeable to Na+ than to K+. ===> FALSE
+88 At rest, the inside of the cell is positively charged compared to the outside. ===> FALSE
+89 A typical neuron would have a resting membrane potential of about - 70 mV. ===> TRUE
+90 Equilibrium potential for K+ is near the resting membrane potential. ===> TRUE
+91 The potential differences across the plasma membranes are small and are measured inmicrovolts. ===> FALSE
+92 The resting membrane potential is generated across the plasma membrane largely because ofthe movement of Na+ out of the cell down its concentration gradient. ===> FALSE
+93 A sodium channel that opens in response to depolarization of the membrane to threshold is avoltage-gated channel. ===> TRUE
+94 Neuronal voltage-gated channels become activated at approximately - 30 mV. ===> FALSE
+95 Regadless of the size of the stimulus, depolarization of excitable membrane triggers an actionpotential. ===> FALSE
+96 In the nervous system, the strength of the stimulus is coded into the frequency of actionpotentials generated. ===> TRUE
+97 Action potentials are all-or-none events. ===> TRUE
+98 For an action potential to occur, the stimulus must reach or exceed threshold. ===> TRUE
+99 The axon hillock region expresses a high density of voltage-gated Na+ channels. ===> TRUE
+100 The nodes of Ranvier are covered by Schwann cells. ===> FALSE
+101 Schwann cells within the central nervous system produce myelin. ===> FALSE
+102 The permeability of the axonal membrane to Na+ and K+ is regulated by gates. ===> TRUE
+103 At the peak of the action potential, the membrane potential is close to but less positive than theNa+ equilibrium potential. ===> TRUE
+104 During action potential of a neuron or striated muscle, Na+ is completely exchanged with K+. ===> FALSE
+105 During action potential of a neuron or striated muscle, repolarization is provided by opening ofNa+ channels. ===> FALSE
+106 During action potential of a neuron or striated muscle, K+ channels are closed earlier than Na+channels. ===> FALSE
+107 During the rising phase of an action potential, voltage-gated Na+ channels open. ===> TRUE
+108 During the initial repolarization phase of the action potential of an axon, K+ channels open. ===> TRUE
+109 The opening of Na+ gates in response to depolarization allows Na+ to diffuse into the axon,thus further depolarizing the membrane. ===> TRUE
+110 The opening of K+ gates and outward diffusion of K+ causes the reestablishment of the restingmembrane potential. ===> TRUE
+111 Hyperpolarization phase of the action potential of a neuron is due to the prolonged opening ofvoltage-gated K+ channels. ===> TRUE
+112 During the depolarization, the transmembrane potential reaches the equilibrium potential forK+. ===> FALSE
+113 During the depolarization, the membrane is in the relative refractory period. ===> FALSE
+114 During the relative refractory period, the membrane becomes inexcitable. ===> FALSE
+115 During the absolute refractory period of the action potential, if a second stimulus is applied tothe neuron, a second action potential will not be generated. ===> TRUE
+116 The absolute refractory period refers to that time during which only suprathreshold stimulus willlead to a generation of a new action potential. ===> FALSE
+117 The total concentrations of Na+ and K+ in the axon and the extracellular fluid are notsignificantly changed during an action potential. ===> TRUE
+118 Active transport processes are not directly involved in the production of an action potential. ===> TRUE
+119 Both depolarization and repolarization are produced by the diffusion of ions down theirconcentration gradients. ===> TRUE
+120 The length of time that the Na+ and K+ gates stay open during an action potential isdependent on the strength of the stimulus. ===> FALSE
+121 The amplitude of action potential of an axon is dependent on the strength of the stimulus. ===> FALSE
+122 Action potentials occur in excitable membranes. ===> TRUE
+123 One action potential serves the depolarization stimulus for production of the next actionpotential in the axon. ===> TRUE
+124 Action potentials can be summed. ===> FALSE
+125 Action potential duration is constant for a given cell type under constant conditions. ===> TRUE
+126 Action potential can be a depolarization or a hyperpolarization. ===> FALSE
+127 Conduction velocity of an action potential down an axon would decrease with an increase inaxon diameter. ===> FALSE
+128 In myelinated axons, action potentials are produced at the nodes of Ranvier. ===> TRUE
+129 The nodes of Ranvier have a high concentration of K+ leak channels and a low concentrationof voltage-gated K+ channels. ===> FALSE
+130 Saltatory conduction of nerve impulses occurs in unmyelinated axons. ===> FALSE
+131 Conduction of action potential in the myelinated nerve fiber is slower than in the unmyelinatedfibre. ===> FALSE
+132 Conduction velocity of action potential in a particular axon is related to the strength of thestimulus. ===> FALSE
+133 An action potential is conducted without decrement. ===> TRUE
+134 Conduction velocities of nerve impulses range from 0,5 m/sec to about 100 m/sec. ===> TRUE
+135 Graded potential is a transmembrane potential change of stereotyped shape. ===> FALSE
+136 Graded potential has no threshold. ===> TRUE
+137 Graded potential has no refractory period. ===> TRUE
+138 Graded potential amplitude is independent of the size of the stimulus. ===> FALSE
+139 Graded potential diminishes in strength over distance. ===> TRUE
+140 Graded potential is conducted without decrement. ===> FALSE
+141 Graded potential is produced only at the node of Ranvier. ===> FALSE
+142 Threshold potential is the membrane potential at which an action potential is initiated. ===> TRUE
+143 Electrical signals in the dendrites and cell body of a neuron are graded potentials. ===> TRUE
+144 Graded potentials are all-or-none events. ===> FALSE
+145 Graded potentials are suitable as long-distance signals, whereas action potentials decayquickly. ===> FALSE
+146 Electrical synapses require the presence of gap junctions. ===> TRUE
+147 Receptor and synaptic potentials increase with the size of the stimulus that generates them. ===> TRUE
+148 Receptor and synaptic potentials in comparison with action potentials involve large changes inthe membrane potential. ===> FALSE
+149 When a membrane potential is less negative than the resting level, the membrane is said to behyperpolarized. ===> FALSE
+150 Excitatory postsynaptic potentials (EPSPs) are all or none in nature. ===> FALSE
+151 Excitatory postsynaptic potentials (EPSPs) may result from the opening of Na+ gates uponstimulation. ===> TRUE
+152 Excitatory postsynaptic potentials (EPSPs) are graded and capable of summation. ===> TRUE
+153 Excitatory postsynaptic potentials (EPSPs) decrease in amplitude as they are conducted. ===> TRUE
+154 After an excitatory postsynaptic potential (EPSP) the postsynapric cell passes through arefractory period. ===> FALSE
+155 Inhibitory postsynaptic potentials (IPSPs) are depolarizing potentials. ===> FALSE
+156 A nerve cell consists of a single dendrite, cell body and a few axons. ===> FALSE
+157 Processes that carry impulses to other neurons are synapses. ===> FALSE
+158 The axon hillock is the portion where an axon joins the cell body. ===> TRUE
+159 The junction between two nerve cells is called synapse. ===> TRUE
+160 The duration of a nerve impulse is approximately a millisecond. ===> TRUE
+161 Afferent neurons transmit information out of the central nervous system to effector cells. ===> FALSE
+162 Chemical messengers involved in local communication between cells are known as paracrineagents. ===> TRUE
+163 Autocrine agents are secreted into the intracellular fluid. ===> FALSE
+164 In chemical synapses, neurotransmitters are packaged in synaptic vesicles and released byexocytosis. ===> TRUE
+165 The ion that must flow into the presynaptic neuron ending through voltage-gated channels toactivate the release of a neurotransmitter is calcium. ===> TRUE
+166 Calcium ions diffuse across the synaptic cleft to result in depolarization of the skeletal musclemembrane. ===> FALSE
+167 The release of a neurotransmitter from the presynaptic terminal is dependent on the activationof intracellular protein kinases. ===> FALSE
+168 Chemical synapses conduct impulses from postsynaptic to presynaptic cell. ===> FALSE
+169 At a chemical synapse, plasma membrane of presynaptic and postsynaptic neurons are fusedtogether. ===> FALSE
+170 As the frequency of action potentials in a presynaptic neuron increases, the number ofvesicles undergoing exocytosis increases, and the number of released neurotransmittermolecules increases. ===> TRUE
+171 The neurotransmitter molecules released from the presynaptic axon terminals are absorbed byendocytosis into the postsynaptic membrane and reutilized. ===> FALSE
+172 Synaptic delay is the time between the arrival of the action potential at a presynaptic terminaland the membrane-potential changes in the postsynaptic cell. ===> TRUE
+173 At a chemical synapse, a signal is transmitted across the synaptic cleft by local current. ===> FALSE
+174 Ion channels of the postsynaptic plasma membrane belong to the class of channels whosefunction is controlled by a change in voltage. ===> FALSE
+175 Chemical synapses conduct impulses by neurotransmitters. ===> TRUE
+176 A substance can act as a neurotransmitter at one type of receptor. ===> TRUE
+177 Binding of the neurotransmitter to the receptor causing the opening of chemically regulatedgates of ion channels. ===> TRUE
+178 Neurons that release acetylcholine are called cholinergic neurons. ===> TRUE
+179 Acetylcholine is usually synthesized from choline and acetyl coenzyme A in the cell body of aneuron. ===> FALSE
+180 Acetylcholine is a neurotransmitter of all the sympathetic neurons. ===> FALSE
+181 Acetylcholine precursor is amino acid tyrosine. ===> FALSE
+182 Acetylcholine is thought to act on the same type of receptor in sympathetic andparasympathetic ganglia. ===> TRUE
+183 After acetylcholine acts at the synapse, it is inactivated by the enzyme cholinacetyltransferase(ChAT). ===> FALSE
+184 Spatial summation occurs when inputs from several axons arrive simultaneously at the samepostsynaptic cell. ===> TRUE
+185 The succesive activity of presynaptic axon terminals causing succesive waves of transmitterrelease is known as temporal summation. ===> TRUE
+186 Excitatory neurotransmitters trigger the opening of voltage-gated ion channels. ===> TRUE
+187 Muscarinic receptors are stimulated by acetylcholine. ===> TRUE
+188 Muscarinic receptors bind norepinephrine. ===> FALSE
+189 Muscarinic receptors are located on the motor end-plates. ===> FALSE
+190 Nicotinic receptors are closed until acetylcholine molecules bind to the receptor proteins. ===> TRUE
+191 Nicotinic receptors are responsible for decreasing the excitability of sympatheticpostganglionic neurons. ===> FALSE
+192 Nicotinic receptor contains an ion channel. ===> TRUE
+193 Nicotinic receptors belong to the family of adrenergic receptors. ===> FALSE
+194 Curare abolishes the muscular contraction in response to an electrical stimulus applied directlyto a muscle. ===> FALSE
+195 Curare blocks muscarinic receptor. ===> FALSE
+196 Curare has the same effect as nicotine. ===> FALSE
+197 Curare competes with acetylcholine for attachment to the postsynaptic receptor. ===> TRUE
+198 Acetylcholinesterase destroys acetylcholine. ===> TRUE
+199 Acetylcholinesterase is an enzyme involved in the synthesis of epinephrine. ===> FALSE
+200 Acetylcholinesterase is located in synaptic vesicles. ===> FALSE
+201 Acetylcholinesterase is located on the presynaptic and postsynaptic membranes of thesynapse. ===> TRUE
+202 Blockers of acetylcholinesterase have the same effect as atropine at the neuromuscularjunction. ===> FALSE
+203 Blockers of acetylcholinesterase cause depolarization of the motor end-plate. ===> TRUE
+204 Neurotransmitters bind to receptors on target cells. ===> TRUE
+205 Most receptors are proteins situated in the cell membrane. ===> TRUE
+206 Neurotransmitters in general cause excitatory postsynaptic potentials and inhibitorypostsynaptic potentials. ===> TRUE
+207 Norepinephrine mediates transmission of information at the neuromuscular junction. ===> FALSE
+208 Norepinephrine belongs to biogenic amines. ===> TRUE
+209 Norepinephrine is released by cholinergic fibers. ===> FALSE
+210 Adrenergic receptors are located on postganglionic neurons in the autonomic ganglia. ===> FALSE
+211 Catecholamines are derived from the amino acid tyrosine. ===> TRUE
+212 In the biosynthesis of catecholamines, the rate-limiting step is catalyzed by the enzymetyrosine hydroxylase. ===> TRUE
+213 Synthesis of norepinephrine in the presynaptic neuron ending is catalyzed bymonoaminooxidase. ===> FALSE
+214 All catecholamine receptors use second messengers to transfer signals. ===> TRUE
+215 Effects of catecholamines are increased by action of the enzyme catechol-Omethyltransferase. ===> FALSE
+216 Dopamine is a catecholamine synthesized from amino acid tyrosine. ===> TRUE
+217 Monoamine oxidase inhibitors increase the amount of norepinephrine and dopamine in asynapse by slowing their degradation. ===> TRUE
+218 Neuropeptides are synthesized in the axon terminals of the neurons that release them. ===> FALSE
+219 Neurons that release one or more of the peptide neurotransmitters are called peptidergic. ===> TRUE
+220 Gaseous neurotransmitters are not known. ===> FALSE
+221 Glutamate is the major inhibitory neurotransmitter in the brain. ===> FALSE
+222 Glycine is a biogenic amine neurotransmitter. ===> FALSE
+223 ATP and adenosine act principally as neuromodulators. ===> TRUE
+224 Parasympathetic ganglia are located close to the innervated organ. ===> TRUE
+225 All preganglionic to postganglionic transmission is by acetylcholine. ===> TRUE
+226 Cell bodies of the preganglionic sympathetic neurons reside in the anterior horns of the graymater of the spinal cord. ===> FALSE
+227 The superior cervical ganglia send sympathetic branches to the celiac ganglion. ===> FALSE
+228 Preganglionic sympathetic fibres are mostly longer than preganglionic vagal fibres. ===> FALSE
+229 Most of the cell bodies of sympathetic nerve fibres leaving the spinal cord lie in the dorsal rootganglia. ===> FALSE
+230 The sympathetic nerve supply for the whole body arises from the thoracolumbar region of thespinal cord. ===> TRUE
+231 Preganglionic sympathetic nerve fibres leave the spinal cord with the segmental anterior(ventral) roots. ===> TRUE
+232 Sympathetic ganglia contain synapses. ===> TRUE
+233 The sympathetic trunk comprises the celiac, superior mesenteric, and inferior mesentericganglia. ===> FALSE
+234 Most sympathetic fibers use norepinephrine as their neurotransmitter. ===> TRUE
+235 At the synapse beetween pre- and postganglionic sympathetic nerves, the transmitter isacetylcholine. ===> TRUE
+236 Dual innervation means that an organ is supplied by both the parasympathetic andsympathetic divisions of the autonomic nervous system. ===> TRUE
+237 Autonomic nervous system can be either excitatory or inhibitory. ===> TRUE
+238 Autonomic nervous system has two-neuron chain between central nervous system andeffector organ. ===> TRUE
+239 Adrenal medulla releases mainly epinephrine into the blood. ===> TRUE
+240 Adrenal medulla is activated by the postganglionic sympathetic fibers. ===> FALSE
+241 Receptors for norepinephrine and epinephrine are located on some neurons of autonomicganglia. ===> FALSE
+242 Sympathetic trunks extend from the first thoracic to the fifth lumbar segments. ===> FALSE
+243 The neurons of the sympathetic division leave the central nervous system from the brainstem. ===> FALSE
+244 Water-soluble messengers bind to receptors on the plasma membrane. ===> TRUE
+245 Lipid-soluble messengers typically act on receptors in the cell cytosol or nucleus. ===> TRUE
+246 A ligand can be considered as second messenger. ===> FALSE
+247 The primary signal transduction step in a signal transduction cascade is performed by thereceptor protein. ===> TRUE
+248 Lipophilic signaling molecules bind to cell surface receptors to trigger chemical cascade. ===> FALSE
+249 Intracellular signaling molecules can act on either intracellular receptors or cell-surfacereceptors. ===> FALSE
+250 Ion channel-coupled receptors can rapidly alter membrane potential in response toneurotransmiter binding. ===> TRUE
+251 A ligand-gated ion channel is generally open in the absence of a neurotransmitter. ===> FALSE
+252 When a ligand binds to an ion channel, an enzyme facilitates the passage of ions across themembrane. ===> FALSE
+253 G proteins are active when GTP is bound. ===> TRUE
+254 The subunit of Gs proteins that activates adenylyl cyclase is the beta subunit. ===> FALSE
+255 The beta subunit of G protein exhibits GTPase activity. ===> FALSE
+256 When activated by a G protein-coupled receptor, adenylyl cyclase converts cyclic AMP toAMP. ===> FALSE
+257 Protein kinase A phosphorylates tyrosine residues. ===> FALSE
+258 Inositoltriphosphate (IP3) and diacylglycerol (DAG) act as second messengers in two branchesof the phosphatidilinositol pathway. ===> TRUE
+259 Inositoltriphosphate (IP3) acts as a second messenger to release Ca2+ from the endoplasmicreticulum. ===> TRUE
+260 Phospholipase C is a second messenger. ===> FALSE
+261 Calmodulin is a calcium-binding protein that is inactive in the absence of Ca2+. ===> TRUE
+262 Steroids employ ion channel-coupled receptors. ===> FALSE
+263 Prostaglandines are synthesized from arachidonic acid. ===> TRUE
+264 Sarcomere is defined by two succesive Z lines. ===> TRUE
+265 Sarcomere corresponds to the width of the A band on each myofibril. ===> FALSE
+266 Sarcomere contains only the thick filaments. ===> FALSE
+267 Sarcomere is the functional unit of skeletal muscle. ===> TRUE
+268 If skeletal muscle fibers are destroyed after the birth as a result of injury, they can be formedfrom satelite cells. ===> TRUE
+269 If skeletal muscle fibers are destroyed after the birth as a result of injury, they can be replacedby the division of other existing muscle fibers. ===> FALSE
+270 If skeletal muscle fibers are destroyed after the birth as a result of injury, remaining musclefibers decrease their size. ===> FALSE
+271 The thick filaments of a sarcomere of skeletal muscle contain myosin. ===> TRUE
+272 The thin filaments of skeletal muscle are composed of actin, troponin and tropomyosin. ===> TRUE
+273 Actin filaments of skeletal muscle are anchored to the Z lines at each end of a sarcomere. ===> TRUE
+274 The thick filaments of a sarcomere of skeletal muscle contain motor end-plate. ===> FALSE
+275 The thin and thick filaments of skeletal muscle are part of bundles called myofibrils. ===> TRUE
+276 The myofibrils of skeletal muscle are arranged perpendicular to the axis of the skeletal musclecell. ===> FALSE
+277 The myofibrils of skeletal muscle are surrounded by the sarcoplasmic reticulum. ===> TRUE
+278 A band is produced by the thick filaments. ===> TRUE
+279 The dark striations of skeletal muscle fibers are called I bands. ===> FALSE
+280 The light regions of skeletal muscle fibers are called A bands. ===> FALSE
+281 I band lies between the ends of the A bands of two adjacent sarcomeres. ===> TRUE
+282 Each sarcomere contains the halves of two I bands with the A band in between. ===> TRUE
+283 M line links together the central regions of adjacent thick filaments. ===> TRUE
+284 Elastic protein titin is linked to the thick filaments of a skeletal muscle fibre. ===> TRUE
+285 Cross bridges are proteins of actin molecules. ===> FALSE
+286 In a resting muscle, cross bridges are not attached to actin molecules. ===> TRUE
+287 During muscle contraction cross bridges make contacts with troponin. ===> FALSE
+288 Cross bridges contain enzymatic sites that split ATP. ===> TRUE
+289 Hydrolysis of ATP by myosin dissociates cross bridges bound to actin. ===> FALSE
+290 Myosin cross bridges, previously activated by the hydrolysis of ATP, attach to actin. ===> TRUE
+291 In a resting muscle, tropomyosin molecules that are in contact with actin molecules block theattachment of cross bridges to actin. ===> TRUE
+292 Transverse tubules are intracellular organels containing high concentration of Ca2+. ===> FALSE
+293 Lateral sacs of the sarcoplasmic reticulum surround the myofibrils at the M line regions of thesarcomeres. ===> FALSE
+294 The transverse tubule protein is known as the ryanodine receptor. ===> FALSE
+295 The transverse tubule action potential leads to the opening of the ryanodine receptor channelsthus allowing flow of calcium ions into the cytosol. ===> TRUE
+296 Contraction of a skeletal muscle fiber is initiated by an increase in cytosolic Ca2+concentration, ===> TRUE
+297 In skeletal muscle, calcium facilitates contraction by binding to troponin. ===> TRUE
+298 Calcium ions directly activate ATPase in the myosin head of a skeletal muscle fibre. ===> FALSE
+299 Calcium ions bind to troponin-tropomyosin complex and remove their inhibitory action on actinmyosin interaction. ===> TRUE
+300 The mitochondria act as a store of Ca2+ for contractile process of skeletal muscle. ===> FALSE
+301 During the early stages of a skeletal muscle contraction, Ca2+ enters the cell primarily throughthe sacolemma and activate myofilaments. ===> FALSE
+302 After skeletal muscle contraction, the return of intracellular calcium concentration to normal isexclusively due to active pumping of calcium ions across the muscle fibre membrane. ===> FALSE
+303 After skeletal muscle contraction, Ca2+ moves back into the sarcoplasmic reticulum by simplediffusion. ===> FALSE
+304 The interaction of calcium ions with troponin molecules causes troponin to diffuse from the thinfilaments. ===> FALSE
+305 When a skeletal muscle fiber actively shortens, both actin and myosin filaments shorten. ===> FALSE
+306 When a skeletal muscle fiber shortens,the distance between Z lines decreases. ===> TRUE
+307 When a skeletal muscle fiber contracts, actin and myosin slide over each other. ===> TRUE
+308 Interactions between actin and myosin filaments of the sarcomere are responsible for thestriped appearance of skeletal muscle. ===> FALSE
+309 Ca2+ ATPase in the sarcoplasmic reticulum provides the energy for the active transport ofcalcium ions into the reticulum. ===> TRUE
+310 In an isometric contraction, the muscle generates tension but does not change length. ===> TRUE
+311 During an isotonic concentric contraction of skeletal muscle, sarcomeres shorten. ===> TRUE
+312 During an isometric contraction of skeletal muscle, the I bands shorten and the A bands staythe same length. ===> FALSE
+313 A contraction in which the muscle changes the length while the load on the muscle remainsconstant is isotonic. ===> TRUE
+314 In a lengthening contraction, the external load on the muscle causes the muscle to lengthenduring the period of contractile activity. ===> TRUE
+315 The velocity at which a skeletal muscle fiber shortens decreases with increasing load. ===> TRUE
+316 Contraction time of a skeletal muscle fiber depens on the molecular type of actin. ===> FALSE
+317 Latent period is longer in an isometric twich as compared to an isotonic twitch. ===> FALSE
+318 Latent period decreases with increasing load. ===> FALSE
+319 Physiological tetanus is the result of temporal summation of idividual twitches. ===> TRUE
+320 Maximum isometric tetanic tension is produced at the optimal samcomere length. ===> TRUE
+321 A skeletal muscle fiber that contains a large number of mitochondria and has a high myoglobincontent is likely to be capable of sustained activity. ===> TRUE
+322 A skeletal muscle fiber that contains a large number of mitochondria and has a high myoglobincontent is often referred to as red muscle fiber. ===> TRUE
+323 A skeletal muscle fiber that has few mitochondria, low myoglobin content but highconcentration of glycolytic enzymes is very resistant to fatigue. ===> FALSE
+324 Slow-oxidative skeletal muscle fibers have a greater abundance of glycogen than do fastglycolytic fibers. ===> FALSE
+325 Fast-glycolytic skeletal muscle fibers have a a greater abundance of myoglobin than do slowoxidative fibers. ===> FALSE
+326 Each skeletal mucle fiber is innervated by a branch from one motor neuron. ===> TRUE
+327 Each skeletal mucle fiber is controlled by a neuron at a single neuromuscular junction. ===> TRUE
+328 The space between the motor neuron and a skeletal muscle fiber is the synaptic cleft. ===> TRUE
+329 A motor neuron and all the skeletal muscle fibers it innervates is called a motor unit. ===> TRUE
+330 Motor unit refers to all of the motor neurons supplying a single muscle. ===> FALSE
+331 The muscle fibers of skeletal muscle are electrically coupled so that one nerve fibre cancontrol the activity of several muscle fibers. ===> FALSE
+332 Muscles that produce delicate movements have a large number of fibers per motor unit. ===> FALSE
+333 Increases in muscle tension are controlled primarily by increasing the number of active motorunits in a muscle. ===> TRUE
+334 The process of increasing the number of motor units is called recruitment. ===> TRUE
+335 Increasing motor unit recruitment increases the velocity at which a muscle will move a givenload. ===> TRUE
+336 The tension produced by a whole muscle contraction depends on the amount of tension eachfibre develops and the number of active fibers in the muscle. ===> TRUE
+337 For the first several minutes of exercise, muscle glycogen is the major fuel consumed. ===> TRUE
+338 Lactic acid increases in quantity during repetitive muscle contraction. ===> TRUE
+339 Skeletal muscle does not generate spontaneous activity. ===> FALSE
+340 A single action potential in a motor neuron is insufficient to produce an action potential in askeletal muscle fiber. ===> FALSE
+341 An increase in a mechanical response of a skeletal muscle fiber to successive actionpotentials is known se graded response. ===> FALSE
+342 At the skeletal neuromuscular junction, binding of acetylcholine to its postsynaptic receptorsresults in hyperpolarization. ===> FALSE
+343 Low extracellular Ca2+ concentration cause the decreased skeletal muscle contraction. ===> FALSE
+344 Smooth muscle cells are small and spindle-shaped. ===> TRUE
+345 There are not tendons in smooth muscle. ===> FALSE
+346 Smooth muscle is responsible for the movement of the skeleton. ===> FALSE
+347 All muscle cells contain actin and myosin. ===> TRUE
+348 Smooth muscle cells have a single nucleus and lack striations. ===> TRUE
+349 Smooth muscle has branching fibers. ===> FALSE
+350 Smooth muscle cells have no striations as they lack myosin filaments. ===> FALSE
+351 Smooth muscle cells have no striations as there is no regular alignment of filaments intosarcomeres. ===> TRUE
+352 Smooth muscle has a system of T-tubules. ===> FALSE
+353 Smooth muscle cells do not have a specialized end-plate regions. ===> TRUE
+354 Smooth muscle cells have the capacity to divide throughout the life of an individual. ===> TRUE
+355 Smooth muscle cells contain myosin and actin filaments and two regulatory proteins, troponinand tropomyosin. ===> FALSE
+356 Smooth muscle cells are so called because they have a remarkably smooth plasmamembrane. ===> FALSE
+357 All smooth muscle behave as a single motor unit. ===> FALSE
+358 In smooth muscle cells, sliding filament mechanism is analogous to that of striated muscles. ===> TRUE
+359 Although smooth muscle is innervated by autonomic nerves there is no specific neuromuscularjunction. ===> TRUE
+360 In smooth muscle cells, actin filaments are anchored to Z lines. ===> FALSE
+361 In smooth muscle cells, thick filaments are anchored to dense bodies instead of Z lines. ===> FALSE
+362 In smooth muscle cells, thick and thin filaments are arranged into sarcomeres. ===> FALSE
+363 In smooth muscle cells, thick and thin filaments are not organized into myofibrils. ===> TRUE
+364 Single-unit smooth muscles have no or few gap junctions. ===> FALSE
+365 Single-unit smooth muscles are not innervated by autonomic nerves. ===> FALSE
+366 The smooth muscles of the intestinal tract, uterus, and small-diameter blood vessels areexamples of single-unit smooth muscles. ===> TRUE
+367 Multiunit smooth muscles have no or few gap junctions. ===> TRUE
+368 Multiunit smooth muscle does not have T-tubules. ===> TRUE
+369 All smooth muscle cells are electrically coupled. ===> FALSE
+370 All smooth muscles behave as a multi-motor unit. ===> FALSE
+371 All smooth muscles generate action potentials spontaneously. ===> FALSE
+372 Single-unit smooth muscles can not generate action potentials spontaneously. ===> FALSE
+373 Some smooth muscle cells generate pacemaker potentials at regular intervals. ===> TRUE
+374 Slow waves are regular periodic fluctuations of the membrane potential in smooth musclecells. ===> TRUE
+375 The rising phase of the smooth muscle action potential is due to the influx of calcium ions intothe cell. ===> TRUE
+376 Depolarization of the membrane of smooth muscle cells opens Na+-gated ion channelsproducing action potential. ===> FALSE
+377 Some smooth muscle may contract without an action potential. ===> TRUE
+378 In smooth muscle cells, extracellular calcium is not needed for contraction. ===> FALSE
+379 Smooth muscle contraction is initiated by binding of calcium ions to troponin. ===> FALSE
+380 Smooth muscle contraction is produced by calcium-mediated changes in the thin filaments. ===> FALSE
+381 An important early step in the regulation of smooth muscle contraction is binding of calciumions to calmodulin. ===> TRUE
+382 In smooth muscle cell, the calcium-calmodulin complex activates the enzyme responsible forthe phosphorylation of myosin. ===> TRUE
+383 Only phosphorylated myosin can bind to actin and undergo cross-bridge cycling in smoothmuscle cells. ===> TRUE
+384 The role of myosin light-chain kinase in smooth muscle is to phosphorylate cross bridges, thusdriving them to bind with the thin filaments. ===> TRUE
+385 The role of myosin light-chain kinase in smooth muscle is to dephosphorylate myosin lightchains of the cross bridges, thus relaxing the muscle. ===> FALSE
+386 Smooth muscle contraction ceases by dephosphorylation of myosin. ===> TRUE
+387 The role of myosin light-chain kinase in smooth muscle is to pump Ca2+ from the cytosol backinto the sarcoplasmic reticulum. ===> FALSE
+388 Myosin light-chain phosphatase is the enzyme that catalyzes the dephosphorylation of the lightchains of smooth muscle myosin. ===> TRUE
+389 The tension produced by smooth muscle per unit cross-sectioned area is much lower that ofskeletal muscle. ===> FALSE
+390 Smooth muscle tension can be either increased or decreased by neural activity. ===> TRUE
+391 Smooth muscle tension is not influenced by local factors, such as acidity, oxygen and carbondioxide concentrations. ===> FALSE
+392 Smooth muscle tension can be increased by agents that increase the concentration ofcytosolic calcium ions. ===> TRUE
+393 A single smooth muscle cell can be influenced by neurotransmitters from more than oneneuron. ===> TRUE
+394 A given neurotransmitter produces the same effects in different smooth muscle tissues. ===> FALSE
+395 Nitric oxide induces smooth muscle contraction. ===> FALSE
+396 The isometric tension development produced by smooth muscle fibers is highest atintermediate lengths and lower at shorter or longer lengths. ===> TRUE
+397 Smooth muscle plasma membranes contain receptors for a variety of hormones. ===> TRUE
+398 Smooth muscle contraction is more rapid than that of skeletal muscle. ===> FALSE
+399 Single-unit smooth muscle contractile response can be generated by stretching. ===> TRUE
+400 Single-unit smooth muscle is typical of visceral organs. ===> TRUE
+401 A sustained contraction of smooth muscle that may occur in the absence of external stimuli isknown as smooth muscle tone. ===> TRUE
+402 Smooth muscle cells are subject only to depolarization by neurotransmitters. ===> FALSE
+403 Single-unit smooth muscle differs from multiunit smooth muscle because single-unit musclesare not innervated. ===> FALSE

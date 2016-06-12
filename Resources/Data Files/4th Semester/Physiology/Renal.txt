@@ -1,0 +1,682 @@
+// Renal Physiology - GM - 2015/2016 27.4.2016
+1 The kidney is the only organ in the body, which secretes metabolic waste products. ===> FALSE
+2 Metabolic waste products excreted by the kidneys include urea. ===> TRUE
+3 Metabolic waste products excreted by the kidneys include inulin. ===> FALSE
+4 Basic morphological and functional unit of the kidney is a nephron, which consists of the glomerulus,Bowman's capsule, inlet and outlet arterioles and ends with the renal calices. ===> FALSE
+5 Basic morphological and functional unit of the kidney is a nephron, which consists of the glomerulus,Bowman's capsule, proximal tubule, loop of Henle, distal tubule, connecting tubule and collectingduct. ===> TRUE
+6 Basic morphological and functional unit of the kidney is a nephron that begins with a filtrationcomponent and ends with medullary collecting duct that determines final composition of urine. ===> TRUE
+7 Juxtamedullary nephron has shorter medullary tubular system when compared to the superficialnephron. ===> FALSE
+8 Juxtamedullary nephron has longer medullary tubular system when compared to the superficialnephron. ===> TRUE
+9 Juxtamedullary nephrons have loops of Henle that penetrate the inner medulla. ===> TRUE
+10 Juxtamedullary nephrons are more numerous than cortical nephrons. ===> FALSE
+11 Juxtamedullary nephrons form the greatest tissue mass in the kidney. ===> FALSE
+12 Juxtamedullary nephrons represent approximately 50% of all kidney nephrons. ===> FALSE
+13 Afferent arteriole contains juxtaglomerular cells. ===> TRUE
+14 Afferent arteriole does not belong to the glomerulus. ===> TRUE
+15 Afferent arteriole conducts blood into the peritubular capillaries. ===> FALSE
+16 Afferent arteriole is innervated by sympathetic vasoconstrictor fibers. ===> TRUE
+17 Afferent arteriole contains macula densa cells. ===> FALSE
+18 Afferent arteriole drains blood from the glomerular capillaries. ===> FALSE
+19 Efferent arteriole drains blood into the peritubular capillaries. ===> TRUE
+20 Efferent arteriole is freely permeable to water and low molecular weight solutes. ===> FALSE
+21 Efferent arteriole is missing from the superficial nephrons. ===> FALSE
+22 Vasa afferentia and efferentia are arterioles. ===> TRUE
+23 If the glomerular membrane is fully permeable to a certain low molecular weight organic substancethat is freely soluble in the plasma and it does not bind to plasma proteins, its concentration in theglomerular filtrate is the same as in the plasma. ===> TRUE
+24 Glomeruli of juxtamedullary nephrons are located in the kidney medulla close to the corticomedullaryjunction. ===> FALSE
+25 Glomeruli of juxtamedullary nephrons are located in the kidney cortex close to the medulla. ===> TRUE
+26 The glomerulus is the network (tuft) of capillaries. ===> TRUE
+27 Glomerular capillaries are the most leaky capillaries in the body. ===> FALSE
+28 The glomerulus is a network of capillaries that conduct blood from the afferent arteriole and draininto the efferent arteriole. ===> TRUE
+29 Glomerulus consists of afferent arteriole, network of glomerular capillaries and efferent arteriole. ===> FALSE
+30 Glomerulus consists of afferent arteriole, network of glomerular capillaries, efferent arteriole andblind, cup-shaped end of a renal tubule. ===> FALSE
+31 All glomeruli are localized in the renal cortex. ===> TRUE
+32 Almost all glomeruli are localized in the renal cortex except for glomeruli of juxtamedullary nephrons,which are located in the medulla close to the cortex. ===> FALSE
+33 The glomerulus is placed between two resistance vessels. ===> TRUE
+34 The glomerulus is inserted between two arterioles. ===> TRUE
+35 The glomerular filtration membrane consists of capillary endothelium, the basement membrane andthe visceral epithelial sheet of the Bowman's capsule. ===> TRUE
+36 Inlet and outlet arterioles belong to the glomerulus. ===> FALSE
+37 Vasa recta represent the only blood supply to the inner pulp. ===> TRUE
+38 Vasa recta are permeable to water and low molecular weight organic substances, their permeabilityto sodium and potassium ions is limited. ===> FALSE
+39 Vasa recta drain water reabsorbed in Henle's loop from the medulla. ===> TRUE
+40 Vasa recta are involved in maintaining the hypertonic interstitium of the kidney medulla by thefunction of countercurrent exchanger. ===> TRUE
+41 Vasa recta are freely permeable to water and low molecular weight solutes. ===> TRUE
+42 Vasa recta are modified veins with highly permeable basement membrane. ===> FALSE
+43 Vasa recta deliver blood to the peritubular capillary network. ===> FALSE
+44 Vasa recta can respond to the sympathetic stimulation by vasoconstriction. ===> FALSE
+45 Vasa recta are modified capillaries. ===> TRUE
+46 Vasa recta are freely permeable to water, low molecular weight solutes and albumin. ===> FALSE
+47 Vasa recta remove from the medulla smaller volume of blood than that entering into vasa recta perunit time. ===> FALSE
+48 Vasa recta have the function of countercurrent multiplier. ===> FALSE
+49 Vasa recta have the function of countercurrent exchanger. ===> TRUE
+50 Vasa recta provide the only supply of nutrients and oxygen to the deepest layers of the medulla. ===> TRUE
+51 Vasa recta remove from the medulla larger volume of blood than that entering into vasa recta perunit time. ===> TRUE
+52 The vasa recta DO NOT function as countercurrent multipliers. ===> TRUE
+53 The vasa recta carry oxygen to the tubular structures in the medulla. ===> TRUE
+54 The vasa recta function to delay washout of solutes from the medulla. ===> TRUE
+55 The vasa recta function to remove water from the medulla that has been reabsorbed from thecollecting ducts. ===> TRUE
+56 The distal tubule never penetrates the medulla. ===> TRUE
+57 The proximal tubule never penetrates the medulla. ===> TRUE
+58 The collecting duct passes through both cortex and medulla. ===> TRUE
+59 The proximal convoluted tubules contain juxtaglomerular cells, which secrete renin. N ===> FALSE
+60 Diluting segment of the nephron is formed by parts of the tubular system that are completelyimpermeable to water. ===> TRUE
+61 Diluting segment of the nephron is formed by the portions of tubular system that are optionallypermeable to water. ===> FALSE
+62 Diluting segment of the nephron consists of the thick ascending limb of Henle's loop and the initialportion of the distal tubule. ===> TRUE
+63 Diluting segment of the nephron contributes significantly (i.e. by more than 50%) to the formation ofhypertonic medullary interstitium. ===> TRUE
+64 Diluting segment of the nephron is water permeable under the influence of ADH. ===> FALSE
+65 Diluting segment of the nephron makes accumulation of large amounts of sodium in the renalmedulla possible. ===> TRUE
+66 The function of the diluting segment of the nephron is regulated by aldosterone. ===> FALSE
+67 Vasoconstriction of the renal artery can lead to an elevation in the mean arterial pressure by anincreased angiotensin II formation. ===> TRUE
+68 Vasoconstriction of the renal artery can lead to an elevation in the mean arterial pressure by adecreased renin secretion. ===> FALSE
+69 Vasoconstriction of the renal artery can lead to an elevation in the mean arterial pressure by anincreased aldosterone secretion. ===> TRUE
+70 Glomerular filtrates in the juxtamedullary nephrons have different composition than those in thesuperficial nephrons. ===> FALSE
+71 Juxtamedullary nephrons represent approximately 20% of all kidney nephrons. ===> TRUE
+72 The independence of renal blood flow from mean systemic arterial pressure is termedautoregulation. ===> TRUE
+73 The independence of renal blood flow from mean systemic arterial pressure is termed pressurediuresis. ===> FALSE
+74 As the blood flows from the afferent to the efferent end of the glomerular capillaries, the hydrostaticpressure within the capillaries decreases only slightly. ===> TRUE
+75 As the blood flows from the afferent to the efferent end of the glomerular capillaries, the hydrostaticpressure within the capillaries decreases markedly. ===> FALSE
+76 The renal blood flow represents about 20 per cent of the cardiac output. ===> TRUE
+77 The renal blood flow is about 550 ml/min. ===> FALSE
+78 The renal blood flow is the same as inulin clearance. ===> FALSE
+79 Renal plasma flow can be determined using clearance of paraaminohippuric acid. ===> TRUE
+80 Renal plasma flow can be determined using creatinine clearance. ===> FALSE
+81 Renal fraction is a ratio of renal blood flow to cardiac output. ===> TRUE
+82 Renal fraction is a ratio of renal plasma flow to cardiac output. ===> FALSE
+83 Filtration fraction increases when blood pressure in the efferent arteriole rises. ===> TRUE
+84 Filtration fraction increases when blood pressure in the affrent arteriole rises. ===> FALSE
+85 When hydrostatic pressure in the efferent arteriole increases, plasma protein becomes to be filteredto the glomerular filtrate. ===> FALSE
+86 The blood pressure in peritubular capillaries rises if efferent arteriole dilates. ===> TRUE
+87 The blood pressure in peritubular capillaries rises if efferent arteriole constricts. ===> FALSE
+88 Mild constriction of the efferent arteriole leads to an increase in the glomerular filtration rate. ===> TRUE
+89 Constriction of the afferent arteriole leads to an increase in the glomerular filtration rate. ===> FALSE
+90 Dilatation of the afferent arteriole leads to a decrease in the glomerular filtration rate. ===> FALSE
+91 Dilatation of the efferent arteriole results in a decrease in the glomerular filtration rate. ===> TRUE
+92 Dilatation of the afferent arteriole increases the glomerular filtration rate. ===> TRUE
+93 Permeability of the distal portion of nephron to water is regulated by a hormone secreted in adrenalcortex. ===> FALSE
+94 Permeability of the distal portion of nephron to water is regulated by a hormone produced andsecreted in posterior pituitary. ===> FALSE
+95 Permeability of the distal portion of nephron to water is regulated by a hormone produced inhypothalamus. ===> TRUE
+96 Renal blood flow per unit mass has the same value as the brain blood flow. ===> FALSE
+97 Renal plasma flow per unit mass is approximately 1000 ml/kg/min. ===> FALSE
+98 Renal blood flow is approximately 1200 ml per minute. ===> TRUE
+99 Renal plasma flow is approximately 650 ml per minute. ===> TRUE
+100 Plasma flow to peritubular capillaries reaches approximately 80% of renal plasma flow. ===> TRUE
+101 Renal plasma flow increases markedly if mean arterial pressure reaches 120 mmHg. ===> FALSE
+102 Renal blood flow is relatively constant if the value of mean arterial pressures falls in range 80 - 180mmHg. ===> TRUE
+103 Renal blood flow is very high (when compared to other organs) due to extreme oxygen demands ofthe renal tissue. ===> FALSE
+104 Renal plasma flow per unit mass is greater than coronary plasma flow per unit mass. ===> TRUE
+105 Autoregulation of renal blood flow is contributed by constriction or dilatation of afferent and efferentarterioles. ===> TRUE
+106 When blood pressure tends to decrease, autoregulation of renal blood flow is contributed byconstriction of afferent arteriole mediated by sympathetic vasoconstrictor fibers. ===> FALSE
+107 When blood pressure tends to increase, autoregulation of renal blood flow is contributed byconstriction of efferent arteriole mediated by renin - angiotensin - aldosterone system. ===> FALSE
+108 Autoregulation of renal blood flow is contributed by chemoreceptors of the proximal tubule viaglomerulo-tubular balance. ===> FALSE
+109 Autoregulation of renal blood flow is contributed by chemoreceptors of the distal tubule via tubuloglomerular feedback. ===> TRUE
+110 Renal fraction is a ratio of urine volume to the glomerular filtration rate. ===> FALSE
+111 Renal fraction is a ratio of glomerular filtration rate to the renal plasma flow. ===> FALSE
+112 Renal fraction is a ratio of urea clearance to creatinine clearance. ===> FALSE
+113 The glomerulus contains no active transport systems that influence the composition of theglomerular filtrate. ===> TRUE
+114 The glomerular membrane is impermeable to all molecules with a molecular weight over 5000. ===> FALSE
+115 The glomerulus produces a filtrate with a higher concentration of urea than that found in the plasma. ===> FALSE
+116 The glomerulus produces a filtrate with a lower concentration of amino acids than that found in theplasma. ===> FALSE
+117 In the kidney, half of the plasma flowing to the glomerular capillaries is filtered into the tubules. ===> FALSE
+118 The highest percentage of glomerular filtrate reabsorption occurs in the proximal tubule. ===> TRUE
+119 The highest percentage of glomerular filtrate reabsorption occurs in the thick ascending limb of loopof Henle. ===> FALSE
+120 In a healthy individual, about 20% of the effective renal plasma flow passes into the glomerularcapsule. ===> TRUE
+121 In a healthy individual, less than 5% of the effective renal plasma flow passes into the glomerularcapsule. ===> FALSE
+122 The glomerular filtration rate is the volume of fluid filtered into the Bowmans' capsules of allnephrons of both kidneys per unit time. ===> TRUE
+123 The glomerular filtration rate exceeds the cardiac output. ===> FALSE
+124 The glomerular filtration rate is constant and unchanging. ===> FALSE
+125 The glomerular filtration rate expressed in litres per day is about 10 times greater than the plasmavolume. ===> FALSE
+126 The composition of the glomerular filtrate changes as the filtrate passes through the tubule. ===> TRUE
+127 The composition of the glomerular filtrate is identical to that of blood plasma. ===> FALSE
+128 The composition of the glomerular filtrate is identical to that of urine. ===> FALSE
+129 The composition of the glomerular filtrate remains identical until it enters the descending limb of theloop of Henle. ===> FALSE
+130 The glomerular filtration rate will increase if plasma oncotic pressure decreases. ===> TRUE
+131 The glomerular filtration rate will decrease if there is an occlusion of the ureter. ===> TRUE
+132 The glomerular filtration rate will decrease if the afferent arterioles constricts. ===> TRUE
+133 Plasma colloid osmotic pressure opposes the ultrafiltration in the glomerulus. ===> TRUE
+134 Glomerular capillary hydrostatic pressure opposes the ultrafiltration in the glomerulus. ===> FALSE
+135 Concentration of NaCl in the Bowman's space promotes the ultrafiltration in the glomerulus. ===> FALSE
+136 Colloid osmotic pressure in the Bowman's capsule would promote the ultrafiltration in theglomerulus. ===> TRUE
+137 The movement of fluid across the wall of glomerular capillaries into Bowman's capsule occurs whenthe hydrostatic pressure in the capillaries exceeds the sum of fluid pressure in the capsule plus theosmotic force due to presence of proteins in the plasma. ===> TRUE
+138 The movement of fluid across the wall of glomerular capillaries into Bowman's capsule occurs whenthe hydrostatic pressure in the capsule exceeds the fluid pressure in the capillaries. ===> FALSE
+139 Glomerular filtration rate increases with the increase in the hydrostatic pressure in the glomerularcapillary. ===> TRUE
+140 Glomerular filtration rate increases with the dilatation of the afferent arteriole. ===> TRUE
+141 Glomerular filtration rate increases with the decrease in plasma oncotic pressure. ===> TRUE
+142 Glomerular filtration rate increases with the increase of the hydrostatic pressure in Bowman's space. ===> FALSE
+143 Capillary pressure in the renal glomerulus is higher than in the most other capillaries in the body. ===> TRUE
+144 Capillary pressure in the renal glomerulus is lower than the pressure in the efferent arteriole. ===> FALSE
+145 Capillary pressure in the renal glomerulus is equal to the plasma oncotic pressure. ===> FALSE
+146 Glomerular filtration rate can be determined using renal clearance of creatinine. ===> TRUE
+147 Glomerular filtration rate can be determined using renal clearance of paraaminohippuric acid. ===> FALSE
+148 Glomerular filtration rate is directly proportional to the total filtration area of glomerular capillaries. ===> TRUE
+149 Glomerular filtration rate is indirectly proportional to the permeability of the glomerular membrane. ===> FALSE
+150 The hydrostatic pressure of the glomerular filtrate is higher than interstitial hydrostatic pressure inthe systemic circulation. ===> TRUE
+151 Hydrostatic pressure in the glomerular capillary reaches by 50-100% higher values than that at thearterial end of the average systemic capillary. ===> TRUE
+152 Hydrostatic pressure in the glomerular capillary reaches 40 - 60 mmHg. ===> TRUE
+153 Glomerular filtration rate is approximately 2 ml/s. ===> TRUE
+154 Glomerular filtration rate is partly determined by concentration gradient of low-molecular weightsolutes across the glomerular membrane. ===> FALSE
+155 Glomerular filtration rate is increased by an increase in protein concentration in the Bowman´scapsule. ===> TRUE
+156 Glomerular filtration rate increases continuously with increases in mean arterial pressure. ===> FALSE
+157 Normal value of glomerular filtration rate is 120 ml/min. ===> TRUE
+158 Glomerular filtration rate is increased if the hydrostatic pressure in the glomerular capillary rises. ===> TRUE
+159 Glomerular filtration rate is increased if the hydrostatic pressure in the Bowman´s capsule fallsdown. ===> TRUE
+160 Glomerular filtration rate is increased if the mean arterial pressure rises above 180 mmHg. ===> TRUE
+161 Glomerular filtration rate is increased if renal plasma flow is compromised. ===> FALSE
+162 Glomerular filtration rate is increased if permeability of the glomerular membrane increases. ===> TRUE
+163 Glomerular filtration rate is determined by the difference between pressures acting for filtration andthose opposing filtration. ===> TRUE
+164 Glomerular filtrate is formed by active transport of solutes across the glomerular membrane. ===> FALSE
+165 Glomerular filtration rate represents approximately 20% of the renal plasma flow. ===> TRUE
+166 Glomerular filtration rate represents approximately 20% of the renal blood flow. ===> FALSE
+167 Glomerular filtrate is formed by ultrafiltration of the plasma flowing through the glomerulus. ===> TRUE
+168 When the hydrostatic pressure in the Bowman´s capsule rises, renal fraction falls down. ===> FALSE
+169 When the hydrostatic pressure in the Bowman´s capsule rises, filtration fraction falls down. ===> TRUE
+170 When the hydrostatic pressure in the Bowman´s capsule decreases, filtration fraction rises. ===> TRUE
+171 Filtration fraction is the ratio of the glomerular filtration rate to the renal plasma flow. ===> TRUE
+172 Filtration fraction is the ratio of the glomerular filtration rate to the renal blood flow. ===> FALSE
+173 In a healthy man, the value of the oncotic pressure in the Bowman´s capsule is negligible. ===> TRUE
+174 In a healthy man, the value of the oncotic pressure in the glomerular capillaries is negligible. ===> FALSE
+175 Filtration fraction increases if the hydrostatic pressure in the glomerular capillaries rises. ===> TRUE
+176 Filtration fraction decreases if the hydrostatic pressure in the glomerular capillaries rises. ===> FALSE
+177 Filtration fraction decreases if the oncotic pressure in the glomerular capillaries rises. ===> TRUE
+178 Glomerular filtrate does not contain low molecular weight proteins. ===> FALSE
+179 If the plasma glucose concentration is 5 mmol/l and the glomerular filtration rate is 120 ml/min, thenthe glucose tubular load is 0.6 mmol/min. ===> TRUE
+180 If the plasma glucose concentration is 5 mmol/l and the glomerular filtration rate is 120 ml/min, thenthe glucose tubular load is 6 mmol/min. ===> FALSE
+181 If the plasma glucose concentration is 10 mmol/l and the glomerular filtration rate is 120 ml/min, thenthe glucose tubular load is 0.5 mmol/min. ===> FALSE
+182 If the plasma cholesterol concentration is 4 mmol/l and the glomerular filtration rate is 125 ml/min,then the cholesterol tubular load is 0.5 mmol/min. ===> FALSE
+183 If the plasma cholesterol concentration is 4 mmol/l and the glomerular filtration rate is 125 ml/min,then the cholesterol tubular load is 5 mmol/min. ===> FALSE
+184 Calcium concentration in the glomerular filtrate is lower than that in the plasma. ===> TRUE
+185 Calcium concentration in the glomerular filtrate is the same as that in the plasma. ===> FALSE
+186 If the plasma sodium concentration is 140 mmol/l and the glomerular filtration rate is 100 ml/min,then the sodium tubular load is 14 mmol/min. ===> TRUE
+187 If the plasma potassium concentration is 4 mmol/l and the glomerular filtration rate is 100 ml/min,then the potassium tubular load is 0.4 mmol/min. ===> TRUE
+188 If the plasma calcium concentration is 2.5 mmol/l and the glomerular filtration rate is 120 ml/min,then the calcium tubular load is 0.3 mmol/min. ===> FALSE
+189 Peptide hormones are normally present in the glomerular filtrate. ===> TRUE
+190 Glomerular filtrate does not contain any protein molecules. ===> FALSE
+191 Glomerular filtrate contains glucose in the same concentration as the plasma. ===> TRUE
+192 The composition of the glomerular filtrate is determined by the glomerular filtration rate. ===> FALSE
+193 The composition of the glomerular filtrate is determined by the pressure gradient across theglomerular membrane. ===> FALSE
+194 The composition of the glomerular filtrate is determined by the permeability of the glomerularmembrane. ===> TRUE
+195 The composition of the glomerular filtrate is the same as that of plasma. ===> FALSE
+196 The concentration of chloride in the glomerular filtrate is slightly higher than in the plasma. ===> TRUE
+197 The concentration of chloride in the glomerular filtrate is slightly lower than in the plasma. ===> FALSE
+198 Tubular load of urea does not depend on the glomerular filtration rate. ===> FALSE
+199 Tubular load of urea depends on the glomerular filtration rate. ===> TRUE
+200 Glomerular filtration rate increases during sleep. ===> FALSE
+201 Glomerular filtration rate decreases during sleep. ===> TRUE
+202 During pregnancy, glomerular filtration rate increases. ===> TRUE
+203 During strenuous physical exercise, glomerular filtration rate rises. ===> FALSE
+204 Glomerular filtration rate multiplied by a filterable substance concentration in the plasma gives thesubstance tubular load. ===> TRUE
+205 Glomerular filtration rate multiplied by a filterable substance concentration in the plasma gives thetubular transport maximum of the substance. ===> FALSE
+206 Glomerular filtration rate multiplied by a filterable substance concentration in the plasma gives therenal threshold of the substance. ===> FALSE
+207 Glomerular filtration rate multiplied by a filterable substance concentration in the plasma gives theexcretion rate of the substance. ===> FALSE
+208 Substances that have concentration close to zero in the renal vein could be potentially used tomeasure renal plasma flow. ===> TRUE
+209 Substances that are freely filtered in the glomeruli and are not reabsorbed, but fully secreted in thetubules, could be used to measure renal plasma flow. ===> TRUE
+210 Substances that are freely filtered in the glomeruli and are fully reabsorbed and maximally secretedin the tubules could be used to measure renal plasma flow. ===> FALSE
+211 Substances that are freely filtered in the glomeruli and are not either reabsorbed or secreted in thetubules, could be used to measure renal plasma flow. ===> FALSE
+212 Filtration fraction increases if the efferent arteriole constricts. ===> TRUE
+213 Filtration fraction decreases if the afferent arteriole constricts. ===> TRUE
+214 Increase in the filtration fraction results in the fall of blood pressure in the peritubular capillaries. ===> TRUE
+215 Increase in the filtration fraction results in the fall in the concentration of plasma protein in theperitubular capillaries. ===> FALSE
+216 To determine the clearance of a substance one must know its concentration in the urine. ===> TRUE
+217 To determine the clearance of a substance one must know tubular transport maximum of thesubstance. ===> FALSE
+218 To determine the clearance of a substance one must know the renal plasma flow rate. ===> FALSE
+219 To determine the clearance of a substance one must know filtration fraction. ===> FALSE
+220 To determine the clearance of a substance one must know the concentration of the substance in theglomerular filtrate. ===> FALSE
+221 To determine the clearance of a substance one must know the concentration of the substance in theplasma. ===> TRUE
+222 To determine the clearance of a substance one must know the urine volume per unit time. ===> TRUE
+223 To determine the clearance of a substance one must know the urine volume per unit mass. ===> FALSE
+224 Creatinine clearance is slightly higher than inulin clearance due to the partial secretion of creatininein the proximal tubule. ===> TRUE
+225 At a given moment for a given subject, the renal clearance of all chemicals is the same. ===> FALSE
+226 The concentration of creatinine is greater in renal venous plasma than in renal arterial plasma. ===> FALSE
+227 The concentration of urea is lower in renal venous plasma than in renal arterial plasma. ===> TRUE
+228 The concentration of glucose is approximately equal in renal venous plasma as in renal arterialplasma. ===> TRUE
+229 The renal clearance of inulin provides an estimate of glomerular filtration rate. ===> TRUE
+230 The renal clearance is calculated from UP/V where U is urinary concentration of the substance, Vurine volume/minute, and P is plasma concentration of the substance. ===> FALSE
+231 The renal clearance of creatinine provides an estimate of renal plasma flow in man. ===> FALSE
+232 The renal clearance of phosphate is decreased by parathyroid hormone. ===> FALSE
+233 Clearance of substances that are freely filtered and are not reabsorbed or secreted reflects theglomerular filtration rate. ===> TRUE
+234 Clearance of substances that are freely filtered and are not reabsorbed, but secreted, is higher thanthe clearance of inulin. ===> TRUE
+235 Clearance of substances that are fully reabsorbed and not secreted differs from the clearance ofsubstances that are not filtered at all. ===> FALSE
+236 Clearance of substances that are freely filtered and are not secreted, but reabsorbed, is higher thanthe clearance of inulin. ===> FALSE
+237 Clearance of creatinine is slightly higher than inulin clearance. ===> TRUE
+238 Clearance of sodium is 0 ml/min. ===> FALSE
+239 Clearance of sodium is lower than potassium clearance. ===> TRUE
+240 Clearance of urea is higher than clearance of paraaminohippuric acid. ===> FALSE
+241 Clearance of sodium is lower than urea clearance. ===> TRUE
+242 Glucose clearance of 15 ml/min indicates the presence of disease in a human. ===> TRUE
+243 PAH clearance of 650 ml/min indicates normal renal plasma flow. ===> TRUE
+244 Inulin clearance of 130 ml/min indicates abnormal renal function. ===> FALSE
+245 If the plasma inulin concentration is 0.25 mg/ml; urine flow is 1.0 ml/min; urine inulin concentration is 25 mg/ml, glomerular filtration rate is 100 ml/min. ===> TRUE
+246 If the plasma creatinine concentration is 100 µmol/l; urine flow is 1.0 ml/min; urine creatinineconcentration is 10 mmol/l, glomerular filtration rate is 100 ml/min. ===> TRUE
+247 If the plasma concentration of paraaminohippuric acid is 100 µmol/l; urine flow is 1.0 ml/min; urineparaaminohippuric acid concentration is 10 mmol/l, then renal plasma flow is severely compromised. ===> TRUE
+248 The urine volume flow rate times the urine concentration of a substance is equal to its rate ofexcretion. ===> TRUE
+249 The urine volume flow rate times the urine concentration of potassium is equal to its rate of filtration. ===> FALSE
+250 The urine volume flow rate times the urine concentration of a substance is equal to its rate of nettubular reabsorption. ===> FALSE
+251 The urine volume flow rate times the urine concentration of a substance is equal to its rate of netactive tubular secretion. ===> FALSE
+252 The sum of the free-water formation (free-water clearance) and the osmolar clearance equals urinevolume flow rate. ===> TRUE
+253 The sum of the free-water formation (free-water clearance) and the osmolar clearance equals inulinclearance. ===> FALSE
+254 The sum of the free-water formation (free-water clearance) and the osmolar clearance equals ureaclearance. ===> FALSE
+255 The sum of the free-water formation (free-water clearance) and the osmolar clearance equals renalplasma flow rate. ===> FALSE
+256 In a healthy man, clearance of amino acids is 0 ml/min. ===> TRUE
+257 In a healthy man, clearance of inulin is about 20 ml/s. ===> FALSE
+258 In a healthy man, clearance of glucose is about 0 ml/min. ===> TRUE
+259 Fractional excretion of creatinine is 1. ===> TRUE
+260 Fractional excretion of glucose is 0. ===> TRUE
+261 Fractional excretion of potassium is lower than that of sodium. ===> FALSE
+262 Fractional excretion of PAH is 1. ===> FALSE
+263 The renal transport maximum (Tm) for a substance is defined as the maximum tubular reabsorptionor secretion rate. ===> TRUE
+264 The renal transport maximum (Tm) for a substance is defined as the glomerular filtration rate. ===> FALSE
+265 The renal transport maximum (Tm) for a substance is defined as the renal clearance rate. ===> FALSE
+266 The renal transport maximum (Tm) for a substance is defined as the urinary excretion rate. ===> FALSE
+267 The glomerular filtration rate (GFR), the maximum rate for tubular reabsorption (Tm), and the plasmaconcentration (P) are known values for a reabsorbed substance. The amount of the substanceappearing in the urine per unit time, at a plasma concentration above that for saturation ofreabsorption, would be P x (GFR) - Tm. ===> TRUE
+268 The glomerular filtration rate (GFR), the maximum rate for tubular reabsorption (Tm), and the plasmaconcentration (P) are known values for a reabsorbed substance. The amount of the substanceappearing in the urine per unit time, at a plasma concentration above that for saturation ofreabsorption, would be Tm x (GFR) - P. ===> FALSE
+269 The glomerular filtration rate (GFR), the maximum rate for tubular reabsorption (Tm), and the plasmaconcentration (P) are known values for a reabsorbed substance. The amount of the substanceappearing in the urine per unit time, at a plasma concentration above that for saturation ofreabsorption, would be Tm x (GFR) + P. ===> FALSE
+270 The glomerular filtration rate (GFR), the maximum rate for tubular reabsorption (Tm), and the plasmaconcentration (P) are known values for a reabsorbed substance. The amount of the substanceappearing in the urine per unit time, at a plasma concentration above that for saturation ofreabsorption, would be Tm - P x (GFR). ===> FALSE
+271 Fractional excretion of urea is higher than that of sodium. ===> TRUE
+272 Fractional excretion of potassium is higher than that of sodium. ===> TRUE
+273 Fractional excretion of creatinine is higher than that of inulin. ===> TRUE
+274 Fractional excretion of creatinine is higher than that of urea. ===> TRUE
+275 If the filtered load of a substance X exceeds its transport maximum some X will appear in the urine. ===> TRUE
+276 If the filtered load of a substance X exceeds its transport maximum reabsorption of X will becomplete. ===> FALSE
+277 If the filtered load of a substance X exceeds its transport maximum no reabsorption of X will occur. ===> FALSE
+278 If the filtered load of a substance X exceeds its transport maximum X will disappear from the plasma. ===> FALSE
+279 The renal threshold for a solute denotes the plasma concentration, at which a solute begins toappear in the urine. ===> TRUE
+280 The renal threshold for a solute denotes the maximum filtration rate. ===> FALSE
+281 The renal threshold for a solute denotes the maximum reabsorption rate. ===> FALSE
+282 The renal threshold for a solute denotes the maximum tubular secretory capacity. ===> FALSE
+283 Creatinine clearance is higher in people with a greater muscle mass. ===> TRUE
+284 Creatinine clearance is higher than inulin clearance due to creatinine reabsorption in the proximaltubule. ===> FALSE
+285 Creatinine clearance is higher than inulin clearance due to creatinine secretion in the proximaltubule. ===> TRUE
+286 The sum of free water clearance and osmotic clearance is the urine volume per unit time. ===> TRUE
+287 The sum of free water clearance and osmotic clearance is the clearance of creatinine. ===> FALSE
+288 If the urine is more concentrated than the plasma, then free water is being extracted from the urine,giving a negative value for free water clearance. ===> TRUE
+289 Free water clearance is the volume of blood plasma that is cleared of solute-free water per unit time. ===> TRUE
+290 Free water clearance is the volume of water that should be added to given plasma volume to adjustits osmolality to the value of the osmolality of urine. ===> FALSE
+291 Free water clearance is the osmolar clearance minus urine volume per unit time. ===> FALSE
+292 Free water clearance is the urine volume per unit time minus osmolar clearance. ===> TRUE
+293 Renal clearance of substances those are fully reabsorbed, not produced by kidneys and not secretedis 0 ml/s. ===> TRUE
+294 Free water clearance is not dependent on plasma antidiuretic hormone level. ===> FALSE
+295 Tubular transport maximum is defined as the maximum concentration of a substance in the tubularfluid, that is transported by the tubular cells into the tubular lumen or in opposite direction. ===> FALSE
+296 Tubular transport maximum is defined as the maximum quantity of a substance per unit time, that istransported by the tubular cells into the tubular lumen or in opposite direction. ===> TRUE
+297 Renal threshold is a substance plasma concentration, at which tubular transport maximum is justreached. ===> TRUE
+298 Renal threshold is the tubular transport rate, at which the substance starts to occur in the urine. ===> FALSE
+299 Tubular transport maximum can be calculated if renal threshold is multiplied by glomerular filtrationrate. ===> TRUE
+300 Tubular transport maximum can be calculated if renal threshold is divided by glomerular filtrationrate. ===> FALSE
+301 Renal threshold can be calculated if tubular transport maximum is divided by glomerular filtrationrate. ===> TRUE
+302 Renal threshold can be calculated if tubular transport maximum is multiplied by glomerular filtrationrate. ===> FALSE
+// 303 ===> FALSE
+304 In the kidney, the excretion of an excessive water intake is assisted by decreased permeability of thecollecting duct to water. ===> TRUE
+305 In the kidney, all of the sodium that passes into the glomerular filtrate is normally reabsorbed in theproximal tubule. ===> FALSE
+306 The primary renal site for the secretion of organic ions (e.g. p-aminohippuric, urate, creatinine) is theproximal tubule. ===> TRUE
+307 The primary renal site for the secretion of organic ions (e.g. p-aminohippuric, urate, creatinine) is thedistal tubule. ===> FALSE
+308 The kidneys are the major regulators of the concentration of inorganic ions in the body. ===> TRUE
+309 The kidneys function only to eliminate wastes into the urine. ===> FALSE
+310 The kidney contributes to the regulation of the plasma pH. ===> TRUE
+311 The kidneys excrete cholesterol. ===> FALSE
+312 As tubular fluid flows along successive sections of the nephron, its volume progressively decreases. ===> TRUE
+313 About half of the osmolality of concentrated urine is due to the presence of sodium ions. ===> FALSE
+314 The lowest concentration of urine that the human kidney can produce is equal to the osmolality ofplasma. ===> FALSE
+315 The wall of the ascending limb of the loop of Henle is readily permeable to water. ===> FALSE
+316 The proximal convoluted tubules reabsorb most of the chloride contained in the glomerular filtrate. ===> TRUE
+317 The proximal convoluted tubules are the main target for antidiuretic hormone (ADH). ===> FALSE
+318 The proximal convoluted tubules secrete potassium in response to aldosterone. ===> FALSE
+319 The proximal tubules secrete most of the hydrogen ions contained in the final urine. ===> TRUE
+320 The cells of the distal convoluted tubule are capable of excreting hydrogen ions by a mechanism,which involves carbonic anhydrase. ===> TRUE
+321 The cells of the distal convoluted tubule reabsorb approximately 50% of water contained in theglomerular filtrate. ===> FALSE
+322 The cells of the distal convoluted tubule determine the final composition of urine in accordance withthe body needs. ===> FALSE
+323 The cells of the distal convoluted tubule are capable of secreting sodium ions in exchange forhydrogen and potassium ions. ===> FALSE
+324 The collecting ducts in the kidney determine to a large extent the final osmolality of urine. ===> TRUE
+325 The collecting ducts in the kidney can secrete water molecules actively into the urine. ===> FALSE
+326 The collecting ducts in the kidney are responsible for most of the reabsorption of water that occurs inthe kidneys. ===> FALSE
+327 The collecting ducts in the kidney are rendered impermeable to water by antidiuretic hormone. ===> FALSE
+328 The proximal tubular reabsorption of sodium ions would be markedly reduced by a deficiency in thebasolateral membrane transport proteins. ===> TRUE
+329 The proximal tubular reabsorption of sodium ions would be markedly reduced by a removal of thepituitary gland. ===> FALSE
+330 The proximal tubular reabsorption of sodium ions would be markedly reduced by an increase inplasma aldosterone concentration. ===> FALSE
+331 The proximal tubular reabsorption of sodium ions would be markedly reduced by an increase inhydrogen ion secretion. ===> FALSE
+332 Renal tubular secretion of organic substances occurs in the proximal tubule. ===> TRUE
+333 Renal tubular secretion is the term applied to active transport in either direction across the tubularcells. ===> FALSE
+334 About two thirds of the fluid filtered at the glomerulus are reabsorbed in the proximal tubule. ===> TRUE
+335 Concerning the proximal convoluted tubule of a nephron, the wall of the proximal convoluted tubuleis freely permeable to water. ===> TRUE
+336 Concerning the proximal convoluted tubule of a nephron, water is actively pumped from the tubularfluid to renal interstitial fluid. ===> FALSE
+337 Concerning the proximal convoluted tubule of a nephron, hydrogen ions are transported into thetubular fluid. ===> TRUE
+338 The fluid in the distal part of the proximal convoluted tubule has higher urea concentration than thefluid in the Bowman's capsule. ===> TRUE
+339 The fluid in the distal part of the proximal convoluted tubule has lower pH than plasma when thekidneys are excreting acidic urine. ===> TRUE
+340 The fluid in the distal part of the proximal convoluted tubule has glucose concentration similar to thatin the plasma. ===> FALSE
+341 The fluid in the distal part of the proximal convoluted tubule has osmolality about 1/5 of that inglomerular filtrate due to the active reabsorption of about 4/5 of the filtered sodium chloride in theproximal tubule. N ===> FALSE
+342 The permeability to water of the renal tubular epithelium may be high or low in the collecting duct. ===> TRUE
+343 The permeability to water of the renal tubular epithelium is high along all segments of the tubule. ===> FALSE
+344 The permeability to water of the renal tubular epithelium of the ascending limb of the loop of Henle isnot hormonally regulated. ===> TRUE
+345 The permeability to water of the renal tubular epithelium of the distal nephron is under the influenceof antidiuretic hormone. ===> TRUE
+346 With regard to the mechanisms leading to the concentration of urine, tubular fluid entering thedescending limb of the loop of Henle is approximately isotonic with arterial plasma. ===> TRUE
+347 With regard to the mechanisms leading to the concentration of urine, tubular fluid entering the thinsegment of the ascending limb is approximately isotonic with arterial plasma. ===> FALSE
+348 With regard to the mechanisms leading to the concentration of urine, the thick portion of theascending limb pumps electrolytes from the tubular fluid to the extracellular fluid. ===> TRUE
+349 With regard to the mechanisms leading to the concentration of urine, the concentration of urea in theextracellular fluid of the renal medulla is higher than that in the plasma. ===> TRUE
+350 Endothelial cells contribute to the medullary osmotic gradient by active transport of ions into theinterstitial space. ===> FALSE
+351 The countercurrent multiplier system would not function if the ascending limb of the loop of Henlewere permeable to water. ===> TRUE
+352 The countercurrent multiplier system requires active transport of sodium and chloride out of thedescending limb of the loop of Henle. ===> FALSE
+353 In the nephron, fluid in the tip of the loop of Henle is hypertonic with respect to the glomerular filtrate. ===> TRUE
+354 In the nephron, glomerular filtrate is hypertonic with respect to the fluid that leaves the thickascending loop of Henle. ===> TRUE
+355 In the nephron, the fluid at the end of the proximal convoluted tubule is hypertonic with respect to thetubular fluid leaving thick ascending limb of the loop of Henle. ===> TRUE
+356 In the nephron, the tubular fluid at the distal convoluted tubule is hypertonic with respect to the urinein the presence of antidiuretic hormone. ===> FALSE
+357 The amount of potassium excreted in the final urine is normally regulated primarily by potassiumsecreted by the cells of the distal nephron. ===> TRUE
+358 The amount of potassium excreted in the final urine is normally regulated primarily by potassiumreabsorbed by cells in the proximal convoluted tubule. ===> FALSE
+359 The amount of potassium excreted in the final urine is normally regulated primarily by potassiumreabsorbed by the Na-2Cl-K co-transporter of the thick ascending limb cells. ===> FALSE
+360 The kidney handles potassium by filtration, reabsorption, and secretion. ===> TRUE
+361 The kidney handles sodium by filtration and reabsorption. ===> TRUE
+362 The kidney handles sodium by filtration and secretion only. ===> FALSE
+363 The kidney handles creatinine by filtration and secretion. ===> TRUE
+364 The kidney handles creatinine by secretion only. ===> FALSE
+365 The kidney handles sodium by filtration only. ===> FALSE
+366 The primary active step for sodium reabsorption in the renal proximal tubule involves sodiumtransport via the Na-K-ATPase at the basolateral membrane. ===> TRUE
+367 The primary active step for sodium reabsorption in the renal proximal tubule involves sodiumglucose cotransport across the luminal membrane. ===> FALSE
+368 The primary active step for sodium reabsorption in the renal proximal tubule involvessodium/hydrogen ion counter transport across the luminal membrane. ===> FALSE
+369 Potassium ions are both reabsorbed and secreted in kidney tubules. ===> TRUE
+370 Potassium ions are secreted in the distal tubule under the influence of aldosterone. ===> TRUE
+371 Potassium ion secretion is increased in the proximal tubule in hypoaldosteronism. ===> FALSE
+372 Potassium ion concentration in the plasma in healthy man is 4.0 mmol/l. ===> TRUE
+373 The filtered load of potassium is higher than that of sodium. ===> FALSE
+374 Stimuli that cause increased sodium reabsorption may increase potassium excretion. ===> TRUE
+375 Under normal conditions, excretion fraction of potassium exceeds excretion fraction of sodium. ===> TRUE
+376 Calcium concentration in the plasma is 2.5 mmol/l. ===> TRUE
+377 Calcium reabsorption in kidney tubules is increased by parathyroid hormone. ===> TRUE
+378 Calcium concentration in the plasma is increased when the plasma concentration of parathyroidhormone is decreased below normal. ===> FALSE
+379 Calcium reabsorption is inhibited by aldosterone. ===> FALSE
+380 Urea excretion by kidneys depends on the glomerular filtration rate. ===> TRUE
+381 Urea is actively secreted by the renal tubules. ===> FALSE
+382 Urea has tubular transport maximum. ===> FALSE
+383 Urea renal clearance is lower than inulin clearance. ===> TRUE
+384 Urea is mostly produced in the liver. ===> TRUE
+385 Urea it is the principal end-product of nucleic acid metabolism. ===> FALSE
+386 Urea contributes substantially to the hypertonicity of the renal medulla in the absence of antidiuretichormone. ===> FALSE
+387 Urea is actively secreted in the thick ascending limb of the loop of Henle. ===> FALSE
+388 Chloride can move passively in some parts of the renal tubule. ===> TRUE
+389 Chloride concentration in the plasma is lower than that of sodium. ===> TRUE
+390 Chloride renal clearance is lower than urea clearance under normal conditions. ===> TRUE
+391 Chloride ion can be readily converted into bicarbonate ion in metabolic acidosis. ===> FALSE
+392 Low molecular weight protein is absorbed in the proximal tubule by pinocytosis. ===> TRUE
+393 Glomerular filtrate is absolutely free of protein. ===> FALSE
+394 Reabsorption of protein in the distal tubule is under hormonal control. ===> FALSE
+395 Protein filtered to the glomerular filtrate passes inevitably to the final urine. ===> FALSE
+396 Osmolality of the tubular fluid leaving the ascending segment of the loop of Henle can reach 100mmol/kg. ===> TRUE
+397 Osmolality of the tubular fluid leaving the ascending segment of the loop of Henle is isotonic withplasma. ===> FALSE
+398 Sodium concentration of the tubular fluid leaving the ascending segment of the loop of Henle is lowerthan in the plasma. ===> TRUE
+399 pH of the tubular fluid leaving the ascending segment of the loop of Henle is lower than that ofplasma. ===> TRUE
+400 pH of the tubular fluid leaving the ascending segment of the loop of Henle is higher than that ofplasma. ===> FALSE
+401 Tubular transport rate of some substances exceeds their tubular load. ===> TRUE
+402 Thin descending limb of the loop of Henle is not permeable to sodium and potassium. ===> FALSE
+403 Thin ascending limb of the loop of Henle is impermeable to sodium and potassium. ===> FALSE
+404 Water diffusion in the tubules takes place exclusively through aquaporine channels. ===> FALSE
+405 Some portions of nephron are impermeable to water even in absence of antidiuretic hormone. ===> TRUE
+406 Urea concentration in the tubular fluid leaving the proximal tubule is higher than in the glomerularfiltrate. ===> TRUE
+407 Sodium concentration in the tubular fluid leaving the proximal tubule is lower than in the glomerularfiltrate. ===> FALSE
+408 Urea concentration in the tubular fluid leaving the proximal tubule is higher than in the glomerularfiltrate. ===> TRUE
+409 Osmolality of the tubular fluid leaving the proximal tubule is lower than that of the glomerular filtratedue to active reabsorption of solutes. ===> FALSE
+410 pH of the tubular fluid leaving the proximal tubule is lower than that of the glomerular filtrate. ===> TRUE
+411 pH of the tubular fluid leaving the proximal tubule is higher than that of the glomerular filtrate. ===> FALSE
+412 Creatinine concentration in the tubular fluid leaving the proximal tubule is higher than in theglomerular filtrate. ===> TRUE
+413 Amino acid concentration in the tubular fluid leaving the proximal tubule is the same as in theglomerular filtrate. ===> FALSE
+414 Sodium concentration in the tubular fluid at the junction of the descending thin segment with theascending thin segment of the loop of Henle is higher than in the glomerular filtrate. ===> TRUE
+415 pH of the tubular fluid at the junction at the tip of the loop of Henle is lower than that of plasma. ===> TRUE
+416 pH of the tubular fluid at the tip of the loop of Henle is the same as that of final urine. ===> FALSE
+417 Urea concentration in the tubular fluid at the tip of the loop of Henle is equal to that in the plasma. ===> FALSE
+418 Osmolality of the tubular fluid at the junction of the descending thin segment with the ascending thinsegment of the loop of Henle is higher than or equal to maximum attainable osmolality of the finalurine. ===> TRUE
+419 The tubular fluid leaving the diluting segment of the nephron is always hypotonic. ===> TRUE
+420 The volume of the tubular fluid leaving the diluting segment of the nephron represents about 40% ofthe glomerular filtrate. ===> FALSE
+421 Urea concentration in the tubular fluid entering the collecting duct is approximately the same as inthe plasma. ===> FALSE
+422 The tubular fluid at the junction of the ascending thin segment with the ascending thick segment ofthe loop of Henle is always hypotonic. ===> FALSE
+423 Creatinine concentration in the tubular fluid at the junction of the ascending thin segment with theascending thick segment of the loop of Henle is equal to that in the end of the proximal tubule. ===> FALSE
+424 Sodium concentration in the tubular fluid at the junction of the ascending thin segment with theascending thick segment of the loop of Henle is higher than in the fluid leaving the thick segment. ===> TRUE
+425 The tubular fluid at the junction of the ascending thin segment with the ascending thick segment ofthe loop of Henle is hypotonic in case of antidiuretic hormone deficiency. ===> FALSE
+426 Tubular fluid entering the distal nephron is always isotonic. ===> FALSE
+427 The flow rate of the tubular fluid entering the distal nephron represents about 30% of the glomerularfiltration rate. ===> FALSE
+428 Urea concentration in the fluid entering the distal nephron is lower than in the plasma. ===> FALSE
+429 Osmolality of the tubular fluid entering the distal nephron is similar in the presence and in theabsence of antidiuretic hormone. ===> TRUE
+430 Osmotic pressure of the tubular fluid leaving the proximal tubule is determined largerly by sodium,chloride and urea concentration in the fluid. ===> TRUE
+431 Osmotic pressure of the tubular fluid leaving the proximal tubule is directly affected by aldosteroneconcentration in the plasma. ===> FALSE
+432 Osmotic pressure of the tubular fluid leaving the proximal tubule is determined by concentration offiltered low molecular weight protein. ===> FALSE
+433 Osmolality of the tubular fluid leaving the thick ascending segment of the loop of Henle is lower thanminimum attainable osmolality of the final urine. ===> FALSE
+434 Osmolality of the tubular fluid in the collecting duct can reach 700 mmol/kg even in the absence ofantidiuretic hormone. ===> FALSE
+435 Osmolality of the medullary interstitium can reach 700 mmol/kg even in the absence of antidiuretichormone. ===> TRUE
+436 Plasma osmolality decreases when the water intake is restricted. ===> FALSE
+437 Plasma osmolality increases when the water intake is restricted. ===> TRUE
+438 Osmolality of the glomerular filtrate can be increased in the absence of antidiuretic hormone. ===> TRUE
+439 Tubular transport of sodium is exclusively active. ===> FALSE
+440 Bicarbonate is formed from the carbonic acid in the proximal tubular cells. ===> TRUE
+441 Tubular reabsorption of bicarbonate is dependent on the activity of carbonic anhydrase. ===> TRUE
+442 Bicarbonate concentration in the glomerular filtrate is by 50% lower than in the plasma. ===> FALSE
+443 Potassium concentration in the glomerular filtrate is the same as in the intracellular fluid. ===> FALSE
+444 Potassium concentration in the glomerular filtrate is approximately the same as in the plasma. ===> TRUE
+445 Potassium concentration in the final urine is dependent on aldosterone secretion. ===> TRUE
+446 Potassium concentration in the final urine is comparable to that in the plasma. ===> FALSE
+447 Urea contributes to the osmolality of inner medulla by approximately 500 mmol/kg. ===> TRUE
+448 Urea diffusion into the glomerular filtrate is related to its concentration gradient across theglomerular membrane. ===> FALSE
+449 Urea is final product of protein metabolism. ===> TRUE
+450 Sodium concentration in the urine is lower in the absence of aldosterone. ===> FALSE
+451 Sodium concentration in the final urine is increased under antidiuretic hormone deficiency. ===> FALSE
+452 Sodium concentration in final urine is lower than normal under antidiuretic hormone deficiency. ===> TRUE
+453 Sodium reabsorption in the distal nephron is regulated via control of density and activity of Na-KATPase in the basolateral membrane of the tubular cells. ===> TRUE
+454 Sodium reabsorption in the descending limb of the loop of Henle is coupled to the reabsorption ofpotassium. ===> FALSE
+455 Sodium reabsorption in the nephron is dependent on dietary sodium intake. ===> TRUE
+456 Potassium reabsorption in the nephron is dependent on dietary potassium intake. ===> TRUE
+457 Potassium reabsorption rate in the nephron is significantly lower than its secretion rate. ===> FALSE
+458 Potassium reabsorption is regulated by andidiuretic hormone. ===> FALSE
+459 Potassium reabsorption takes place in the proximal tubule and thick ascending segment of the loopof Henle. ===> TRUE
+460 Low molecular weight protein is reabsorbed by pinocytosis in the proximal tubule. ===> TRUE
+461 Protein filtered into the glomerular filtrate passes in the same amount to the final urine. ===> FALSE
+462 Uric acid is the endproduct of protein metabolism. ===> FALSE
+463 Uric acid is the end product of nucleic acid metabolism. ===> TRUE
+464 Uric acid concentration in the fluid leaving the proximal tubule is the same as in the glomerularfiltrate. ===> FALSE
+465 Creatinine is slightly secreted by proximal tubular cells. ===> TRUE
+466 When glucose exceeds its renal threshold it can increase urine volume. ===> TRUE
+467 Aminoacids are reabsorbed by specific sodium cotransporters. ===> TRUE
+468 Essential aminoacids are not reabsorbed by the tubules. ===> FALSE
+469 The daily amount of protein in the glomerular filtrate is negligible (i.e. lower than 1 g/24 h). ===> FALSE
+470 Final urine does not contain protein. ===> FALSE
+471 Bile pigments can be detected in the urine in hemolytic anemia. ===> TRUE
+472 Free fatty acids that are freely filtered into the glomerular filtrate are reabsorbed by diffusion in theproximal tubule. ===> FALSE
+473 Urine concentration of a freely filtered substance that is by 99% reabsorbed is approximately equalto that in plasma. ===> TRUE
+474 Urine concentration of a freely filtered substance that is not secreted or reabsorbed is approximatelyequal to that in plasma. ===> FALSE
+475 Glucose is reabsorbed in the distal tubule. ===> FALSE
+476 Glucose is reabsorbed in the proximal tubule. ===> TRUE
+477 Glucose renal tubular reabsorption depends on the glucose tubular load until the tubular transportmaximum for glucose is reached. ===> TRUE
+478 If the tubular transport maximum for glucose is exceeded, reabsorption of glucose abruptlyincreases. ===> FALSE
+479 Urea reabsorption rate is under hormonal control. ===> TRUE
+480 Urea filtration rate is determined by its plasma concentration. ===> TRUE
+481 Urea filtration rate is under hormonal control. ===> FALSE
+482 The interstitium of the medulla has a considerably higher urea concentration than plasma. ===> TRUE
+483 In the kidney, the urea concentration in the interstitial fluid increases from the outer to the innermedulla. ===> TRUE
+484 Beginning with the thick ascending limb and continuing all the way to the medullary collecting ducts(through the distal tubule and cortical collecting ducts), the luminal membrane permeability to urea(and the tight junction permeability) is essentially zero. ===> TRUE
+485 As tubular fluid flows in the collecting-duct system from cortex to medulla, luminal urea concentrationfurther rises. ===> TRUE
+486 Urea excretion in final urine, over the long term, must match hepatic production of urea if the body isto remain in balance for urea. ===> TRUE
+487 Countercurrent multiplier system allows creation of medullary osmotic stratification even in theabsence of antidiuretic hormone. ===> TRUE
+488 Countercurrent multiplier system enables reabsorption of water and solutes in the proximal tubule. ===> FALSE
+489 Countercurrent multiplier system affects the glomerular filtration rate. ===> FALSE
+490 Countercurrent multiplier system enables production of hypotonic urine. ===> FALSE
+491 Countercurrent multiplier system enables production of hypertonic urine. ===> TRUE
+492 As tubular fluid flows from the convoluted part of the proximal tubule to the thin descending loop ofthe limb of Henle, its volume does not change substantially. ===> FALSE
+493 Glucose is reabsorbed in the proximal tubule only if its concentration exceeds the renal threshold. ===> FALSE
+494 Urea concentration in the proximal tubule decreases as it is reabsorbed by passive diffusionaccording its concentration gradient. ===> FALSE
+495 Most organic solutes are transported transcellularly by a large number of different saturablemultiporters (Tm systems). ===> TRUE
+496 Normal filtered loads of glucose are completely reabsorbed by a sodium-glucose symporter thatsaturates in conditions of pathological hyperglycemia, leading to the appearance of glucose in theurine. ===> TRUE
+497 In the nephron, urea is reabsorbed proximally and recycled between the collecting ducts and loop ofHenle in the medulla, resulting in a net excretion of about half the filtered load. ===> TRUE
+498 Concerning the juxtaglomerular apparatus, the juxtaglomerular cells are modified smooth musclecells. ===> TRUE
+499 Concerning the juxtaglomerular apparatus, the juxtaglomerular cells lie in the wall of the distalconvoluted tubules. ===> FALSE
+500 Concerning the juxtaglomerular apparatus, the macula densa cells secrete erythropoietin. ===> FALSE
+501 Concerning the juxtaglomerular apparatus, the macula densa cells secrete renin. ===> FALSE
+502 Concerning the juxtaglomerular apparatus, the juxtaglomerular cells lie in the walls of the afferentand efferent arterioles. ===> TRUE
+503 Concerning the juxtaglomerular apparatus, the macula densa cells are modified epithelial cells. ===> TRUE
+504 Concerning the juxtaglomerular apparatus, the macula densa cells secrete aldosterone. ===> FALSE
+505 Concerning the juxtaglomerular apparatus the macula densa cells are located in the early distaltubule. ===> TRUE
+506 Juxtaglomerular apparatus secretes renin in response to decreased NaCl concentration in thetubular fluid in the distal tubule. ===> TRUE
+507 Juxtaglomerular apparatus secretes angiotensin II in response to low blood pressure. ===> FALSE
+508 Juxtaglomerular apparatus is located exclusively in the juxtamedullary nephrons. ===> FALSE
+509 Juxtaglomerular apparatus is composed of endothelial cells. ===> FALSE
+510 Juxtaglomerular apparatus is composed of macula densa and juxtaglomerular cells. ===> TRUE
+511 Juxtaglomerular apparatus secretes renin in response to increased NaCl concentration in the tubularfluid in the distal tubule. ===> FALSE
+512 Juxtaglomerular apparatus secretes renin in response to low blood pressure. ===> TRUE
+513 Juxtaglomerular apparatus is located exclusively in the superficial nephrons. ===> FALSE
+514 In the diluting segment of the nephron, potassium is reabsorbed under the influence of aldosterone. ===> FALSE
+515 Aldosterone stimulates sodium reabsorption in the principal cells of late distal tubule (connectingtubule) and collecting duct. ===> TRUE
+516 Aldosterone stimulates sodium reabsorption in the pars recta (straight portion) of the proximal renaltubule. ===> FALSE
+517 Aldosterone stimulates sodium reabsorption in the thin ascending limb of Henle's loop. ===> FALSE
+518 Aldosterone stimulates sodium reabsorption in the thick ascending limb of Henle's loop. ===> FALSE
+519 Aldosterone is released in response to the increased level of angiotensin II. ===> TRUE
+520 Aldosterone decreases sodium reabsorption in the proximal tubule. ===> FALSE
+521 Aldosterone tends to decrease sodium excretion. ===> TRUE
+522 Aldosterone increases the total potassium reabsorption in the kidney. ===> FALSE
+523 Aldosterone decreases activity of Na-K-ATPase at the basolateral membrane of the distal nephron. ===> FALSE
+524 Aldosterone is a steroid hormone. ===> TRUE
+525 Aldosterone is secreted by the adrenal cortex. ===> TRUE
+526 Aldosterone is essential for reabsorption of 60% of sodium contained in the glomerular filtrate. ===> FALSE
+527 Aldosterone is essential for the osmotic stratification of the renal medulla. ===> FALSE
+528 Aldosterone secretion is increased under the influence of agiotensin II. ===> TRUE
+529 Aldosterone secretion is increased by the increased extracellular fluid volume. ===> FALSE
+530 Aldosterone secretion is increased by the decreased extracellular fluid volume. ===> TRUE
+531 Aldosterone secretion is decreased by increased renin release. ===> FALSE
+532 Aldosterone secretion is decreased when sodium chloride concentration in the tubular fluid isincreased. ===> TRUE
+533 Specific stimulus for the aldosterone secretion is increased potassium and decreased sodiumconcentrations in the extracellular fluid. ===> TRUE
+534 Specific stimulus for the aldosterone secretion is increased extracellular fluid volume. ===> FALSE
+535 Specific stimulus for the aldosterone secretion is dilatation of the heart ventricles. ===> FALSE
+536 Angiotensin I converting enzyme (ACE) produces angiotensin II with powerful vasoconstrictor effect. ===> TRUE
+537 Angiotensin I converting enzyme (ACE), both directly and through its product, tends to decreasemean arterial pressure. ===> FALSE
+538 Angiotensin I converting enzyme (ACE), through its product, tends to increase mean arterialpressure. ===> TRUE
+539 Angiotensin I converting enzyme (ACE), through its product, decreases aldosterone secretion. ===> FALSE
+540 Angiotensin I converting enzyme (ACE) is located particularly in the endothelium of pulmonarycapillaries. ===> TRUE
+541 Stimulation of renin secretion will cause an increase in the volume of the extracellular fluid. ===> TRUE
+542 Stimulation of renin secretion could cause a decrease in the potassium concentration in the blood. ===> TRUE
+543 Stimulation of renin secretion will cause an increase in the hematocrit. ===> FALSE
+544 Stimulation of renin secretion will cause an increase in the plasma colloid osmotic pressure. ===> FALSE
+545 Stimuli that increase the concentration of renin in the blood include decreased sodium and chlorideconcentrations in the tubular fluid. ===> TRUE
+546 Stimuli that increase the concentration of renin in the blood include increased mean arterial bloodpressure. ===> FALSE
+547 Stimuli that increase the concentration of renin in the blood include decreased mean arterial bloodpressure. ===> TRUE
+548 Stimuli that increase the concentration of renin in the blood include increased extracellular fluidvolume. ===> FALSE
+549 Stimuli that increase the concentration of renin in the blood include increased blood pressure in theafferent arteriole. ===> FALSE
+550 Stimuli that increase the concentration of renin in the blood include sympathetic stimulation of thejuxtaglomerular cells. ===> TRUE
+551 Angiotensin II constricts the afferent and efferent arterioles in the kidney. ===> TRUE
+552 Angiotensin II is a vasodilator. ===> FALSE
+553 Angiotensin II inhibits aldosterone production by the adrenal cortex. ===> FALSE
+554 Angiotensin II is formed from angiotensin I by renin. ===> FALSE
+555 Renin secretion depends on the extracellular fluid volume. ===> TRUE
+556 Renin secretion results in a decreased aldosterone secretion. ===> FALSE
+557 Renin secretion is increased by the decreased blood pressure in the afferent arteriole. ===> TRUE
+558 Renin secretion increases nitric oxide production in tissues. ===> FALSE
+559 Renin indirectly affects aldosterone secretion. ===> TRUE
+560 Renin is produced in the macula densa cells. ===> FALSE
+561 Renin has direct vasoconstrictory effects. ===> FALSE
+562 Renin is a hormone acting via G-protein coupled receptors. ===> FALSE
+563 Increase in the extracellular fluid volume tends to decrease production of angiotensin II. ===> TRUE
+564 Increase in the extracellular fluid volume tends to increase renin secretion. ===> FALSE
+565 Increase in the extracellular fluid volume can be caused by a deficient aldosterone secretion. ===> FALSE
+566 An acute increase in the NaCl concentration in the early distal tubule results in a signal from themacula densa that tends to constrict the afferent glomerular arteriole. ===> TRUE
+567 An acute increase in the NaCl concentration in the early distal tubule results in a signal from themacula densa that tends to dilate the afferent glomerular arteriole and constrict the efferentglomerular arteriole. ===> FALSE
+568 An acute increase in the NaCl concentration in the early distal tubule results in a signal from themacula densa that tends to constrict only the efferent glomerular arteriole. ===> FALSE
+569 Concerning the urinary bladder, the muscle in the bladder wall is smooth. ===> TRUE
+570 Concerning the urinary bladder, further concentration of the urine occurs here. ===> FALSE
+571 Concerning the urinary bladder, the lining epithelium is readily damaged by hyperosmolar solution. ===> FALSE
+572 Concerning the urinary bladder, the epithelium has a brush border. ===> FALSE
+573 Concerning the urinary bladder of an adult man, if fluid is injected via a urethral catheter, in thenormal person the initial rise in pressure subsequently falls to some extent. ===> TRUE
+574 The muscle in the urinary bladder wall is innervated by pudendal nerves. ===> FALSE
+575 The muscle in the urinary bladder wall is innervated by pelvic nerves. ===> TRUE
+576 The muscle in the urinary bladder wall is innervated by somatic nerves. ===> FALSE
+577 The muscle in the urinary bladder wall is innervated by autonomic nerves. ===> TRUE
+578 Concerning the urinary bladder, parasympathetic stimulation causes the bladder to relax. ===> FALSE
+579 Concerning the urinary bladder, parasympathetic innervation of the bladder originate from the dorsalmotor nucleus of the vagus nerve. ===> FALSE
+580 Concerning the urinary bladder, parasympathetic innervation of the bladder originate from the sacralsegments of the spinal cord. ===> TRUE
+581 The ureters have a well defined sphincter where they enter the bladder. ===> FALSE
+582 Stretch receptors in the bladder wall initiate the micturition reflex. ===> TRUE
+583 Generally, the supraspinal centers keep the micturition reflex inhibited except when there is a desireto urinate. ===> TRUE
+584 When the spinal cord is transected above the sacral region, the micturition reflex remains functional. ===> TRUE
+585 Urine volume will increase following decreased plasma osmolality. ===> TRUE
+586 Urine volume will increase following increased plasma volume. ===> TRUE
+587 Urine volume will increase following decrease in the tubular sodium reabsorption. ===> TRUE
+588 Urine volume will increase following increase in the tubular water reabsorption. ===> FALSE
+589 Urine osmolality can range between 50 and 1200 mmol/kg in healthy adults. ===> TRUE
+590 Urine osmolality can reach 10 times higher osmolality than plasma. ===> FALSE
+591 Decreased antidiuretic hormone (ADH) secretion can result in production of hypotonic urine. ===> TRUE
+592 Decreased antidiuretic hormone (ADH) secretion results in the decreased volume of the extracellularfluid. ===> TRUE
+593 Decreased antidiuretic hormone (ADH) secretion does not affect the interstitial osmotic pressure inthe renal medulla. ===> FALSE
+594 Decreased antidiuretic hormone (ADH) secretion can be caused by a decrease in volume ofextracellular fluid. ===> FALSE
+595 Increased antidiuretic hormone (ADH) secretion can be caused by the increased osmolality ofplasma. ===> TRUE
+596 Increased antidiuretic hormone (ADH) secretion can be caused by the decreased venous return. ===> TRUE
+597 Increased antidiuretic hormone (ADH) secretion results in the decreased water permeability of thedistal nephron. ===> FALSE
+598 Increased antidiuretic hormone (ADH) secretion results in the increased sodium reabsorption in thedistal nephron. ===> FALSE
+599 Antidiuretic hormone (ADH) decreases blood volume. ===> FALSE
+600 Antidiuretic hormone (ADH) is released in response to a hypertonic solution infused into the arteriesserving the anterior hypothalamus. ===> TRUE
+601 Antidiuretic hormone (ADH) is released during water deprivation. ===> TRUE
+602 Antidiuretic hormone (ADH) is released even in the well-hydrated subject. ===> TRUE
+603 Antidiuretic hormone secretion increases with an increase in plasma osmolality. ===> TRUE
+604 Antidiuretic hormone (ADH) activates the active sodium reabsorption in the distal tubule. ===> FALSE
+605 Antidiuretic hormone (ADH) is secreted in response to increased rate of impulses from the stretchreceptors in atria. ===> FALSE
+606 Antidiuretic hormone (ADH) is secreted from the anterior pituitary. ===> FALSE
+607 High osmolality in the medullary interstitial fluid is not contributed by the renal effect of aldosterone. ===> TRUE
+608 High osmolality in the medullary interstitial fluid is contributed by active transport of ions into theinterstitium by the thick portion of the ascending limb of the loop of Henle. ===> TRUE
+609 High osmolality in the medullary interstitial fluid is contributed the renal effect of ADH. ===> TRUE
+610 High osmolality in the medullary interstitial fluid is contributed by passive diffusion of large amountsof urea from the collecting duct into the interstitium. ===> TRUE
+611 The antidiuretic hormone (ADH) plasma concentration DOES NOT affect sodium reabsorption andpotassium secretion rates in the distal nephron. ===> TRUE
+612 The antidiuretic hormone (ADH) plasma concentration DOES NOT affect plasma osmolality. ===> FALSE
+613 The antidiuretic hormone (ADH) plasma concentration affects extracellular fluid volume. ===> TRUE
+614 Increase in the extracellular fluid volume tends to decrease antidiuretic hormone (ADH) secretionfrom the posterior pituitary. ===> TRUE
+615 A fall in the plasma sodium concentration tends to lower the total osmotic pressure of the plasma. ===> TRUE
+616 A fall in the plasma sodium concentration tends to cause the intracellular fluid volume to decrease. ===> FALSE
+617 A fall in the plasma sodium concentration is associated with excessive thirst. ===> FALSE
+618 A fall in the plasma sodium concentration can be caused by decreased secretion of antidiuretichormone (ADH). ===> FALSE
+619 Stimulation of the stretch receptors in atria leads to decreased antidiuretic hormone (ADH) secretion. ===> TRUE
+620 Stimulation of the stretch receptors in atria leads to increased aldosterone secretion. ===> FALSE
+621 Stimulation of the stretch receptors in atria leads to increased secretion of atrial natriuretic peptide. ===> TRUE
+622 Stimulation of the stretch receptors in atria leads to increased renin secretion. ===> FALSE
+623 The urine osmolality might decrease when active Na, K, and Cl transport in the ascending limb ofHenle is inhibited. ===> TRUE
+624 The urine osmolality might decrease when circulating level of antidiuretic hormone (ADH) decreases. ===> TRUE
+625 The urine osmolality might decrease when plasma sodium concentration is low. ===> TRUE
+626 The urine osmolality might decrease when water intake is decreased. ===> FALSE
+627 Erythropoietin is a hormone secreted by the kidneys. ===> TRUE
+628 The major contributor to the osmotically active solutes in the extracellular fluid is sodium. ===> TRUE
+629 The major contributor to the osmotically active solutes in the urine is urea. ===> TRUE
+630 The major contributor to the osmotically active solutes in the urine is creatinine. ===> FALSE
+631 The production of NH4+ by the complete metabolism of glutamine in the proximal tubule results in theproduction of 2NH4+ and 2HCO3- molecules for each molecule of glutamine metabolized. ===> TRUE
+632 The production of NH4+ by the complete metabolism of glutamine in the proximal tubule results in atoxic level of NH4+ inside the cells. ===> FALSE
+633 The production of NH4+ by the complete metabolism of glutamine in the proximal tubule results in therapid movement of NH4+ into the peritubular blood. ===> FALSE
+634 The production of NH4+ by the complete metabolism of glutamine in the proximal tubule results in areduction in sodium reabsorption across the luminal membrane. ===> FALSE
+635 In a normal subject excreting acidic urine, the rate of hydrogen ion secretion in the proximal tubule isgreater than that in the distal tubule. ===> TRUE
+636 In a normal subject excreting acidic urine, the minimum pH that can be attained in urine is about 4 - 4.5. ===> TRUE
+637 In a normal subject excreting acidic urine, hydrogen ion secretion occurs largely in exchange for thereabsorption of chloride ions. ===> FALSE
+638 In a normal subject excreting acidic urine, the acidification of the urine depends on thecountercurrent multiplier system. ===> FALSE
+639 Concerning acid-base homeostasis and kidney, the ammonium ions in the tubular fluid originate frommolecular ammonia transferred across the tubular epithelium cell membrane. ===> TRUE
+640 Concerning acid-base homeostasis and kidney, the renal tubular reabsorption of bicarbonateinvolves the transfer of bicarbonate ions from the renal tubular fluid to the tubular cells cytoplasm. ===> FALSE
+641 Concerning acid-base homeostasis and kidney, urinary ammonia is largely derived from glutamine. ===> TRUE
+642 Concerning acid-base homeostasis and kidney, acidosis is likely to be accompanied by an increasedconcentration of bicarbonate ions in urine. ===> FALSE
+643 Hydrogen ion concentration in the plasma is about 40 nmol/l. ===> TRUE
+644 Hydrogen ion secreted into the tubular fluid is buffered by ammonia filtered in the glomerular filtrate. ===> FALSE
+645 Hydrogen ion secretion in kidney tubules is increased in compensated respiratory alkalaemia. ===> FALSE
+646 Hydrogen ion concentration in urine increases in compensated respiratory acidaemia. ===> TRUE
+647 With regard to renal regulation of extracellular hydrogen ion concentration, the excretion of hydrogenion is related to the amount of ammonia formed in tubular cells. ===> TRUE
+648 With regard to renal regulation of extracellular hydrogen ion concentration, hydrogen ion excretion isdependent upon regulating the amount of hydrogen ion filtered by the kidney. ===> FALSE
+649 With regard to renal regulation of extracellular hydrogen ion concentration, the reabsorption ofbicarbonate ion is dependent upon the secretion of hydrogen ion. ===> TRUE
+650 With regard to renal regulation of extracellular hydrogen ion concentration, most of the hydrogen ionexcreted in urine is bound to bicarbonate ion. ===> FALSE
+651 In the renal tubular fluid, secreted hydrogen ions are buffered by monohydrogen phosphate ions(HPO42-). ===> TRUE
+652 In the renal tubular fluid, secreted hydrogen ions are buffered by ammonia. ===> TRUE
+653 In the renal tubular fluid, secreted hydrogen ions are buffered by bicarbonate ions. ===> TRUE
+654 The major buffering system in the plasma is bicarbonate. ===> TRUE
+655 Carbonic anhydrase is located in the brush border of the tubular epithelial cells. ===> TRUE
+656 Carbonic anhydrase is a proteolytic enzyme. ===> FALSE
+657 Carbonic anhydrase catalyzes the conversion of water and carbon dioxide into carbonic acid. ===> TRUE
+658 Metabolic acidosis may be caused by increase in the plasma concentration of lactic acid duringphysical exercise. ===> TRUE
+659 Metabolic acidosis may result from the increased formation of hydrochloric acid in the stomach. ===> FALSE
+660 Metabolic acidosis may result from decreased alveolar ventilation. ===> FALSE
+661 Metabolic acidosis can be corrected by increasing pH of urine. ===> TRUE
+662 Respiratory acidosis is primarily caused by increased partial pressure of carbon dioxide. ===> TRUE
+663 Metabolic acidosis is primarily caused by decreased concentration of plasma bicarbonate. ===> TRUE
+664 Metabolic alkalosis is caused by increased concentration of plasma bicarbonate. ===> TRUE
+665 Respiratory alkalosis is primarily caused by decreased partial pressure of carbon dioxide. ===> TRUE
+666 Respiratory acidosis is primarily caused by decreased partial pressure of carbon dioxide. ===> FALSE
+667 Respiratory acidosis is primarily caused by increased concentration of plasma bicarbonate. ===> FALSE
+668 Respiratory acidosis is primarily caused by decreased concentration of plasma bicarbonate. ===> FALSE
+669 Metabolic acidosis is primarily caused by increased concentration of plasma bicarbonate. ===> FALSE
+670 Metabolic acidosis is primarily caused by increased partial pressure of carbon dioxide. ===> FALSE
+671 Metabolic acidosis is primarily caused by decreased partial pressure of carbon dioxide. ===> FALSE
+672 Metabolic alkalosis is primarily caused by increased partial pressure of carbon dioxide. ===> FALSE
+673 Metabolic alkalosis is primarily caused by decreased partial pressure of carbon dioxide. ===> FALSE
+674 Metabolic alkalosis is primarily caused by decreased concentration of plasma bicarbonate. ===> FALSE
+675 Respiratory alkalosis is primarily caused by increased partial pressure of carbon dioxide. ===> FALSE
+676 Respiratory alkalosis is primarily caused by decreased concentration of plasma bicarbonate. ===> FALSE
+677 Respiratory alkalosis is primarily caused by increased concentration of plasma bicarbonate. ===> FALSE
+678 In uncompensated metabolic acidosis plasma pH is decreased. ===> TRUE
+679 In uncompensated metabolic acidosis hydrogen ion concentration in the plasma is increased. ===> TRUE
+680 In uncompensated metabolic acidosis bicarbonate concentration in the plasma is decreased. ===> TRUE
+681 In uncompensated metabolic acidosis plasma partial pressure of carbon dioxide is increased. ===> FALSE

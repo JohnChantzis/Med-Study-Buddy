@@ -1,0 +1,6 @@
+# Prefix_A = [CZ]\n\n\n , Prefix_B = [EN]\n\n\n
+// á č ď é ě í ň ó ř š ť ú ů ý ž
+
+zelená = green
+hnědá = brown
+oranžová = orangefialová = purplemodrá = bluebílá = whitešedá = grayrůžová = pinkžlutá = yellowčervená = redčerná = black

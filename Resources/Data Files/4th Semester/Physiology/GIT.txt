@@ -1,0 +1,526 @@
+1 Absorption of proteins in the small intestine is not possible. ===> FALSE
+2 After acclimatization to heat aldosterone secretion increases to minimize the loss ofpotassium. ===> FALSE
+3 After acclimatization to heat aldosterone secretion increases to minimize the loss ofsodium. ===> TRUE
+4 After acclimatization to heat the sweating becomes later and the production ofsweat is lower in comparison with the situation before acclimatization. ===> FALSE
+5 After acclimatization to heat the sweating becomes sooner and the production ofsweat is greater in comparison with the situation before acclimatization. ===> TRUE
+6 All neural reflexes concerning the gastrointestinal processes are initiated by signalswithin the gastrointestinal tract. ===> FALSE
+7 Amino acids absorption in the small intestine does not require energy. ===> FALSE
+8 Amino acids are transported across the basolateral membrane by active transportmechanism. ===> FALSE
+9 Amino acids are transported across the basolateral membrane by specialtransporters. ===> TRUE
+10 Amino acids in the small intestine are absorbed by H+ cotransport. ===> FALSE
+11 Aminoacids are absorbed in the small intestine by sodium cotransport. ===> TRUE
+12 Area postrema is stimulated e.g. by abnormal distension of the stomach and theintestine. ===> FALSE
+13 Area postrema located outside the blood-brain barrier inhibits vomiting. ===> FALSE
+14 Basal metabolic rate is decreased in persons with hyperthyroidism. ===> FALSE
+15 Basal metabolic rate is decreased in persons with hypothyroidism. ===> TRUE
+16 Basal metabolic rate is increased in persons with hyperthyroidism. ===> TRUE
+17 Basal metabolic rate is increased in persons with hypothyroidism. ===> FALSE
+18 Bile salts are absorbed in the intestine by sodium antiport. ===> FALSE
+19 Bile salts are absorbed in the intestine by sodium cotransport. ===> TRUE
+20 Bile salts are derived from end-products of red cell breakdown. ===> FALSE
+21 Bile salts enter the enterohepatic circulation particularly in the colon. ===> FALSE
+22 Bile salts enter the enterohepatic circulation particularly in the ileum. ===> TRUE
+23 Calorigenic effect is the ability to increase basal metabolic rate. ===> TRUE
+24 Cellulose is digested by salivary and pancreatic amylases. ===> FALSE
+25 Cellulose is not broken down by enzymes in the small intestine. ===> TRUE
+26 Colonic bacteria produce the small amount of vitamin D. ===> FALSE
+27 Colonic bacteria produce the small amount of vitamin K. ===> TRUE
+28 Continuous recirculation of bile salts is called enterohepatic circulation. ===> TRUE
+29 Continuous recirculation of bile salts is called splanchnic circulation. ===> FALSE
+30 Daily intake of lipids covers about one-third of the average daily caloric intake. ===> TRUE
+31 Daily intake of lipids covers about two-thirds of the average daily caloric intake. ===> FALSE
+32 Defecation is a spinal reflex that can be voluntarily overridden. ===> TRUE
+33 Dietary fat absorption is completed in the colon. ===> FALSE
+34 Dietary fat absorption is completed in the small intestine. ===> TRUE
+35 Dietary fat intake is essential for synthesis of prostaglandins. ===> TRUE
+36 Dietary fat is absorbed into the intestinal blood capillaries in the form ofchylomicrons. ===> FALSE
+37 Dietary fat is absorbed into the lymphatic capillaries in the form of chylomicrons. ===> TRUE
+38 Dietary fat is absorbed into the lymphatic capillaries in the form of micelles. ===> FALSE
+39 Digested fats are absorbed into enterocytes as chylomicrons. ===> FALSE
+40 Digested fats are absorbed into enterocytes as micelles. ===> FALSE
+41 Digested fats are absorbed into enterocytes by diffusion. ===> TRUE
+42 Digestion of fat is dependent on the presence of enzymes in the cell membrane ofenterocytes. ===> FALSE
+43 Digestion of fat is dependent on the presence of the pancreatic enzymes in thesmall intestine. ===> TRUE
+44 Distension of the colon causes relaxation of the sphincter surrounding the ileocecalvalve. ===> FALSE
+45 Distension of the colon leads to contraction of the sphincter surrounding theileocecal valve. ===> TRUE
+46 During absorptive period, hepatocytes convert plasma glucose into glycogen andtriglycerides. ===> TRUE
+47 During the fasting, hepatocytes convert fatty acids into ketones. ===> TRUE
+48 Energy gained per one gram of a given nutrient in the human body is calledphysically available energy. ===> FALSE
+49 Energy gained per one gram of a given nutrient in the human body is calledphysiologically available energy. ===> TRUE
+50 Energy gained per one gram of carbohydrate in a bomb calorimeter is 17 kJ. ===> TRUE
+51 Energy gained per one gram of carbohydrate in a bomb calorimeter is 23 kJ. ===> FALSE
+52 Energy gained per one gram of carbohydrate in the human body is 17 kJ. ===> TRUE
+53 Energy gained per one gram of carbohydrate in the human body is 38 kJ. ===> FALSE
+54 Energy gained per one gram of fat in a bomb calorimeter is 23 kJ. ===> FALSE
+55 Energy gained per one gram of fat in in a bomb calorimeter is 38 kJ. ===> TRUE
+56 Energy gained per one gram of fat in the human body is 17 kJ. ===> FALSE
+57 Energy gained per one gram of fat in the human body is 38 kJ. ===> TRUE
+58 Energy gained per one gram of protein in a bomb calorimeter is 17 kJ. ===> FALSE
+59 Energy gained per one gram of protein in a bomb calorimeter is 23 kJ. ===> TRUE
+60 Energy gained per one gram of protein in the human body is 17 kJ. ===> TRUE
+61 Energy gained per one gram of protein in the human body is 23 kJ. ===> FALSE
+62 Enteroendocrine cells of the gastric glands produce gastrin. ===> TRUE
+63 Enteroendocrine cells of the gastric glands produce histamine. ===> FALSE
+64 Enterogastrons are gastric enzymes responsible for protein digestion. ===> FALSE
+65 Enterogastrons have the same effect on gastric secretion as somatostatin. ===> TRUE
+66 Enterohepatic circulation is the recycling of bile salts from the liver to the smallintestine and back. ===> TRUE
+67 Enterochromaffin-like (ECL) cells of the stomach produce histamine. ===> TRUE
+68 Enterochromaffin-like (ECL) cells of the stomach produce somatostatin. ===> FALSE
+69 Enterochromaffin-like cells of the gastric glands produce gastrin. ===> FALSE
+70 Enterochromaffin-like cells of the gastric glands produce histamine. ===> TRUE
+71 Fat absorption requires the presence of bile acids in enterocytes. ===> FALSE
+72 Fat absorption requires the presence of bile salts in the intestinal lumen. ===> TRUE
+73 Fat-soluble vitamins involve vitamin C and vitamins of B group. ===> FALSE
+74 Fat-soluble vitamins involve vitamins A, D, E, and K. ===> TRUE
+75 Fat-soluble vitamins involve, among others, vitamins C, B12 and folic acid. ===> FALSE
+76 Folic acid is essential for synthesis of deoxyribonucleic acid (DNA). ===> TRUE
+78 Fructose is absorbed in the small intestine by facilitated diffusion across the luminalmembrane. ===> TRUE
+79 Galactose is absorbed in the small intestine by facilitated diffusion across theluminal membrane. ===> FALSE
+80 Galactose is absorbed in the small intestine by Na+ cotransport across thebasolateral membrane. ===> FALSE
+81 Galactose is absorbed in the small intestine by Na+ cotransport across the luminalmembrane. ===> TRUE
+82 Gastric emptying is accelerated by the presence of acid in the duodenum andinhibited by cholecystokinin. ===> FALSE
+83 Gastric emptying is directly proportional to the resistance of the pylorus. ===> FALSE
+84 Gastric emptying leads to contraction of the ileocecal sphincter by gastroilealreflex. ===> FALSE
+85 Gastric emptying leads to relaxation of the ileocecal sphincter by gastroileal reflex. ===> TRUE
+86 Gastric motility is inhibited by enterogastric reflex and cholecystokinin. ===> TRUE
+87 Gastric motility is inhibited by somatostatin and by sympathetic stimulation. ===> TRUE
+88 Gastric motility is stimulated by distension of stomach and parasympathetic activity. ===> TRUE
+89 Gastric parietal (oxyntic) cells secrete intrinsic factor and hydrochloric acid. ===> TRUE
+90 Gastric parietal (oxyntic) cells secrete pepsinogen and hydrochloric acid. ===> FALSE
+91 Gastric secretion decreases by distension of the stomach. ===> FALSE
+92 Gastric secretion decreases under the influence of secretin. ===> TRUE
+93 Gastric secretion decreases when the activity of carbonic anhydrase is inhibited. ===> TRUE
+94 Gastric secretion increases by distension of the stomach. ===> TRUE
+95 Gastric secretion increases under the influence of secretin. ===> FALSE
+96 Gastric secretion increases when the activity of carbonic anhydrase is inhibited. ===> FALSE
+97 Gastric secretion is inhibited by administration of antihistaminic drugs. ===> TRUE
+98 Gastric secretion is inhibited by distension of duodenum. ===> TRUE
+99 Gastric secretion is inhibited by enterogastrones which include secretin andcholecystokinin. ===> TRUE
+100 Gastric secretion is inhibited by histamine antagonist and by somatostatin. ===> TRUE
+101 Gastric secretion is inhibited due to a decrease in H+ concentration in gastriccontent. ===> FALSE
+102 Gastric secretion is inhibited due to an increase in H+ concentration in gastriccontent. ===> TRUE
+103 Gastric secretion is inhibited due to increase in osmolarity of intestinal content. ===> TRUE
+104 Gastric secretion is stimulated by administration of antihistaminic drugs. ===> FALSE
+105 Gastric secretion is stimulated by distension of duodenum. ===> FALSE
+106 Gastric secretion is stimulated by histamine and inhibited by secretin. ===> TRUE
+107 Gastric secretion is stimulated by histamine and secretin. ===> FALSE
+108 Gastric secretion is stimulated by histamine antagonist and by somatostatin. ===> FALSE
+109 Gastric secretion is stimulated by secretin and inhibited by cholecystokinin. ===> FALSE
+110 Gastric secretion is stimulated by sight, smell and taste of the favorite food. ===> TRUE
+111 Gastric secretion is stimulated due to increase in osmolarity of intestinal content. ===> FALSE
+112 Gastrin and neural reflexes coordinates the cephalic phase of the gastrointestinalcontrol. ===> FALSE
+113 Gastrin and neural reflexes coordinates the gastric phase of the gastrointestinalcontrol. ===> TRUE
+114 Gastrin is a peptide hormone, while secretin and cholecystokinin are steroidhormones. ===> FALSE
+115 Gastrin is released mainly from cells in the antrum of the stomach. ===> TRUE
+116 Gastrin is released mainly from cells in the fundus of the stomach. ===> FALSE
+117 Gastrin release is inhibited by protein breakdown products. ===> FALSE
+118 Gastrin release is inhibited by somatostatin or by acidic content in the stomach. ===> TRUE
+119 Gastrin release is stimulated by protein breakdown products. ===> TRUE
+120 Gastrin release is stimulated by somatostatin or by acidic content in the stomach. ===> FALSE
+121 Gastrin secretion is stimulated by the parasympathetic activity. ===> TRUE
+122 Gastrin secretion is stimulated by the sympathetic activity. ===> FALSE
+123 Gastrin stimulates gastric and intestinal motility. ===> TRUE
+124 Gastrin stimulates gastric motility and inhibits intestinal motility. ===> FALSE
+125 Gastrin stimulates gastric secretion and motility. ===> TRUE
+126 Gastrin stimulates gastric secretion and salivation. ===> FALSE
+127 Gastrin stimulates secretory activity of the enterochromaffin-like cells producinghistamine. ===> TRUE
+128 Gastrin stimulates secretory activity of the enterochromaffin-like cells producingsomatostatin. ===> FALSE
+129 Gastrointestinal hormones are secreted from cells scattered in the intestinal andgastric mucosa. ===> TRUE
+130 Gastrointestinal hormones are secreted from discrete endocrine glands of thealimentary tract, e.g. by pancreas or liver. ===> FALSE
+131 Gastrointestinal hormones like gastrin, secretin and cholecystokinin are peptides. ===> TRUE
+132 Glucose is absorbed in the small intestine by facilitated diffusion across the luminalmembrane. ===> FALSE
+133 Glucose is absorbed in the small intestine by Na+ cotransport across the luminalmembrane. ===> TRUE
+134 Glucose-dependent insulinotropic peptide (GIP) is released in response to thepresence of fat and glucose in the small intestine. ===> TRUE
+135 Hepatocytes contribute to the activation of vitamin D. ===> TRUE
+136 Hepatocytes contribute to the activation of vitamin K. ===> FALSE
+137 Hepatocytes convert plasma cholesterol into bile pigments which are excreted intothe bile. ===> FALSE
+138 Hepatocytes produce lipolytic enzymes essential for digestion of triglycerides. ===> FALSE
+139 Hepatocytes produce the bile which is secreted into the liver sinusoids. ===> FALSE
+140 Hormones decreasing the metabolic rate are among others thyroid hormone andepinephrine. ===> FALSE
+141 Hormones increasing the metabolic rate are among others thyroid hormone andepinephrine. ===> TRUE
+142 Hydrochloric acid is important for absorption of fat-soluble vitamins. ===> FALSE
+143 Hydrochloric acid is important for activation of trypsinogen. ===> FALSE
+144 Hydrochloric acid is important for antibacterial action. ===> TRUE
+145 Chewing is controlled by autonomic nerves innervating the skeletal muscles ofmouth and jaw. ===> FALSE
+146 Chewing is controlled by somatic nerves innervating the skeletal muscles of mouthand jaw. ===> TRUE
+147 Chewing reflex is initiated by stimulation of chemoreceptors in the oral cavity. ===> FALSE
+148 Chief cells of gastric glands produce HCl and intrinsic factor. ===> FALSE
+149 Chief cells of gastric juice contain carbonic anhydrase. ===> FALSE
+150 Chief cells of gastric juice release an inactive form of proteolytic enzyme. ===> TRUE
+151 Chief cells of gastric juice secrete gastrin due to distension of stomach by food. ===> FALSE
+152 Cholecystokinin causes relaxation of the gallbladder and the sphincter of Oddi. ===> FALSE
+153 Cholecystokinin has the same effect on gastric motility as gastrin. ===> FALSE
+154 Cholecystokinin has the same effect on gastric motility as secretin. ===> TRUE
+155 Cholecystokinin inhibits the effect of secretin in the gastrointestinal tract - thisphenomenon is called hormonal inhibition. ===> FALSE
+156 Cholecystokinin is released in response to the presence of fatty and amino acids inthe duodenum. ===> TRUE
+157 Cholecystokinin is released in the direct response to low pH in the duodenum. ===> FALSE
+158 Cholecystokinin is released in the direct response to the change of pH in theduodenum. ===> FALSE
+159 Cholecystokinin is released in the response to presence of fatty acids and aminoacids in the small intestine. ===> TRUE
+160 Cholecystokinin release is inhibited due to the presence of fatty amino acids in theduodenum. ===> FALSE
+161 Cholecystokinin stimulates both gastric and pancreatic secretions. ===> FALSE
+162 Cholecystokinin stimulates pancreatic secretion but inhibits the gastric one. ===> TRUE
+163 Cholecystokinin stimulates secretion of pancreatic juice rich in the enzymes. ===> TRUE
+164 Cholecystokinin stimulates the effect of secretin in the gastrointestinal tract - thisphenomenon is called potentiation. ===> TRUE
+165 Cholecystokinin stimulates the entry of bile into the small intestine by contraction ofthe gallbladder and relaxation of the sphincter of Oddi. ===> TRUE
+166 Cholecystokinin, secretin and neural reflexes coordinates the intestinal phase ofthe gastrointestinal control. ===> TRUE
+167 Chylomicrons are formed in the enterocytes while micelles are formed in the lumenof the small intestine. ===> TRUE
+168 If the activity of Na+/K+/ATPase on the basolateral membrane of enterocytes isblocked, the absorption of aminoacids is inhibited. ===> TRUE
+169 If the activity of Na+/K+/ATPase on the basolateral membrane of enterocytes isblocked, the absorption of fructose is inhibited. ===> FALSE
+170 If the activity of Na+/K+/ATPase on the basolateral membrane of enterocytes isblocked, the absorption of glucose is inhibited. ===> TRUE
+171 Impaired function of hepatocytes can lead to the excessive bleeding. ===> TRUE
+172 In the bomb calorimeter physically available energy is measured. ===> TRUE
+173 In the bomb calorimeter physiologically available energy is measured. ===> FALSE
+174 In the bomb calorimeter protein is combusted to urea. ===> FALSE
+175 In the gastrointestinal smooth muscle, the electrical activity is conducted throughgap junctions. ===> TRUE
+176 In the gastrointestinal smooth muscle, the frequency of spikes determines theduration of the muscle contraction. ===> FALSE
+177 In the gastrointestinal smooth muscle, the frequency of spikes determines the forceof the muscle contraction. ===> TRUE
+178 In the gastrointestinal smooth muscle, the inner layer of circular muscle and theouter layer of longitudinal muscle are distinguished. ===> TRUE
+179 In the gastrointestinal smooth muscle, the inner layer of longitudinal muscle and theouter layer of circular muscle are distinguished. ===> FALSE
+180 In the human body protein is combusted to urea. ===> TRUE
+181 In the large intestine, absorption of nutrients from the food is NOT possible. ===> TRUE
+182 In the large intestine, absorption of nutrients from the food is possible. ===> FALSE
+183 In the large intestine, secretion is usually alkaline due to HCO3- content. ===> TRUE
+184 In the large intestine, secretion is usually alkaline due to K+ content. ===> FALSE
+185 In the medulla oblongata, there are swallowing and vomiting centers. ===> TRUE
+186 In the pancreas, bicarbonate secretion may be slowed down by inhibitors ofcarbonic anhydrase. ===> TRUE
+187 In the pancreas, bicarbonate secretion may be stimulated by inhibitors of carbonicanhydrase. ===> FALSE
+188 In the pancreas, enzymes for the breakdown of all major nutrients are formed. ===> TRUE
+189 In the small intestine fructose is absorbed by facilitated diffusion across the luminalmembrane. ===> TRUE
+190 In the small intestine fructose is absorbed by sodium cotransport across the luminalmembrane. ===> FALSE
+191 In the small intestine, micelles are bigger than emulsion droplets of fat. ===> FALSE
+192 In the small intestine, micelles in are smaller than emulsion droplets of fat. ===> TRUE
+193 Increase in body temperature or environmental temperature leads to a decrease inthe metabolic rate. ===> FALSE
+194 Increase in body temperatures or environmental temperature leads to an increasein the metabolic rate. ===> TRUE
+195 Increased secretion of enterogastrones stimulates gastric emptying. ===> FALSE
+196 Intestinal juice contains enzymes that digest monosaccharides. ===> FALSE
+197 Intestinal juice is secreted in volume about 1.5 L per day. ===> TRUE
+198 Intrinsic factor is necessary for absorption of vitamin B12. ===> TRUE
+199 Iron deficiency is associated with anemia. ===> TRUE
+200 Iron deficiency is associated with the excessive bleeding. ===> FALSE
+201 Iron is essential for the formation of thyroid hormones. ===> FALSE
+202 K+/H+/ATPase is located on the basolateral membrane of the parietal cell in thestomach. ===> FALSE
+203 K+/H+/ATPase is located on the luminal membrane of the parietal cell in thestomach. ===> TRUE
+204 Lactose is digested by the intestinal enzyme to form one molecule of glucose andone molecule of fructose. ===> FALSE
+205 Lactose is digested by the intestinal enzyme to form one molecule of glucose andone molecule of galactose. ===> TRUE
+206 Liver sinusoids collect the blood from branches of hepatic veins. ===> FALSE
+207 Liver sinusoids collect the blood from branches of portal vein and hepatic artery. ===> TRUE
+208 Low pH of gastric juice stimulates gastrin secretion. ===> FALSE
+209 Luminal membranes of the small intestine cells contain enzymes for digestion ofdisaccharides and oligopeptides. ===> TRUE
+210 Maltose is split on the brush border of enterocytes to form two molecules ofgalactose. ===> FALSE
+211 Maltose is split on the brush border of enterocytes to form two molecules ofglucose. ===> TRUE
+212 Mechanism of HCl production by the parietal cells of the stomach involvesdissociation of H2CO3 into H+ and HCO3- catalyzed by carbonic anhydrase. ===> FALSE
+213 Mechanism of HCl production by the parietal cells of the stomach involvesformation of H2CO3 from water and CO2 - this reaction is catalyzed by carbonicanhydrase. ===> TRUE
+214 Mechanism of HCl secretion by the parietal cells of the stomach involves activesecretion of H+ into lumen of stomach in exchange for K+. ===> TRUE
+215 Mechanism of HCl secretion by the parietal cells of the stomach involves secretionof Cl- into lumen of stomach in exchange for HCO3-. ===> FALSE
+216 Mechanism of HCl secretion by the parietal cells of the stomach involves transportof HCO3- from blood into the parietal cell in exchange for Cl-. ===> FALSE
+217 Mechanism of HCl secretion in the parietal cells of the stomach involves transportof HCO3- from the parietal cell into the blood in exchange for Cl-. ===> TRUE
+218 Mechanism which is stimulated by cold is increased muscle tone and voluntaryactivity. ===> TRUE
+219 Mechanisms which are stimulated by cold is decreased skin blood flow anddecreased food appetite. ===> FALSE
+220 Micelles are formed in the enterocytes while chylomicrons are formed in the lumenof the small intestine. ===> FALSE
+221 Micelles support the absorption of fat by digesting triglyceride into monoglycerideand fatty acids. ===> FALSE
+222 Micelles support the absorption of fat by keeping the insoluble products of fatdigestion in small aggregates. ===> TRUE
+223 Micelles support the absorption of fat by promoting direct fat absorption across theintestinal epithelium. ===> FALSE
+224 Monosaccharides are absorbed across the basolateral membrane into theinterstitial fluid by facilitated diffusion. ===> TRUE
+225 Monosaccharides are absorbed across the basolateral membrane into theinterstitial fluid by Na+ cotransport . ===> FALSE
+226 Negative nitrogen balance occurs usually in children. ===> FALSE
+227 Negative nitrogen balance occurs usually in physical injury. ===> TRUE
+228 Nitrogen balance is negative, when the daily intake of nitrogen is higher than itsdaily loss. ===> FALSE
+229 Nitrogen balance is negative, when the daily intake of nitrogen is lower than itsdaily loss. ===> TRUE
+230 Nitrogen balance is positive, when the daily intake of nitrogen is higher than itsdaily loss. ===> TRUE
+231 Nitrogen balance is positive, when the daily intake of nitrogen is lower than its dailyloss. ===> FALSE
+232 Nonpolar portions of bile salts associate with lipids while the polar ones areexposed at the water surface. ===> TRUE
+233 Pancreatic proteolytic enzymes include trypsin, chymotrypsin and amylase. ===> FALSE
+234 Parasympathetic stimulation leads to decrease in the gastric acid secretion. ===> FALSE
+235 Parasympathetic stimulation leads to increase in the gastric acid secretion. ===> TRUE
+236 Pepsin accelerates protein digestion. ===> TRUE
+237 Pepsin is a lipolytic enzyme secreted by chief cells of the gastric glands. ===> FALSE
+238 Pepsin is inactivated in the small intestine by the intestinal enzyme enterokinase. ===> FALSE
+239 Pepsin is inactivated in the small intestine where the acid gastric juice isneutralized by HCO3-. ===> TRUE
+240 Pepsinogen activation is an autocatalytic, positive-feedback process. ===> TRUE
+241 Pepsinogen is activated by pepsin and low pH of gastric juice. ===> TRUE
+242 Pepsinogen is converted into pepsin by enterokinase and low pH of the gastricjuice. ===> FALSE
+243 Pepsinogen is essential for protein digestion. ===> FALSE
+244 Pepsinogen is produced by chief cells of the gastric glands. ===> TRUE
+245 Pepsinogen is produced by parietal cells of the gastric glands. ===> FALSE
+246 Pepsinogen secretion increases due to parasympathetic stimulation. ===> TRUE
+247 Physiologically available energy is the same as physically available energy in caseof carbohydrate and fat. ===> TRUE
+248 Physiologically available energy is the same as physically available energy in caseof carbohydrate and protein. ===> FALSE
+249 Polar portions of bile salts associate with lipids while the nonpolar ones areexposed at the water surface. ===> FALSE
+250 Positive nitrogen balance occurs usually in children. ===> TRUE
+251 Positive nitrogen balance occurs usually in physical injury. ===> FALSE
+252 Protein absorption can be performed by endocytosis in the gut. ===> TRUE
+253 Protein digestion begins in the mouth by salivary amylase. ===> FALSE
+254 Protein digestion begins in the stomach by pepsin. ===> TRUE
+255 Protein is absorbed in the small intestine by sodium cotransport. ===> FALSE
+256 Proteins are digested mainly by gastric, pancreatic and intestinal proteolyticenzymes. ===> TRUE
+257 Proteins are digested mainly by salivary, gastric and pancreatic proteolyticenzymes. ===> FALSE
+258 Receptive regulation of stomach is mediated by sympathetic nerves. ===> FALSE
+259 Receptive regulation of the stomach is mediated by parasympathetic nerves. ===> TRUE
+260 Resting membrane potential of the smooth muscle cells in the stomach is about -60mV. ===> TRUE
+261 Resting membrane potential of the smooth muscle cells in the stomach is about -80mV. ===> FALSE
+262 Saliva contains amylase, mucus, salts and water. ===> TRUE
+263 Saliva contains amylase, secretin, salts and water. ===> FALSE
+264 Saliva contains substances with antibacterial action. ===> TRUE
+265 Saliva is essential for proteins digestion. ===> FALSE
+266 Saliva secretion is increased in response to parasympathetic stimulation anddecreased in response to sympathetic stimulation. ===> FALSE
+267 Salivary secretion is exclusively under neural control. ===> TRUE
+268 Salivary secretion is increased in response to parasympathetic stimulation. ===> TRUE
+269 Salivary secretion is increased in response to sympathetic stimulation. ===> TRUE
+270 Salivary secretion is increased in response to vasoconstriction of vessels supplyingthe salivary glands. ===> FALSE
+271 Salivary secretion is increased in response to vasodilatation of vessels supplyingthe salivary glands. ===> TRUE
+272 Salivary secretion is stimulated by secretin and inhibited by gastrin. ===> FALSE
+273 Salivary secretion is under hormonal and nervous control. ===> FALSE
+274 Salivation increases due to smell or sight of food - this reflex is conditioned. ===> TRUE
+275 Salivation increases when tactile receptors in the mouth are stimulated by the food. ===> TRUE
+276 Secretin and cholecystokinin inhibit gastric secretion and motility. ===> TRUE
+277 Secretin and cholecystokinin stimulate gastric and pancreatic secretions but inhibitgastric motility. ===> FALSE
+278 Secretin is released in response to the presence of fatty and amino acids in theduodenum. ===> FALSE
+279 Secretin is released in the direct response to presence of fatty acids and aminoacids in the small intestine. ===> FALSE
+280 Secretin is released in the upper small intestine mainly in response to mechanicalstimuli. ===> FALSE
+281 Secretin is secreted in the response to low pH of the intestinal content. ===> TRUE
+282 Secretin is secreted in the response to low pH of the intestinal content. ===> TRUE
+283 Secretin stimulates both gastric and pancreatic secretions. ===> FALSE
+284 Secretin stimulates cholecystokinin secretion by exocrine pancreas. ===> FALSE
+285 Secretin stimulates pancreatic secretion but inhibits the gastric one. ===> TRUE
+286 Secretin stimulates secretion of pancreatic juice rich in bicarbonate ions. ===> TRUE
+287 Secretin stimulates the effect of cholecystokinin in the gastrointestinal tract - thisphenomenon is called potentiation. ===> TRUE
+288 Secretion of bicarbonate ions into pancreatic juice is associated with the activity ofcarbonic anhydrase which catalyzes formation of carbonic acid from H2O and CO2. ===> TRUE
+289 Secretion of bicarbonate ions into pancreatic juice is associated with the activity ofcarbonic anhydrase which splits off carbonic acid into H+ and HCO3-. ===> FALSE
+290 Secretion of bicarbonate ions into pancreatic juice is directly stimulated bycholecystokinin. ===> FALSE
+291 Secretion of HCO3- in the colon is associated with Cl- absorption. ===> TRUE
+292 Secretion of HCO3- in the colon is associated with Na+ absorption. ===> FALSE
+293 Secretion of pancreatic enzymes is directly stimulated by secretin. ===> FALSE
+294 Secretions of the large intestine contain digestive enzymes, water, mucus andsalts. ===> FALSE
+295 Secretions of the large intestine contain water, mucus and salts. ===> TRUE
+296 Segmentation in the small intestine is a type of peristaltic movement. ===> FALSE
+297 Segmentation in the small intestine is associated with the repeated contraction andrelaxations of the circular smooth muscle. ===> TRUE
+298 Segmentation in the small intestine is associated with the repeated contraction andrelaxations of the longitudinal smooth muscle. ===> FALSE
+299 Segmentation in the small intestine is initiated by the basic electrical rhythmproduced by intestinal smooth muscle cells. ===> TRUE
+300 Segmentation in the small intestine is initiated by the basic electrical rhythmproduced by neurons of the enteric nervous system. ===> FALSE
+301 Segmentation in the small intestine is initiated by the basic electrical rhythmproduced by parasympathetic neurons. ===> FALSE
+302 Segmentation in the small intestine produces a slow migration of chyme to largeintestine. ===> TRUE
+303 Shivering may start after pyrogen release from macrophages. ===> TRUE
+304 Shivering thermogenesis is mediated by motor nerve fibres. ===> TRUE
+305 Shivering thermogenesis is mediated by sympathetic nerve fibres. ===> FALSE
+306 Shivering thermogenesis is provided by a rhythmical tremor of skeletal musclefibres. ===> TRUE
+307 Shivering thermogenesis is provided by a rhythmical tremor of smooth musclefibres. ===> FALSE
+308 Slow waves of the smooth muscle cells in the stomach are generated, whenthreshold potential is reached. ===> FALSE
+309 Slow waves of the smooth muscle cells in the stomach include spontaneousdepolarization and repolarization. ===> TRUE
+310 Small peptides are digested by aminopetidases located on the brush bordermembrane of the enterocytes. ===> TRUE
+311 Small peptides are digested by aminopetidases produced by exocrine pancreas. ===> FALSE
+312 Small peptides can be digested by peptidases inside the enterocytes. ===> TRUE
+313 Small peptides in the small intestine are absorbed by H+ cotransport. ===> TRUE
+314 Small peptides in the small intestine are absorbed by Na+ cotransport. ===> FALSE
+315 Some neural reflexes concerning the gastrointestinal processes can be initiated bysignals outside the gastrointestinal tract. ===> TRUE
+316 Starch digestion is completed in the large intestine. ===> FALSE
+317 Starch digestion is completed in the small intestine. ===> TRUE
+318 Starch digestion starts by amylase in the stomach. ===> FALSE
+319 Starch is the most abundant carbohydrate in the diet. ===> TRUE
+320 Stimulation of area postrema located outside the blood-brain barrier leads tovomiting. ===> TRUE
+321 Sucrose is digested by the intestinal enzyme to form one molecule of glucose andone molecule of fructose. ===> TRUE
+322 Sucrose is digested by the intestinal enzyme to form one molecule of glucose andone molecule of galactose. ===> FALSE
+323 Swallowing can occur when a person is upside down. ===> TRUE
+324 Swallowing cannot occur when a person is upside down. ===> FALSE
+325 Swallowing center in the medulla oblongata influences the activity of respiratorymuscles. ===> TRUE
+326 Swallowing center is located in the cervical segments of the spinal cord. ===> FALSE
+327 Swallowing is associated with an elevation of the soft palate. ===> TRUE
+328 Swallowing is associated with relaxation of the upper esophageal sphincterconsisting of skeletal muscle fibers. ===> TRUE
+329 Swallowing is associated with relaxation of the upper esophageal sphincterconsisting of smooth muscle fibers. ===> FALSE
+330 Swallowing is associated with the decreased tone of the lower esophagealsphincter. ===> TRUE
+331 Swallowing is associated with the increased tone of the lower esophagealsphincter. ===> FALSE
+332 Swallowing is coordinated by swallowing center located in the medulla oblongata. ===> TRUE
+333 Swallowing is coordinated by swallowing center located in the midbrain. ===> FALSE
+334 The anal sphincters, composed of smooth muscle are innervated by autonomicnervous system. ===> FALSE
+335 The basic electrical rhythm of the stomach is produced by neurons of entericnervous system. ===> FALSE
+336 The basic electrical rhythm of the stomach is produced by smooth muscle cells. ===> TRUE
+337 The bile contains substances that allow emulsification of fat in the gut. ===> TRUE
+338 The bile contains, among others, bile salts, cholesterol, lecithin and bile pigments. ===> TRUE
+339 The bile contains, among others, bile salts, cholesterol, lipase and bile pigments. ===> FALSE
+340 The bile salts are synthesized in the hepatocytes from cholesterol. ===> TRUE
+341 The bile salts are synthesized in the hepatocytes from the bile pigments. ===> FALSE
+342 The cells of the liver secrete digestive enzymes essential for fat digestion. ===> FALSE
+343 The cells of the liver secrete plasma cholesterol into the bile. ===> TRUE
+344 The centre of long reflex regulating gastrointestinal process is located in the centralnervous system. ===> TRUE
+345 The centre of long reflex regulating gastrointestinal process is located in the entericnervous system. ===> FALSE
+346 The centre of short reflex regulating gastrointestinal process is located in thecentral nervous system. ===> FALSE
+347 The centre of short reflex regulating gastrointestinal process is located in theenteric nervous system. ===> TRUE
+348 The centre of short reflexes is located in the thoracic and lumbar segments of thespinal cord. ===> FALSE
+349 The cephalic phase of the gastrointestinal control is initiated when receptors arestimulated by sight, taste or smell. ===> TRUE
+350 The cephalic phase of the gastrointestinal control is provided by the enteric nervoussystem. ===> FALSE
+351 The daily intake of carbohydrates covers about half of the average daily caloricintake. ===> TRUE
+352 The daily intake of carbohydrates covers about one-fourth of the average dailycaloric intake. ===> FALSE
+353 The daily intake of proteins covers about one-sixth of the average daily caloricintake. ===> TRUE
+354 The daily intake of proteins covers about one-third of the average daily caloricintake. ===> FALSE
+355 The enteric nervous system contains, among others, adrenergic and cholinergicneurons. ===> TRUE
+356 The epithelial ductal cells of the exocrine pancreas produce bicarbonate ions. ===> TRUE
+357 The epithelial ductal cells of the exocrine pancreas produce proteolytic enzymes aszymogens. ===> FALSE
+358 The events involved in fat absorption occur in the following order: formation ofmicelles - absorption across luminal membrane- resynthesis of fats - formation ofchylomicrons - absorption into lacteals. ===> TRUE
+359 The events involved in fat digestion occur in the following order: emulsification -digestion - formation of micelles. ===> TRUE
+360 The exocrine cells of the exocrine pancreas produce trypsinogen and enterokinase. ===> FALSE
+361 The exocrine cells of the exocrine pancreas produce trypsinogen andchymotrypsinogen. ===> TRUE
+362 The exocrine cells of the exocrine pancreas produce trypsinogen and pepsinogen. ===> FALSE
+363 The external anal sphincter is contracted due to parasympathetic activity andrelaxed due to sympathetic activity. ===> FALSE
+364 The external anal sphincter is contracted due to sympathetic activity and relaxeddue to parasympathetic activity. ===> FALSE
+365 The external anal sphincter is innervated by the somatic nerves. ===> TRUE
+366 The following processes in the gastrointestinal tract are coordinated by entericnervous system: gastric emptying, segmentation and peristaltic activity of theintestine. ===> TRUE
+367 The following processes in the gastrointestinal tract are coordinated by entericnervous system: salivation, segmentation and contraction of the external analsphincter. ===> FALSE
+368 The food intake is inhibited e.g. by leptin, cholecystokinin or by distension ofstomach. ===> FALSE
+369 The food intake is stimulated e.g. by leptin, cholecystokinin or by distension ofstomach. ===> FALSE
+370 The food-induced thermogenesis is more increased due to carbohydrate ingestionthan protein ingestion. ===> FALSE
+371 The food-induced thermogenesis is more increased due to fat ingestion thanprotein ingestion. ===> FALSE
+372 The food-induced thermogenesis is more increased due to protein ingestion thancarbohydrate ingestion. ===> TRUE
+373 The food-induced thermogenesis is more increased due to protein ingestion thanfat ingestion. ===> TRUE
+374 The frequency of segmentation in the small intestine is the same in each intestinalsegment. ===> FALSE
+375 The frequency of the action potentials of the gastric smooth muscle cells isdecreased by acetylcholine. ===> FALSE
+376 The frequency of the action potentials of the gastric smooth muscle cells isdecreased by norepinephrine. ===> TRUE
+377 The frequency of the action potentials of the gastric smooth muscle cells isincreased by acetylcholine. ===> TRUE
+378 The frequency of the action potentials of the gastric smooth muscle cells isincreased by norepinephrine. ===> FALSE
+379 The functions of the large intestine include absorption of nutrients from the food, salts and water. ===> FALSE
+380 The functions of the large intestine include absorption of salts and water, mixingand propulsion of the intestinal content. ===> TRUE
+381 The functions of the large intestine include defecation and secretion of proteolyticenzymes. ===> FALSE
+382 The functions of the large intestine include storage and concentration of undigestedmaterial. ===> TRUE
+383 The gastric and intestinal phases of the gastrointestinal control are mediated byboth short and long reflexes. ===> TRUE
+384 The gastric and intestinal phases of the gastrointestinal control are mediated onlyby long reflexes. ===> FALSE
+385 The gastric phase of the gastric secretion control is provided by enterogastrons. ===> FALSE
+386 The gastric phase of the hydrochloric acid secretion is regulated particularly byneural reflexes and gastrin. ===> TRUE
+387 The gastrointestinal reflexes are initiated by stimulation of chemo-, osmo- andmechanoreceptors located in the central nervous system. ===> FALSE
+388 The gastrointestinal reflexes are initiated by stimulation of chemo-, osmo- andmechanoreceptors located in the gastrointestinal wall. ===> TRUE
+389 The heat loss decreases if the surface area of the body is reduced. ===> TRUE
+390 The heat loss increases in response to stimulation of the sympathetic fibresinnervating skin vessels. ===> FALSE
+391 The hepatocytes produce angiotensin I which is converted by renin into angiotensinII. ===> FALSE
+392 The hepatocytes produce angiotensinogen which is converted by renin intoangiotensin I. ===> TRUE
+393 The hungry signals include, among others, decreased secretion of insulin, glucagonor leptin. ===> TRUE
+394 The hungry signals include, among others, increased secretion of insulin, glucagonor leptin. ===> FALSE
+395 The internal anal sphincter is composed of skeletal muscle while the external one iscomposed of smooth muscle. ===> FALSE
+396 The internal anal sphincter is composed of smooth muscle while the external one iscomposed of skeletal muscle. ===> TRUE
+397 The internal anal sphincter is under voluntary control learned during childhood. ===> FALSE
+398 The internal anal sphincter relaxes due to distension of rectum by fecal material. ===> TRUE
+399 The intestinal enzyme enterokinase activates pepsinogen into pepsin. ===> FALSE
+400 The intestinal enzyme enterokinase activates trypsinogen into trypsin. ===> TRUE
+401 The liver cells convert plasma cholesterol into the bile pigments. ===> FALSE
+402 The liver cells secretion is essential for the intestinal absorption of vitamin D. ===> TRUE
+403 The liver cells secretion is essential for the intestinal absorption of vitamin K. ===> TRUE
+404 The liver cells split urea into water and CO2. ===> FALSE
+405 The main functions of saliva include lubrication, moistening and dissolving of foodand digestion of fat. ===> FALSE
+406 The main functions of saliva include lubrication, moistening and dissolving of foodand digestion of proteins. ===> FALSE
+407 The main functions of saliva include lubrication, moistening and dissolving of foodand digestion of starch. ===> TRUE
+408 The mass movements are mixing movements of the large intestine. ===> FALSE
+409 The mass movements in the colon are slowed down by gastrin. ===> FALSE
+410 The mass movements occur three to four times a day generally just after a meal. ===> TRUE
+411 The mass movements occur three to four times a day generally just before a meal. ===> FALSE
+412 The mass movements of the colon are stimulated by gastrin. ===> TRUE
+413 The mass movements propel the colonic content towards the rectum. ===> TRUE
+414 The mass movements propel the intestinal content towards the cecum. ===> FALSE
+415 The mechanism which results from the local air flow is conduction. ===> FALSE
+416 The mechanism which results from the local air flow is convection. ===> TRUE
+417 The mechanism which results from the transfer of thermal energy during collisionsbetween adjacent molecules is conduction. ===> TRUE
+418 The mechanism which results from the transfer of thermal energy during collisionsbetween adjacent molecules is convection. ===> FALSE
+419 The membrane potential of the smooth muscle cells of the gut is influenced bysome gastrointestinal hormones. ===> TRUE
+420 The metabolic rate is decreased due to food ingestion. ===> FALSE
+421 The metabolic rate is decreased during fasting. ===> TRUE
+422 The metabolic rate is higher in women than in men at any given size. ===> FALSE
+423 The metabolic rate is increased due to food ingestion. ===> TRUE
+424 The metabolic rate is increased during fasting. ===> FALSE
+425 The metabolic rate is lower in women than in men at any given size. ===> TRUE
+426 The metabolic rate is relatively higher in adults than in children. ===> FALSE
+427 The metabolic rate is relatively higher in children than in adults. ===> TRUE
+428 The migrating motor complex allows movement of particulates from the stomach tothe colon. ===> TRUE
+429 The migrating motor complex helps to maintain a low bacterial count in the smallintestine. ===> TRUE
+430 The migrating motor complex is first initiated in the colon. ===> FALSE
+431 The migrating motor complex is observed during the inter-digestive period. ===> TRUE
+432 The most important enzyme for digestion of triglycerides is intestinal lipase. ===> FALSE
+433 The most important enzyme for digestion of triglycerides is pancreatic lipase. ===> TRUE
+434 The motility of the small intestine is accelerated by gastroileal reflex. ===> TRUE
+435 The motility of the small intestine is inhibited due to intestino-intestinal reflex. ===> TRUE
+436 The motility of the small intestine is stimulated by distension of the intestine. ===> FALSE
+437 The myenteric plexus of the enteric nervous system regulates mainly muscleactivity of the gastrointestinal tract. ===> TRUE
+438 The myenteric plexus of the enteric nervous system regulates mainly secretoryactivity of the gastrointestinal tract. ===> FALSE
+439 The neural activity of myenteric plexus influences the activity of submucosal plexusand vice versa. ===> TRUE
+440 The neurons of myenteric and submucosal plexuses are morphologically andfunctionally separated. ===> FALSE
+441 The pancreatic enzyme enterokinase directly activates trypsinogen into trypsin. ===> FALSE
+442 The pancreatic lipase breaks down the cholesterol-esters into cholesterol and fattyacids. ===> FALSE
+443 The pancreatic lipase breaks down triglycerides into monoglycerides and free fattyacids. ===> TRUE
+444 The pancreatic lipase secretion is stimulated by cholecystokinin. ===> TRUE
+445 The pH of pancreatic secretion is usually alkaline. ===> TRUE
+446 The pH of pancreatic secretion is usually slightly acidic. ===> FALSE
+447 The pH of the blood leaving the pancreas after the food intake decreases. ===> TRUE
+448 The pH of the blood leaving the pancreas after the food intake increases. ===> FALSE
+449 The pH of the blood leaving the stomach after the food intake decreases. ===> FALSE
+450 The pH of the blood leaving the stomach after the food intake increases. ===> TRUE
+451 The propulsive movements of the small intestine are accelerated by thesympathetic stimulation. ===> FALSE
+452 The satiety signals include, among others, decreased insulin secretion,hypoglycemia or increase in neuropeptide Y secretion. ===> FALSE
+453 The satiety signals include, among others, decreased secretion of insulin, glucagonor leptin. ===> FALSE
+454 The satiety signals include, among others, increased secretion of insulin, glucagonor leptin. ===> TRUE
+455 The satiety signals include, among others, stimulation of stretch receptors instomach or increased plasma glucose and insulin concentrations. ===> TRUE
+456 The secretion in the large intestine is rich in Cl- and Na+. ===> FALSE
+457 The secretion in the large intestine is rich in HCO3- and K+. ===> TRUE
+458 The secretion of pancreatic enzymes is inhibited by distension of stomach. ===> FALSE
+459 The secretion of pancreatic enzymes is stimulated by distension of stomach. ===> TRUE
+460 The secretion of salts into the bile ducts is stimulated by gastrin. ===> FALSE
+461 The secretion of HCO3- into the bile ducts is stimulated by secretin. ===> TRUE
+462 The secretion of HCO3- into the bile ducts is inhibited by secretin. ===> FALSE
+463 The segmentation intensity in the small intestine is slowed down due to gastroilealreflex. ===> FALSE
+464 The single effector cell in the gastrointestinal tract always contains receptors onlyfor one hormone. ===> FALSE
+465 The single effector cell in the gastrointestinal tract can contain receptors for morethan one hormone. ===> TRUE
+466 The smell or sight of food increases secretion of the pancreatic juice. ===> TRUE
+467 The smell or sight of food inhibits salivary secretion. ===> FALSE
+468 The smell or sight of food stimulates salivary secretion. ===> TRUE
+469 The submucosal plexus of the enteric nervous system regulates mainly muscleactivity of the gastrointestinal tract. ===> FALSE
+470 The submucosal plexus of the enteric nervous system regulates mainly secretoryactivity of the gastrointestinal tract. ===> TRUE
+471 The upper esophageal sphincter is formed by skeletal muscle while the lower oneis formed by smooth muscle. ===> TRUE
+472 The vomiting is associated with deep breath, opening of the glottis and relaxation ofthe lower esophageal sphincter ===> FALSE
+473 Total energy expenditure is equal to energy stored - heat production - externalwork. ===> FALSE
+474 Total energy expenditure is equal to energy stored + heat production - externalwork. ===> FALSE
+475 Total energy expenditure is equal to heat production + external work + energystored. ===> TRUE
+476 Upper and lower esophageal sphincters are formed by rings of smooth muscle. ===> FALSE
+477 Velocity of pepsinogen activation is inversely proportional to H+ concentration inthe gastric juice. ===> FALSE
+478 Velocity of pepsinogen activation is inversely proportional to pH of the gastric juice. ===> TRUE
+479 Vitamin A deficiency causes night-blindness. ===> TRUE
+480 Vitamin B12 and folic acid are important for maturation of the red blood cells. ===> TRUE
+481 Vitamin D deficiency causes night-blindness. ===> FALSE
+482 Vitamin D deficiency causes rickets in adults. ===> FALSE
+483 Vitamin D deficiency causes rickets in children. ===> TRUE
+484 Vitamin D stimulates calcium absorption in the intestine. ===> TRUE
+485 Vitamin K can be produced by the liver cells. ===> FALSE
+486 Vitamin K deficiency can lead to excessive bleeding. ===> TRUE
+487 Vitamin K deficiency is observed in patients with obstructive jaundice. ===> TRUE
+488 Vitamin K is essential for synthesis of fibrinogen in the liver. ===> FALSE
+489 Vitamin K is essential for synthesis of prothrombin in the liver. ===> TRUE
+490 Vitamin K is essential for the formation of red blood cells in the bone marrow. ===> FALSE
+491 Vomiting is associated with increase in the intrathoracic and intraabdominalpressures. ===> TRUE
+492 Vomiting reflex center is located in the motor cortex. ===> FALSE
+493 Water-soluble vitamins involve vitamin C and vitamins of B group. ===> TRUE
+494 Water-soluble vitamins involve vitamins A, D, E and K. ===> FALSE
+495 Water-soluble vitamins involve, among others, vitamins C, B12 and folic acid. ===> TRUE
+496 When a healthy individual is exposed to cold, blood flow in the skin decreases. ===> TRUE
+497 When a healthy individual is exposed to cold, blood flow in the skin increases. ===> FALSE
+498 When a healthy individual is exposed to cold, blood flow in the skin is not affected. ===> FALSE
+499 When a healthy individual is exposed to cold, physiological control mechanismslead to a decrease in the epinephrine secretion. ===> FALSE
+500 When a healthy individual is exposed to cold, physiological control mechanismslead to a decrease in the metabolic rate. ===> FALSE
+501 When a healthy individual is exposed to cold, physiological control mechanismslead to a decrease in the skin vascular resistance. ===> FALSE
+502 When a healthy individual is exposed to cold, physiological control mechanismslead to a decrease in the tone of skeletal muscles. ===> FALSE
+503 When a healthy individual is exposed to cold, physiological control mechanismslead to an increase in the epinephrine secretion. ===> TRUE
+504 When a healthy individual is exposed to cold, physiological control mechanismslead to an increase in the metabolic rate. ===> TRUE
+505 When a healthy individual is exposed to cold, physiological control mechanismslead to an increase in the skin vascular resistance. ===> TRUE
+506 When a healthy individual is exposed to cold, physiological control mechanismslead to an increase in the tone of skeletal muscles. ===> TRUE
+507 When a healthy individual is exposed to cold, the food appetite is decreased. ===> FALSE
+508 When a healthy individual is exposed to cold, the food appetite is increased. ===> TRUE
+509 When a healthy individual is exposed to cold, the heat loss mediated by radiation,convection and conduction is inhibited. ===> FALSE
+510 When a healthy individual is exposed to cold, the heat transport from the core to thesurface of the body is decreased. ===> TRUE
+511 When a healthy individual is exposed to heat, the activity of parasympathetic fibresinnervating the sweat glands increases. ===> FALSE
+512 When a healthy individual is exposed to heat, the activity of sympathetic fibresinnervating the sweat glands increases. ===> TRUE
+513 When a healthy individual is exposed to heat, the food appetite is decreased. ===> TRUE
+514 When a healthy individual is exposed to heat, the food appetite is increased. ===> FALSE
+515 When a healthy individual is exposed to heat, the motor activity and the musculartone increase. ===> FALSE
+516 When a healthy individual is exposed to heat, the motor activity decreases and themuscular tone falls down. ===> TRUE
+517 When a healthy individual is exposed to heat, the skin blood flow decreases. ===> FALSE
+518 When a healthy individual is exposed to heat, the skin blood flow increases. ===> TRUE
+519 When metabolized in the body, carbohydrate yields lower amount of energy as ifoxidized in the bomb calorimeter. ===> FALSE
+520 When metabolized in the body, carbohydrate yields the same amount of energy asif oxidized in the bomb calorimeter. ===> TRUE
+521 When metabolized in the body, fat yields higher amount of energy as if oxidized inthe bomb calorimeter. ===> FALSE
+522 When metabolized in the body, fat yields the same amount of energy as if oxidizedin the bomb calorimeter. ===> TRUE
+523 When metabolized in the body, protein yields lower amount of energy as if oxidizedin the bomb calorimeter. ===> TRUE
+524 When metabolized in the body, protein yields the same amount of energy as ifoxidized in the bomb calorimeter. ===> FALSE
+525 Zymogens are mainly proteolytic enzymes. ===> TRUE
+526 Zymogens include e.g. pepsinogen, trypsinogen and enterokinase. ===> FALSE
+527 Zymogens include e.g. pepsinogen, trypsinogen and chymotrypsinogen. ===> TRUE

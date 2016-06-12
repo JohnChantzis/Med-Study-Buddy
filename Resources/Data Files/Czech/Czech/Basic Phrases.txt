@@ -1,0 +1,24 @@
+# Prefix_A = [CZ]\n\n\n , Prefix_B = [EN]\n\n\n
+// á č ď é ě í ň ó ř š ť ú ů ý ž
+
+dobrý den = hello / good day
+ahoj = hello (informal) / hi
+na shledanou = goodbye
+dobré ráno = good morning
+dobrý večer = good evening
+dobrou noc = good night
+jak se máte? (formal)\njak se más? (informal) = how are you?
+jak se jmenujete? (formal)\njak se jmenuješ? (informal) = what is your name?
+těší mě = pleased to meet you
+prosim = please
+děkuji = thank you
+ano/no/jo = yes
+ne = no
+promiňte = excuse me / sorry
+nemluvim česky = I don't speak Czech
+nerozumím = I don't understand
+mluvíte anglicky? = do you speak English?
+není zač = you're welcome :) (politer than prosim)
+v kolik hodin? = at what time?
+Co má Jaromir Jágr na sobě? = What (sexy underwear) does Jaromir Jágr wear?
+Jak často? = how often?

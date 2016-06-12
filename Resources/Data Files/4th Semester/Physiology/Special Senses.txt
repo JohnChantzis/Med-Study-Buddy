@@ -1,0 +1,468 @@
+// Special Senses - GM - 2015/2016 28.4.2016
+1 Wavelengths of the visible light range from 400-750 nm. ===> TRUE
+2 Wavelengths are detected by cones and rods. ===> TRUE
+3 Wavelengths are detected only by cones. ===> FALSE
+4 Different wavelengths of the visible light are perceived as different brightnesses. ===> FALSE
+5 Different wavelengths of the visible light are perceived as different colors. ===> TRUE
+6 Frequency of the radiation wave is directly related to wavelength. ===> FALSE
+7 Frequency of the radiation wave is indirectly related to wavelength. ===> TRUE
+8 Electromagnetic waves with lengths of 1000 nm do not activate photoreceptors of an eye efficiently. ===> TRUE
+9 Electromagnetic waves with lengths of 1000 nm activate only rods. ===> FALSE
+10 Electromagnetic waves with lengths of 1000 nm are detected by cones. ===> FALSE
+11 Optical portion of the eye focuses the visual image on the receptor cells. ===> TRUE
+12 Neural component of the eye transforms the visual image into graded and action potentials. ===> TRUE
+13 The optical system of the eye forms the inverted and smaller image of an outer object on the retina. ===> TRUE
+14 The optical system of the eye forms the inverted image of an outer object on the cornea. ===> FALSE
+15 The optical system of the eye behaves as a concave lens. ===> FALSE
+16 The optical system of the eye behaves as a convex lens. ===> TRUE
+17 Wavelength is the inversely proportional to frequency. ===> TRUE
+18 Photoreceptors of the eye are sensitive only to visible light. ===> TRUE
+19 Photoreceptors of the eye are stimulated by the electromagnetic radiation with wavelength about 500nm. ===> TRUE
+20 Photoreceptors of the eye are stimulated by the sound with the frequency of 10,000 Hz. ===> FALSE
+21 The sclera forms a white capsule around the eye. ===> TRUE
+22 The sclera serves as the insertion point for external muscles that move with the eyeball. ===> TRUE
+23 The sclera is darkly pigmented to absorb light rays. ===> FALSE
+24 The choroid layer is darkly pigmented to absorb light rays. ===> TRUE
+25 The sclera acts as a concave lens. ===> FALSE
+26 The sclera is fibrous tissue, ===> TRUE
+27 The anterior surface of the eye is covert by the sclera. ===> FALSE
+28 The anterior surface of the eye is covert by the cornea. ===> TRUE
+29 The cornea acts as a convex lens. ===> TRUE
+30 The cornea has smaller refractive power than the lens. ===> FALSE
+31 The cornea contains photoreceptors. ===> FALSE
+32 The cornea serves as the insertion point for external muscles that move with the eyeballs. ===> FALSE
+33 The cornea flattens during accommodation. ===> FALSE
+34 The cornea has the greatest refractive power from all parts of an eye. ===> TRUE
+35 The cornea becomes denser and stiffer with increasing age. ===> FALSE
+36 Aqueous humor is an opaque fluid. ===> FALSE
+37 Aqueous humor is a transparent fluid. ===> TRUE
+38 Increased pressure of the aqueous humor is called glaucoma. ===> TRUE
+39 Increased pressure of the aqueous humor is called cataract. ===> FALSE
+40 Aqueous humor is formed by a special vascular tissue that overlies the cornea. ===> FALSE
+41 Aqueous humor is formed by a special vascular tissue that overlies the ciliary muscle. ===> TRUE
+42 Choroid layer in the front of the eye is specialized into the iris, the ciliary muscle and the zonularfibers. ===> TRUE
+43 Pupil of the eye regulates amount of incoming light into the eye. ===> TRUE
+44 Pupil can change it’s diameter. ===> TRUE
+45 Iris contains smooth muscle fibers. ===> TRUE
+46 Iris is made of circular and radial smooth muscle fibers. ===> TRUE
+47 The lens of an eye becomes with age more elastic. ===> FALSE
+48 The lens bulges during accommodation. ===> TRUE
+49 The lens acts as the convex lens. ===> TRUE
+50 The lens has the greater refractive power than that of the cornea. ===> FALSE
+51 The lens of an eye becomes less elastic with age. ===> TRUE
+52 The lens is innervated by sympathetic fibers of the oculomotor nerve. ===> FALSE
+53 The lens is always opaque in presbyopia. ===> FALSE
+54 The lens has the greatest refractive power from all parts of the eye. ===> FALSE
+55 The lens of an eye has the smaller refractive power than the cornea. ===> TRUE
+56 The lens becomes more elastic with age. ===> FALSE
+57 The cornea increases its refractive power during accommodation. ===> FALSE
+58 The lens increases its refractive power during accommodation. ===> TRUE
+59 The ability of the lens to increase its curvature and maintain a focus at close distance is calledaccommodation. ===> TRUE
+60 The ability of the lens to increase its curvature and maintain a focus at close distance is calledconvergence. ===> FALSE
+61 The ability of the lens to increase its curvature and maintain a focus at close distance is calledastigmatism. ===> FALSE
+62 The ability of the lens to increase its curvature and maintain a focus at close distance is calledpresbyopia. ===> FALSE
+63 Contraction of the ciliary muscle causes an increase in curvature of the anterior surface of the lensduring accommodation. ===> TRUE
+64 Crystalline lens lies just behind the iris. ===> TRUE
+65 Crystalline lens lies just behind the cornea. ===> FALSE
+66 Lights waves from objects close to the eye must be refracted more in order to converge on the retina. ===> TRUE
+67 Lights waves from objects far away from the eye must be refracted less in order to converge on theretina. ===> TRUE
+68 Ciliary muscle is skeletal muscle. ===> FALSE
+69 Ciliary muscle is smooth muscle. ===> TRUE
+70 Circulating adrenaline causes the ciliary muscle to contract. ===> FALSE
+71 The nerve supply of the ciliary muscle runs with the optic nerve. ===> FALSE
+72 The nerve supply of the ciliary muscle runs with the oculomotor nerve. ===> TRUE
+73 Sympathetic fibers from the superior cervical ganglion are involved in pupillary dilatation. ===> TRUE
+74 The primary visual cortex is involved in pupillary dilatation. ===> FALSE
+75 Edinger-Westphal nucleus is involved in pupillary dilatation. ===> FALSE
+76 Parasympathetic fibers are involved in pupillary contraction. ===> TRUE
+77 The primary visual cortex is involved in pupillary contraction. ===> FALSE
+78 The stellate ganglion is involved in pupillary contraction. ===> FALSE
+79 Near point together with the far point defines the range of accommodation. ===> TRUE
+80 Near point does not change throughout life. ===> FALSE
+81 Near point changes with the age. ===> TRUE
+82 Near point is measured by means of perimeter. ===> FALSE
+83 Near point is the nearest point to the eye at which an object can be seen still clearly withoutaccommodation. ===> FALSE
+84 Near point is the nearest point to the eye at which an object can be seen still clearly withaccommodation. ===> TRUE
+85 Far point is physiologically about 6 meters. ===> TRUE
+86 Far point is the farthest distance at which an object can be seen clearly with accommodation. ===> FALSE
+87 Far point is the farthest distance at which an object can be seen clearly without accommodation. ===> TRUE
+88 Far point is measured with Snellen´s test types. ===> FALSE
+89 Far point in healthy person is about 1 m. ===> FALSE
+90 When an eyeball is too short relative to the focusing power of an eye optical system, the eye ishyperopic. ===> TRUE
+91 When an eyeball is too short relative to the focusing power of an eye optical system, images ofdistant objects are focused at points in front of the retina. ===> FALSE
+92 When an eyeball is too short relative to the focusing power of an eye optical system, correction ispossible by concave lenses. ===> FALSE
+93 When an eyeball is too short relative to the focusing power of an eye optical system, correction ispossible by convex lenses. ===> TRUE
+94 When an eyeball is too long relative to the focusing power of the lens and cornea, the eye is myopic. ===> TRUE
+95 When an eyeball is too long relative to the focusing power of the lens and cornea, correction ispossible by concave lenses. ===> TRUE
+96 When an eyeball is too long relative to the focusing power of the lens and cornea, images of distantobjects are focused behind the retina. ===> FALSE
+97 When an eyeball is too long relative to the focusing power of the lens and cornea, images of distantobjects are focused in front of the retina. ===> TRUE
+98 Glasses with concave lenses help correct myopia. ===> TRUE
+99 Glasses with concave lenses help correct hyperopia. ===> FALSE
+100 Glasses with concave lenses help correct presbyopia. ===> FALSE
+101 Glasses with concave lenses help correct astigmatism. ===> FALSE
+102 Glasses with convex lenses help correct hyperopia. ===> TRUE
+103 Glasses with convex lenses help correct presbyopia. ===> TRUE
+104 Glasses with convex lenses help correct optokinetic nystagmus. ===> FALSE
+105 Presbyopia is a normal part of the aging process. ===> TRUE
+106 Presbyopia is caused by an increase in intraocular pressure. ===> FALSE
+107 Presbyopia can never be compensated. ===> FALSE
+108 Cataract is an opacity of the lens. ===> TRUE
+109 Cataract is a sickness of the optic nerve. ===> FALSE
+110 Cataract increases the amount of light reaching the retina. ===> FALSE
+111 Cataract is associated with an increased pressure within the eye. ===> FALSE
+112 Cataract decreases the amount of light reaching the retina. ===> TRUE
+113 Astigmatism is the defect in vision that occurs when the cornea does not have a smoothly sphericalsurface. ===> TRUE
+114 Astigmatism is a normal part of the aging process. ===> FALSE
+115 Astigmatism can be never compensated. ===> FALSE
+116 Astigmatism can be compensated by convex lenses. ===> FALSE
+117 Astigmatism is caused by an increase in stiffness of the cornea. ===> FALSE
+118 Anterior chamber of the eye is filled with vitreous humor. ===> FALSE
+119 Anterior chamber of the eye is filled with aqueous humor. ===> TRUE
+120 Posterior chamber of the eye is filled with vitreous humor. ===> TRUE
+121 Posterior chamber of the eye is filled with aqueous humor. ===> TRUE
+122 Aqueous humor is a clear fluid. ===> TRUE
+123 Vitreous humor is viscous, jellylike substance. ===> TRUE
+124 Bipolar cells of a retina synapse upon the ganglion cells. ===> TRUE
+125 Bipolar cells of a retina form the first neurons of the visual pathway. ===> FALSE
+126 Bipolar cells of a retina respond to activation by producing action potentials. ===> FALSE
+127 Bipolar cells of a retina respond to activation by producing graded potentials. ===> TRUE
+128 Bipolar cells of a retina have axons which form the second cranial nerve. ===> FALSE
+129 The output of the retina is mediated by ganglion cells. ===> TRUE
+130 The output of the retina is mediated by bipolar cells. ===> FALSE
+131 The output of the retina is mediated by rods. ===> FALSE
+132 The output of the retina is mediated by cones. ===> FALSE
+133 Axons of ganglion cells project to the lateral geniculate nuclei. ===> TRUE
+134 Axons of ganglion cells form the first neurons of the visual pathway. ===> FALSE
+135 Axons of ganglion cells form the second-order neurons of the visual pathway. ===> FALSE
+136 Electrical responses of retinal ganglion cells have a character of graded potentials. ===> FALSE
+137 Axons of ganglion cells synapse on the photoreceptors. ===> FALSE
+138 Dendrites of ganglion cells synapse on the photoreceptors. ===> FALSE
+139 Bipolar cells of the retina synapse on the photoreceptors. ===> TRUE
+140 Bipolar cells of the retina synapse on ganglion cells. ===> TRUE
+141 Ganglion cells are located in more posterior retinal layer than photoreceptors. ===> FALSE
+142 Photoreceptors are located in more anterior retinal layer than ganglion cells. ===> FALSE
+143 Photoreceptors are located in more posterior retinal layer than ganglion cells. ===> TRUE
+144 Retina is lining in the inner, posterior surface of the eye. ===> TRUE
+145 Retina is lining in the outer, anterior surface of the eye. ===> FALSE
+146 Photoreceptors are sensory cells of the eye. ===> TRUE
+147 Retina contains photoreceptors and numerous types of neurons. ===> TRUE
+148 The fovea centralis has the highest visual acuity. ===> TRUE
+149 Optic disc is the exit of the optic nerve. ===> TRUE
+150 Optic disc does not contain photoreceptors. ===> TRUE
+151 Optic nerve is a cranial nerve II. ===> TRUE
+152 Visual accommodation is mediated by parasympathetic nerves. ===> TRUE
+153 Visual accommodation is mediated by sympathetic nerves. ===> FALSE
+154 Visual accommodation is mediated by autonomic nervous system. ===> TRUE
+155 Visual accommodation is mediated by alpha motoneurons. ===> FALSE
+156 Visual accommodation is accompanied by the dilation of pupils. ===> FALSE
+157 Visual accommodation is accompanied by the contraction of pupils. ===> TRUE
+158 Visual accommodation includes the relaxation of the ciliary muscle fibers of the iris. ===> FALSE
+159 Visual accommodation includes the contraction of the ciliary muscle fibers of the iris. ===> TRUE
+160 Visual accommodation is reflexly elicited when distant objects are viewed. ===> FALSE
+161 Visual accommodation is reflexly elicited when near objects are viewed. ===> TRUE
+162 Visual accommodation involves a prolongation of an eyeball. ===> FALSE
+163 Visual accommodation increases tension on the zonular fibers. ===> FALSE
+164 Visual accommodation decreases tension on the zonular fibers. ===> TRUE
+165 Visual accommodation leads to a change in the refractive power of the cornea. ===> FALSE
+166 Visual accommodation leads to a change in the refractive power of the lens. ===> TRUE
+167 Visual accommodation leads to an increase in the refractive power of the eye. ===> TRUE
+168 Visual accommodation leads to an decrease in the refractive power of the eye. ===> FALSE
+169 Visual accommodation includes the flattening of the cornea. ===> FALSE
+170 Visual accommodation includes the flattening of the lens. ===> FALSE
+171 The lens of an eye bulges during accommodation. ===> TRUE
+172 The ability of the lens to increase its curvature and maintain a focus at close distance is calledaccommodation. ===> TRUE
+173 Visual accommodation involves a contraction of the ciliary muscle. ===> TRUE
+174 Visual accommodation involves a relaxation of the ciliary muscle. ===> FALSE
+175 Visual accommodation involves a relaxation of the sphincter muscle of the iris. ===> FALSE
+176 Visual accommodation involves a contraction of the sphincter muscle of the iris. ===> TRUE
+177 Visual accommodation includes magnification of the lens. ===> TRUE
+178 Visual accommodation includes magnification of the cornea. ===> FALSE
+179 Sound frequencies audible to humans range from 20 to 20000 Hz. ===> TRUE
+180 The pitch of a sound is correlated with the amplitude of sound waves. ===> FALSE
+181 Sound waves with the repeating patterns are perceived as a noise. ===> FALSE
+182 The basilar membrane of the cochlea vibrates at the same frequency as the sound detected. ===> TRUE
+183 The loudness of the sound correlates with the amplitude of the sound wave. ===> TRUE
+184 The greatest sensitivity to sound wave in human is between 400 and 760 Hz. ===> FALSE
+185 Human is able to distinguish about 100 000 different sounds. ===> FALSE
+186 The sound waves with repeating pattern are perceived as musical sounds. ===> TRUE
+187 The loudness of the sound is correlated with the frequency of sound waves. ===> FALSE
+188 The sound frequencies audible to humans range from 20-200 Hz. ===> FALSE
+189 The sound intensity is measured in Hz. ===> FALSE
+190 Middle ear is separated from the external auditory canal by the tympanic membrane. ===> TRUE
+191 Middle ear is exposed to the atmospheric pressure through the external auditory canal duringswallowing. ===> FALSE
+192 The cavity of middle ear in the normal healthy subject cavity is filled with fluid. ===> FALSE
+193 The cavity of middle ear in the normal healthy subject cavity is filled with air. ===> TRUE
+194 Middle ear helps to discriminate the location of a sound source. ===> FALSE
+195 The bones of the middle ear amplify sound waves reaching an ear. ===> TRUE
+196 The bones of the middle ear are responsible for the discrimination among different frequencies of thesound. ===> FALSE
+197 The bones of the middle ear transmit the motion of the tympanic membrane to the round window. ===> FALSE
+198 The bones of the middle ear transmit the motion of the tympanic membrane to the oval window. ===> TRUE
+199 The bones of the middle ear communicate with the external auditory canal via the auditory tube. ===> FALSE
+200 Destruction of middle ear bones leads to better conduction. ===> FALSE
+201 Malleus is attached to the tympanic membrane. ===> TRUE
+202 The foot plate of stapes is connected to round window. ===> FALSE
+203 The foot plate of stapes is connected to oval window. ===> TRUE
+204 Human is able to distinguish about 400 000 different sounds. ===> TRUE
+205 The sound wave consists of zones of compression and zones of rarefaction. ===> TRUE
+206 The best transmission of the sound appears in the vacuum. ===> FALSE
+207 The sound cannot be heard in the vacuum. ===> TRUE
+208 The tympanic membrane vibrates slowly in response to low-frequency sounds. ===> TRUE
+209 The tympanic membrane separates middle ear from inner ear. ===> FALSE
+210 The tympanic membrane contains hair cells. ===> FALSE
+211 The tympanic membrane separates middle ear from auditory tube. ===> FALSE
+212 The tympanic membrane separates middle ear from external auditory canal. ===> TRUE
+213 Basilar membrane displacement is caused by pressure waves crossing the cochlear duct. ===> TRUE
+214 Basilar membrane covers the oval window. ===> FALSE
+215 Basilar membrane vibrates when the body is subjected to the linear acceleration. ===> FALSE
+216 Basilar membrane is unaffected by movements of fluid in the scala vestibuli. ===> FALSE
+217 Basilar membrane is an element of organ of Corti. ===> TRUE
+218 Axons of hair cells of the organ of Corti enter the brainstem. ===> FALSE
+219 The organ of Corti is located on the tectorial membrane. ===> FALSE
+220 The organ of Corti is located on the basilar membrane. ===> TRUE
+221 Hair cells of the organ of Corti are stimulated by the angular acceleration during the rotationmovement of the head. ===> FALSE
+222 The hair cells of the organ of Corti are mechanoreceptors. ===> TRUE
+223 The hair cells of the organ of Corti fire action potentials across their plasma membranes whenstereocilia are bent. ===> FALSE
+224 The hair cells of the organ of Corti are equipped with stereocilia which are inserted into the basilarmembrane. ===> FALSE
+225 The hair cells of the organ of Corti when stimulated are depolarized. ===> TRUE
+226 The hair cells of the organ of Corti when stimulated are hyperpolarized. ===> FALSE
+227 The hair cells of the organ of Corti when stimulated release calcium ions. ===> FALSE
+228 The hair cells of the organ of Corti are proprioceptors. ===> FALSE
+229 The hair cells of the organ of Corti generate action potentials. ===> FALSE
+230 The hair cells of the organ of Corti generate graded potentials. ===> TRUE
+231 Vestibular nystagmus is an involuntary act. ===> TRUE
+232 Vestibular nystagmus occurs during rotation of the head and the body with the steady-state velocity. ===> FALSE
+233 Vestibular nystagmus is initiated by impulses from the cochlea. ===> FALSE
+234 Vestibular nystagmus is initiated by impulses from the semicircular canals. ===> TRUE
+235 Postrotatory nystagmus is caused by continued movement of the fluid in the semicircular ducts. ===> TRUE
+236 Postrotatory nystagmus is caused by movement of the aqueous humor. ===> FALSE
+237 Postrotatory nystagmus is caused by movement of the cerebrospinal fluid. ===> FALSE
+238 Postrotatory nystagmus is caused by movement of the fluid in the utricle and saccule with theconsequent bending of cilia of hair cells. ===> FALSE
+239 Scala vestibuli passes over helicotrema to scala tympani. ===> TRUE
+240 Scala tympani begins at the oval window. ===> FALSE
+241 Scala vestibuli ends at the round window. ===> FALSE
+242 Oval and round window separate cochlear duct from the middle ear. ===> FALSE
+243 Cochlear duct is membranous tube filled by a fluid. ===> TRUE
+244 Cochlear duct contains the sensory receptors of the auditory system. ===> TRUE
+245 The highest frequency of the sound is detected along the basilar membrane nearest to the ovalwindows. ===> TRUE
+246 The highest frequency of the sound is detected along the basilar membrane farthest from the ovalwindow, near the helicotrema. ===> FALSE
+247 The lowest frequency of the sound is detected along the basilar membrane nearest to the ovalwindows. ===> FALSE
+248 The lowest frequency of the sound is detected along the basilar membrane farthest from the ovalwindow, near the helicotrema. ===> TRUE
+249 The auditory pathway comprises medial lemniscus. ===> FALSE
+250 Scala vestibuli begins at the oval window. ===> TRUE
+251 Scala tympani ends at the round window. ===> TRUE
+252 The tensor tympani muscle is skeletal muscle in the middle ear. ===> TRUE
+253 The stapedius muscle is skeletal muscle in the middle ear. ===> TRUE
+254 The amount of energy transmitted from the tympanic membrane to the inner ear can be lessened bythe contraction of skeletal muscles in the middle ear. ===> TRUE
+255 The tensor tympani muscle is attached to the malleus and tympanic membrane. ===> TRUE
+256 The tensor tympani is attached to the stapes. ===> FALSE
+257 The stapedius is attached to the incus. ===> FALSE
+258 The stapedius is attached to the malleus and tympanic membrane. ===> FALSE
+259 The receptors of the utricle and saccule are activated by changes of the head position relative to theforce of gravity. ===> TRUE
+260 The receptors of the utricle and saccule provide information about steady-state linear velocity of thehead. ===> FALSE
+261 The receptors of the utricle and saccule are chemoreceptors. ===> FALSE
+262 The receptors of the utricle and saccule are mechanoreceptors. ===> TRUE
+263 The receptors of the utricle and saccule are covered by the cupula. ===> FALSE
+264 The hair cells of ampulla can undergo depolarization or hyperpolarization. ===> TRUE
+265 The hair cells of ampulla function as chemoreceptors. ===> FALSE
+266 The hair cells of ampulla are stimulated by the displacement of the basilar membrane. ===> FALSE
+267 The hair cells of ampulla generate action potentials. ===> FALSE
+268 The hair cells of ampulla generate graded potentials. ===> TRUE
+269 The otolith organs detect the position of the head in space. ===> TRUE
+270 The otolith organs produce rotatory nystagmus. ===> FALSE
+271 The otolith organs detect angular acceleration. ===> FALSE
+272 The otolith organs are located in the semicircular ducts. ===> FALSE
+273 The otolith organs are located in the utricle and saccule. ===> TRUE
+274 Semicircular ducts have receptor cells that are located in the ampulla. ===> TRUE
+275 Semicircular ducts detect the steady-state rotation of the head. ===> FALSE
+276 Semicircular ducts have receptor cells that generate action potentials. ===> FALSE
+277 Semicircular ducts are activated by changes in head position relative to the force of gravity. ===> FALSE
+278 Auditory cortex is located in the temporal lobe. ===> TRUE
+279 The linear acceleration of the head is detected by the semicircular ducts. ===> FALSE
+280 The foot-plate of the stapes fits into the oval window. ===> TRUE
+281 Organ of Corti is stimulated by the linear acceleration. ===> FALSE
+282 Organ of Corti is stimulated by the rotation acceleration. ===> FALSE
+283 The receptor cells of cochlea send their axons into the thalamus. ===> FALSE
+284 The muscles in the middle ear are innervated by sympathetic fibers. ===> FALSE
+285 The muscles in the middle ear are innervated by parasympathetic fibers. ===> FALSE
+286 The auditory pathway comprises the thalamus. ===> TRUE
+287 The auditory pathway comprises medial lemniscus. ===> FALSE
+288 The auditory pathway comprises the primary somatosensory cortex. ===> FALSE
+289 The auditory cortex receives information from the thalamus. ===> TRUE
+290 The auditory cortex is located in the parietal lobe. ===> FALSE
+291 The auditory cortex is located in the occipital lobe. ===> FALSE
+292 The auditory cortex provides conscious awareness of the position and acceleration of the body. ===> FALSE
+293 The hair cells of the organ of Corti are innervated by afferent neurons. ===> TRUE
+294 The bases of the hair cells of the organ of Corti are located on the tectorial membrane. ===> FALSE
+295 The bases of the hair cells of the organ of Corti are located on the basilar membrane. ===> TRUE
+296 Axons of the hair cells of the organ of Corti form the first neuron of the auditory pathway. ===> FALSE
+297 Information about hair cell stimulation of the organ of Corti is carried by the vagus nerve. ===> FALSE
+298 Information about hair cell stimulation of the organ of Corti is carried by the vestibulocochlear nerve. ===> TRUE
+299 The muscles in the middle ear are innervated by motor neurons. ===> TRUE
+300 The angular acceleration during rotation is detected by the semicircular ducts. ===> TRUE
+301 The utricle and saccule provide information about linear acceleration. ===> TRUE
+302 The receptor cells in the utricle and saccule are mechanoreceptors. ===> TRUE
+303 Changes in head position relative to the forces of gravity is detected by the utricle and saccule. ===> TRUE
+304 The receptor cells in the utricle and saccule are the hair cells. ===> TRUE
+305 The stereocilia from the hair cells in the utricle and saccule are covers by a gelatinous substancewith otoliths. ===> TRUE
+306 The hair cells in the utricle and saccule are stimulated by a change in head position. ===> TRUE
+307 All sensory receptors adapt rapidly. ===> FALSE
+308 All sensory receptors are free nerve ending. ===> FALSE
+309 Sensory receptors generate action potentials. ===> FALSE
+310 Sensory receptors generate graded potentials. ===> TRUE
+311 Sensory receptors could generate hyperpolarization or even depolarization. ===> TRUE
+312 The cell body of the first afferent neuron of sensory receptors is located in the dorsal root or in thecranial ganglia. ===> TRUE
+313 Skin receptors are rapidly and slowly adapting mechanoroceptors. ===> TRUE
+314 Modality is another term for the designation of the stimulus type. ===> TRUE
+315 Modality is the total amount of stimulus energy delivered to the receptor. ===> FALSE
+316 Modality is coded by frequency of action potentials in a single afferent nerve fibre. ===> FALSE
+317 Modality is coded by the magnitude of the receptor potential. ===> FALSE
+318 Adequate stimulus for the photoreceptors in the retina is the visible light. ===> TRUE
+319 Adequate stimulus for the mechanoreceptors in the skin is a pressure or stretch. ===> TRUE
+320 Nociceptors are free nerve endings and responses to different stimuli, such as heat or tissuedamage. ===> TRUE
+321 Adequate stimulus for the mechanoreceptors in the skin is cold and warmth. ===> FALSE
+322 Receptor potential is the graded potential produced by sensory receptor. ===> TRUE
+323 The magnitude of a graded potential decreases with distance from its origin. ===> TRUE
+324 The magnitude of a graded potential increases with distance from its origin. ===> FALSE
+325 The intensity of the stimulus is coded by frequency of action potentials in a single afferent nervefibre. ===> TRUE
+326 Joint and muscle receptors belong to rapidly adapting receptors. ===> FALSE
+327 Slowly adapting receptors are important in signaling of rapid change. ===> FALSE
+328 Slowly adapting receptors maintain their respons to a constant stimulus. ===> TRUE
+329 The receptor potential has character of the graded potential. ===> TRUE
+330 The receptor potential has always constant amplitude. ===> FALSE
+331 The receptor potential is conducted without a decrement. ===> FALSE
+332 The receptor potential determines the action potential amplitude in the afferent neuron. ===> FALSE
+333 The receptor potential is conducted with a decrement. ===> TRUE
+334 Stimulus type is another term for the designation of the modality. ===> TRUE
+335 Stimulus type is the total amount of stimulus energy delivered to the receptor. ===> FALSE
+336 Stimulus type is coded by frequency of action potentials in a single afferent nerve fiber. ===> FALSE
+337 Stimulus type is coded by the magnitude of the receptor potential. ===> FALSE
+338 All or none response is characteristic for the receptor potential. ===> FALSE
+339 The mechanoreceptors could be encapsulated nerve endings. ===> TRUE
+340 Pacinian corpuscles are slowly adapting receptors. ===> FALSE
+341 Nociceptors have encapsulated nerve endings. ===> FALSE
+342 Nociceptors are free nerve endings. ===> TRUE
+343 Sensory unit covers single afferent neuron with all its receptor endings. ===> TRUE
+344 The magnitude of an action potential in the afferent neuron is equal to the power of stimulus. ===> FALSE
+345 Receptor adaptation decreases the receptor sensitivity and the action potential frequency to astimulus of constant strength. ===> TRUE
+346 Adequate stimulus is the type of stimulus to which a particular receptor responds. ===> TRUE
+347 Sensory receptor detects information about the external and internal environment. ===> TRUE
+348 Sensory receptor transforms the energy of the stimulus into graded potentials. ===> TRUE
+349 Stimulus is a signal that activates a sensory receptor. ===> TRUE
+350 Mechanoreceptors can detect for example deep pressure and vibration. ===> TRUE
+351 Mechanoreceptors can detect muscle tension. ===> TRUE
+352 Mechanoreceptors for pressure sensation adapt rapidly. ===> TRUE
+353 Mechanoreceptors for pressure sensation adapt slowly. ===> TRUE
+354 Mechanoreceptors can detect for example smell and vibration. ===> FALSE
+355 Mechanoreceptors belong to group of chemoreceptors. ===> FALSE
+356 Pacinian corpuscle is sensitive to the mechanical vibration. ===> TRUE
+357 Pacinian corpuscle is a type of the temperature receptor. ===> FALSE
+358 Pacinian corpuscle is a free nerve ending. ===> FALSE
+359 Pacinian corpuscle located in the epidermis. ===> FALSE
+360 Intensity of the stimulus is encoded by frequency of action potential of a sensory nerve. ===> TRUE
+361 An increase in the action potential frequency of a sensory nerve usually signifies higher intensity ofthe stimulus. ===> TRUE
+362 An increase in the action potential frequency of a sensory nerve usually signifies lower intensity ofthe stimulus. ===> FALSE
+363 An increase in the action potential frequency of a sensory nerve usually signifies adaptation of thereceptor. ===> FALSE
+364 An decrease in the action potential frequency of a sensory nerve usually signifies adaptation of thereceptor. ===> TRUE
+365 A change in the action potential frequency of a sensory nerve signifies a constant and maintainedstimulus. ===> FALSE
+366 Cessation of receptor stimulation leads to higher action potential frequency of the sensory nerve. ===> FALSE
+367 Heat receptors are localized in the skin. ===> TRUE
+368 Cold receptors are localized in the skin. ===> TRUE
+369 Taste receptors are chemoreceptors. ===> TRUE
+370 Taste receptors generally give rise to a salty taste when stimulated by hydrogen ions. ===> FALSE
+371 The taste pathway projects to the temporal lobe. ===> FALSE
+372 Taste receptors whose activation elicits the bitter sensation are located in taste buds. ===> TRUE
+373 Taste receptors are found only at the tip of the tongue. ===> FALSE
+374 Taste receptors are connected with the taste pathway via electric synapses. ===> FALSE
+375 Taste receptors project taste information via taste pathways into a certain part of the occipital cortex. ===> FALSE
+376 The receptor cells serving taste are confined only to the soft palate. ===> FALSE
+377 The receptor cells serving taste lie under the epithelium of the oral cavity. ===> FALSE
+378 Sour taste is elicited by the interaction of salts with membrane receptors that regulate secondmessenger cascades. ===> FALSE
+379 Sweet taste begins with sodium entry into the receptor cell. ===> FALSE
+380 Sensory fibers of the spinal nerves are collected in the dorsal roots. ===> TRUE
+381 All sensory fibers are unmyelinated. ===> FALSE
+382 Sensory fibers of the cranial nerves have their perikarya in the dorsal root ganglia. ===> FALSE
+383 All sensory fibers are myelinated. ===> FALSE
+384 Sensory information is every time processed by the same side of the brain as stimulated side of thebody. ===> FALSE
+385 Specific ascending sensory pathways are subjected to descending controls. ===> TRUE
+386 Chemoreceptors are receptors sensitive to specific chemicals. ===> TRUE
+387 Internal chemoreceptors located in large blood vessels respond to oxygen and hydrogen ion. ===> TRUE
+388 Taste buds are found in the mouth, throat and on the upper surface and sides of the tongue. ===> TRUE
+389 Taste modalities can be divided into 5 categories: sweet, sour, salty, bitter and umami. ===> TRUE
+390 Basal cells of taste buds are differentiated into taste receptor cells. ===> TRUE
+391 To detect the taste of the food, the food molecules must be dissolved in liquid. ===> TRUE
+392 The pathways for taste project to the parietal cortex. ===> TRUE
+393 Olfactory sensory cells are true neurons. ===> TRUE
+394 Olfactory sensory cells are innervated by the trigeminal nerve. ===> FALSE
+395 Olfactory sensory cells form synapses with neurons of the specific thalamus. ===> FALSE
+396 Olfactory sensory cells never adapt. ===> FALSE
+397 Olfactory sensory cells show adaptation. ===> TRUE
+398 Olfactory sensory cells are epithelial cells which synapse with the underlying olfactory nerves. ===> FALSE
+399 Olfactory sensory cells are located in the olfactory bulb. ===> FALSE
+400 Olfactory sensory cells send their processes to the limbic cortex. ===> FALSE
+401 Olfactory sensory cells contain mechanosensitive ion channels. ===> FALSE
+402 Olfactory sensory cells project smell information into the occipital cortex. ===> FALSE
+403 Olfactory sensory cells responds to odors which are thought all to be combinations of four primaryodors, sweet, salty, sour, and bitter. ===> FALSE
+404 Olfactory sensory cells are supplied by afferent neurons that carry information to the thalamus. ===> FALSE
+405 Olfactory receptor neurons live for only two months. ===> TRUE
+406 Olfactory epithelium is located in the lower part of the nasal cavity. ===> FALSE
+407 Olfactory epithelium is located at the top of the nasal cavity. ===> TRUE
+408 The axons of the olfactory receptor neurons form the olfactory nerve, which is cranial nerve II. ===> FALSE
+409 Olfactory receptor neurons do not have cilia. ===> FALSE
+410 The axons of the olfactory receptor neurons form the olfactory nerve. ===> TRUE
+411 Flavor of food is contributed by the sense of taste and smell. ===> TRUE
+412 The first cells in the olfactory pathway are the olfactory receptor neurons. ===> TRUE
+413 Olfactory receptor cells are constantly replaced by new cells produced from stem cells in theolfactory epithelium. ===> TRUE
+414 Olfactory receptor cells extend dendrite to the surface of the epithelium. ===> TRUE
+415 Olfactory receptor cells extend axon to the surface of the epithelium. ===> FALSE
+416 The axons of the olfactory receptor neurons form the olfactory nerve, which is cranial nerve I. ===> TRUE
+417 The cilia extend from the tip of the dendrite and they are bathed in mucus layer. ===> TRUE
+418 The axons of the olfactory receptor cells synapse in the olfactory bulb. ===> TRUE
+419 Olfactory bulbs lie on the undersurface of the frontal lobes. ===> TRUE
+420 Smell information is passed to the olfactory cortex and other parts of limbic system. ===> TRUE
+421 The primary visual cortex receives information from the lateral geniculate nucleus. ===> TRUE
+422 The primary visual cortex is located in the temporal lobe. ===> FALSE
+423 The primary visual cortex is located in the occipital lobe. ===> TRUE
+424 Neurons of the primary visual cortex receive direct input from retinal ganglion cells. ===> FALSE
+425 Neurons of the primary visual cortex control the change in a pupil size. ===> FALSE
+426 The absorption spectra of the photopigments in cones overlap. ===> TRUE
+427 Red-sensitive photopigment responds maximally to light of 420 nm wavelengths. ===> FALSE
+428 Color vision deficiency afflicts more the female population than the male one. ===> FALSE
+429 Color vision deficiency afflicts more the male population than the female one. ===> TRUE
+430 Color vision is mediated by cone photoreceptors. ===> TRUE
+431 Color vision occurs due to activation of rod photoreceptors. ===> FALSE
+432 Anomalies in color vision can be caused by absence of red-sensitive rods. ===> FALSE
+433 Anomalies in color vision can be caused by absence of red-sensitive cones. ===> TRUE
+434 Color vision is tested by using specific images. ===> TRUE
+435 The most common form of color blindness is red-green color blindness. ===> TRUE
+436 Human retinas have four kinds of cones. ===> FALSE
+437 Cone photoreceptor cells that detect red color are activated by short wavelengths. ===> FALSE
+438 Cone photoreceptor cells that detect red color are activated by long wavelengths. ===> TRUE
+439 Cone photoreceptor cells that detect green color are activated by medium wavelengths. ===> TRUE
+440 Cone photoreceptor cells that detect blue color are activated by short wavelengths. ===> TRUE
+441 Detection of the colors is related to the wavelenght of the visible light. ===> TRUE
+442 The fovea centralis of the retina provides the highest visual acuity. ===> TRUE
+443 Saccades are fast eye movements. ===> TRUE
+444 Saccades are tracking movements of the eyes following the moving object. ===> FALSE
+445 Slow movements are tracking movements of the eyes following the moving object. ===> TRUE
+446 Saccades are eye movements compensating movements following the movements of the head. ===> FALSE
+447 Saccades are eye movements governed from the vestibular system. ===> FALSE
+448 Axons of ganglion cells in the retina form the optic nerve. ===> TRUE
+449 Ganglion cells hyperpolarize when the light falls upon the retina. ===> FALSE
+450 Rods and cones hyperpolarize when the light falls upon the retina. ===> TRUE
+451 Rods and cones depolarize when the light falls upon the retina. ===> FALSE
+452 Cones have pigments that are sensitive to different parts of the light spectrum. ===> TRUE
+453 Cones have a higher sensitivity to light than rods. ===> FALSE
+454 Rods have a higher sensitivity to light than cones. ===> TRUE
+455 Cones respond to very low level of illumination. ===> FALSE
+456 Rods respond to very low level of illumination. ===> TRUE
+457 Dark adaptation is a decline in visual threshold. ===> TRUE
+458 Dark adaptation is directly dependent on the presence of vitamin K in the body. ===> FALSE
+459 Dark adaptation occurs when you step from a dark place into a bright one. ===> FALSE
+460 Dark adaptation occurs mainly due to activity of cones. ===> FALSE
+461 Dark adaptation occurs when you step from a bright place into a dark one. ===> TRUE
+462 Dark adaptation occurs mainly due to activity of rods. ===> TRUE
+463 Light-sensitive portions of the photoreceptor cells face always away from the incoming light. ===> TRUE
+464 Light-sensitive portions of the photoreceptor cells are called inner segments. ===> FALSE
+465 Light-sensitive portions of the photoreceptor cells are called outer segments. ===> TRUE
+466 Light-sensitive portions of the photoreceptor cells contain nucleus and mitochondria. ===> FALSE
+467 Light-sensitive portions of the photoreceptor cells contain synaptic terminals that connectphotoreceptors to the next neurons in the retina. ===> FALSE

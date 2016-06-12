@@ -1,0 +1,457 @@
+// Endocrinology - GM - 2015/2016 1.5.2016
+1 Endocrine glands secrete hormones into the bloodstream for transport to target organs. ===> TRUE
+2 The receptors for non-steroid peptide hormones are on the plasma membrane. ===> TRUE
+3 Steroid hormones bind to cytoplasmic receptors. ===> TRUE
+4 Peptide hormones are water soluble. ===> TRUE
+5 Steroid hormones bind to intracellular receptors. ===> TRUE
+6 Hypothalamic releasing hormones are synthesized and secreted by neurons. ===> TRUE
+7 A hormone whose target cells are endocrine is called trophic. ===> TRUE
+8 An amino acid derivative can be a hormone. ===> TRUE
+9 All hormone levels decrease in aging. ===> TRUE
+10 The hypothalamus directs the release of the pituitary hormones. ===> TRUE
+11 An alternative name for the anterior pituitary is the adenohypophysis. ===> TRUE
+12 Many anterior pituitary hormones are under negative feedback regulation. ===> TRUE
+13 Inhibitory and releasing hormones are produced by the hypothalamus and function to control theadenohypophysis. ===> TRUE
+14 Anterior pituitary cells called lactotropes secrete prolactin. ===> TRUE
+15 The hypothalamus synthesizes hormones that are transported along axons to the posterior pituitarygland. ===> TRUE
+16 The pituitary gland is attached to the hypothalamus. ===> TRUE
+17 The pituitary gland consists of the anterior lobe developed from the alimentary tract and the posteriorlobe developed from the brain. ===> TRUE
+18 Adrenocorticotropic hormone (ACTH) production is controlled by a releasing hormone from thehypothalamus. ===> TRUE
+19 The gonadotrophic hormones stimulate hormone secretion by the gonads. ===> TRUE
+20 The gonadotrophic hormones are secreted by the anterior pituitary gland of both males and females. ===> TRUE
+21 Growth hormone secretion is regulated by growth hormone releasing hormone (GHRH). ===> TRUE
+22 An increase in somatostatin secretion will result in a fall in growth hormone (GH) secretion. ===> TRUE
+23 Luteinizing hormone (LH) and follicle stimulating hormone (FSH) are collectively known as thegonadotrophins ===> TRUE
+24 The posterior lobe of the pituitary gland is formed by a down-growth from the brain. ===> TRUE
+25 The posterior lobe of the pituitary gland is called the neurohypophysis. ===> TRUE
+26 The hypothalamus DIRECTLY controls the secretions of the pituitary gland. ===> TRUE
+27 The neurohypophysis is only a hormone storage area that receives hormones from thehypothalamus for release. ===> TRUE
+28 The posterior pituitary gland secretes antidiuretic hormone (ADH). ===> TRUE
+29 The posterior pituitary gland secretes oxytocin. ===> TRUE
+30 Antidiuretic hormone (ADH) is an alternative name for vasopressin. ===> TRUE
+31 Antidiuretic hormone (ADH) is synthesized in neurons. ===> TRUE
+32 Antidiuretic hormone (ADH) secretion is inhibited by alcohol. ===> TRUE
+33 Oxytocin acts via cAMP. ===> TRUE
+34 Prolactin secretion is inhibited by dopamine. ===> TRUE
+35 Oxytocin stimulates the secretion of milk by the mammary glands. ===> TRUE
+36 Prolactin stimulates the synthesis of milk by the mammary glands. ===> TRUE
+37 Lack of vasopressin (ADH) will result in excessive production of the urine. ===> TRUE
+38 Adrenocorticotrophic hormone (ACTH) stimulates secretion of glucocorticoids. ===> TRUE
+39 Diabetes insipidus is due to lack of antidiuretic hormone (ADH) secretion. ===> TRUE
+40 The effects of oxytocin on the uterus are potentiated by estrogens. ===> TRUE
+41 Growth hormone (GH) is involved in the control of growth of the long bones during adolescence. ===> TRUE
+42 The indirect actions of growth hormone (GH) are mediated by insulin-like growth factors (IGFs). ===> TRUE
+43 Acromegaly is a condition resulting from the oversecretion of the growth hormone (GH) in adults. ===> TRUE
+44 The hypothalamus secretes corticotropin-releasing hormone (CRH). ===> TRUE
+45 The hypothalamus secretes thyrotropin-releasing hormone (TRH). ===> TRUE
+46 Antidiuretic hormone (ADH) and oxytocin are peptides. ===> TRUE
+47 The hypothalamus synthesizes and secretes substances that stimulate or inhibit the secretion ofposterior pituitary hormones. ===> FALSE
+48 The hypothalamus secretes prolactin. ===> FALSE
+49 The pituitary gland exerts its effects only by influencing other endocrine glands. ===> FALSE
+50 The pituitary gland has the anterior lobe which secretes oxytocin. ===> FALSE
+51 The pituitary gland secretes corticotropin-releasing hormone (CRH). ===> FALSE
+52 The pituitary gland secretes thyrotropin-releasing hormone (TRH). ===> FALSE
+53 The gonadotrophic hormones have constant plasma levels. ===> FALSE
+54 The gonadotrophic hormones are steroids. ===> FALSE
+55 Loss of dopaminergic neurons in the hypothalamus is likely to lead to a fall in the secretion ofprolactin. ===> FALSE
+56 Prolactin secretion is stimulated by dopamine. ===> FALSE
+57 Secretion of hormones of the posterior pituitary is stimulated by releasing hormones. ===> FALSE
+58 The posterior pituitary gland contains many neuronal cell bodies. ===> FALSE
+59 The posterior pituitary gland stores and secretes aldosterone and cortisol. ===> FALSE
+60 The secretion of oxytocin and antidiuretic hormone (ADH) is regulated by releasing hormonessecreted by the hypothalamus. ===> FALSE
+61 Antidiuretic hormone (ADH) and oxytocin are steroids. ===> FALSE
+62 Antidiuretic hormone (ADH) enters the cell and combines with intracellular receptors. ===> FALSE
+63 Antidiuretic hormone (ADH) is carried to the posterior pituitary gland via capillaries. ===> FALSE
+64 Antidiuretic hormone (ADH) is released into the blood from the anterior pituitary. ===> FALSE
+65 Antidiuretic hormone (ADH) is secreted by nerve cells with their cell bodies in the posterior pituitary. ===> FALSE
+66 Antidiuretic hormone (ADH) secretion decreases in response to a rise in plasma osmolality. ===> FALSE
+67 Antidiuretic hormone (ADH) in the kidneys acts on the proximal tubule. ===> FALSE
+68 Antidiuretic hormone (ADH) secretion is stimulated by alcohol. ===> FALSE
+69 Antidiuretic hormone (ADH) reduces the rate of glomerular filtration. ===> FALSE
+70 Antidiuretic hormone (ADH) increases the permeability of renal diluting segment to water. ===> FALSE
+71 Oxytocin inhibits contraction of the uterus during labour. ===> FALSE
+72 The effects of oxytocin on the uterus are potentiated by progesterone. ===> FALSE
+73 The effects of oxytocin include antidiuresis. ===> FALSE
+74 The effects of oxytocin on the breast include direct stimulation of milk formation. ===> FALSE
+75 Growth hormone (GH) secretion results in a decrease in muscle mass. ===> FALSE
+76 The growth-promoting functions of growth hormone (GH) do NOT include increasing cellular uptakeof amino acids. ===> FALSE
+77 The endocrine system is quicker than the nervous system. ===> FALSE
+78 Non-steroid peptide hormones enter the target cell. ===> FALSE
+79 Non-steroid hormones are produced by the adrenal glands, the ovaries, and the testes. ===> FALSE
+80 Peptide hormones travel in the blood in combination with carrier proteins. ===> FALSE
+81 Steroid hormones lead to the destruction of normal DNA. ===> FALSE
+82 The action of hormones that enter cells is more rapid than the action of those that act on the cellmembrane. ===> FALSE
+83 The sella turcica is the location of the adrenal gland. ===> FALSE
+84 The parathyroid gland is located just superior to the kidney. ===> FALSE
+85 Blood flows from the anterior pituitary to the hypothalamus in portal vessels. ===> FALSE
+86 The adrenocorticotropic hormone (ACTH) is produced by neurons whose cell bodies lie in thehypothalamus. ===> FALSE
+87 The adrenocorticotropic hormone (ACTH) is produced by the neurohypophysis. ===> FALSE
+88 The pituitary gland is controlled by the frontal cortex. ===> FALSE
+89 The hypothalamus produces releasing hormone which influences the release of antidiuretic hormone(ADH) from the anterior pituitary. ===> FALSE
+90 The posterior lobe of the pituitary gland is called the adenohypophysis. ===> FALSE
+91 The posterior pituitary gland secretes prolactin. ===> FALSE
+92 Diabetes insipidus is due to excess production of antidiuretic hormone (ADH) secretion. ===> FALSE
+93 The thyroid gland takes up iodide by an energy-requiring transport mechanism. ===> TRUE
+94 Most of the iodide in the body is present in the thyroid gland. ===> TRUE
+95 When a thyroid gland increases its activity it takes up iodide from the blood at a faster rate. ===> TRUE
+96 Iodide is oxidized prior to iodination of tyrosine. ===> TRUE
+97 The effect of thyroid hormone is to promote heat-generating reactions. ===> TRUE
+98 Thyroid peroxidase is required for oxidation of iodide. ===> TRUE
+99 The synthesis of thyroid hormones requires the combination of two iodinated tyrosine residues. ===> TRUE
+100 Thyroid hormones are stored extracellularly. ===> TRUE
+101 A deficiency of dietary iodide can induce goiter formation. ===> TRUE
+102 Thyroid hormones are secreted from the gland mostly in the form of thyroxin. ===> TRUE
+103 In addition to thyroxine and triiodothyrinine, the thyroid gland produces calcitonin. ===> TRUE
+104 Thyroid hormones synthesis and secretion is controlled by thyroid stimulating hormone (TSH) fromthe thyrotropes. ===> TRUE
+105 Thyroid hormones act by inducing gene transcription and protein synthesis. ===> TRUE
+106 Thyroid stimulating hormone (TSH) is a complex glycoprotein hormone with the alpha subunitidentical to luteinizing hormone (LH) and follicle stimulating hormone (FSH). ===> TRUE
+107 Thyroid stimulating hormone (TSH) is secreted at a higher rate when the diet is deficient in iodide. ===> TRUE
+108 The level of thyroid-stimulating hormone (TSH) reaching the thyroid gland increases when theindividual moves to a colder environment. ===> TRUE
+109 Thyroid hormone receptors exist in the nucleus of the target cell. ===> TRUE
+110 Thyroid hormones are essential for the early development and maturation of the central nervoussystem. ===> TRUE
+111 Thyroid hormones tend to increase the basal metabolic rate. ===> TRUE
+112 Thyroid hormones can increase cardiac output. ===> TRUE
+113 Thyroid hormones tend to increase the heart rate. ===> TRUE
+114 Thyroid hormones exert positive inotropic effect. ===> TRUE
+115 Thyroid hormones tend to stimulate uptake of glucose by the cells and glycolysis. ===> TRUE
+116 Thyroid hormones tend to stimulate proteolysis. ===> TRUE
+117 Thyroid hormones tend to stimulate mobilization of lipids from the fat stores. ===> TRUE
+118 An inactive thyroid gland will contain more colloid than an active one. ===> TRUE
+119 People who have an hypoactive thyroid gland have a low basal metabolic rate. ===> TRUE
+120 Hypothyroidism can be associated with an elevated plasma level of thyroid stimulating hormone(TSH). ===> TRUE
+121 Hypothyroidism may result in goiter. ===> TRUE
+122 Advanced hypothyroidism in adulthood is characterized by myxedema. ===> TRUE
+123 Graves’disease is an autoimmune disease resulting in the production of autoantibodies thatstimulate TSH receptor. ===> TRUE
+124 The most common cause of Hadhimoto´s thyroiditis is autoimmune destruction. ===> TRUE
+125 Administration of exogenous thyroid hormones would likely lead to negative feedback inhibition ofTSH secretion. ===> TRUE
+126 Lack of thyroid hormones in fetal and early neonatal life leads to a condition called cretinism in whichthere is mental retardation. ===> TRUE
+127 Hyperthyroidism is characterized by weight loss, heat intolerance and irritability. ===> TRUE
+128 Exophthalmos of the eye is characteristic of hyperthyroidism. ===> TRUE
+129 Iodide is oxidized prior to iodination of tyrosine. ===> TRUE
+130 Proteolysis of iodinated thyroglobulin is stimulated by thyroid stimulating hormone (TSH). ===> TRUE
+131 The thyroid stimulating hormone (TSH) is produced by the anterior pituitary gland. ===> TRUE
+132 The thyroid stimulating hormone (TSH) is produced by the posterior pituitary gland. ===> FALSE
+133 Proteolysis of iodinated thyroglobulin is inhibited by thyroid stimulating hormone (TSH). ===> FALSE
+134 The thyroid stimulating hormone (TSH) is produced by the thyroid gland. ===> FALSE
+135 The hypothalamus produces releasing hormone which DIRECTLY influences the release ofthyroxine from the thyroid gland. ===> FALSE
+136 Thyroglobulin is another name for thyroid hormone. ===> FALSE
+137 Thyroid peroxidase is required for iodide uptake. ===> FALSE
+138 Thyroid hormones are water soluble. ===> FALSE
+139 Proteolysis of iodinated thyroglobulin is inhibited by thyroid stimulating hormone (TSH). ===> FALSE
+140 Thyroid hormones circulate in the blood mainly as free hormones. ===> FALSE
+141 Thyroxin is transported in circulation bound to thyroglobulin. ===> FALSE
+142 The level of thyroid-stimulating hormone (TSH) in the blood is influenced by a releasing hormonefrom the posterior pituitary. ===> FALSE
+143 Thyroid stimulating hormone (TSH) is secreted at a higher rate when the circulating concentration offree thyroid hormones is high. ===> FALSE
+144 Thyroid stimulating hormone (TSH) suppresses the growth of the thyroid gland. ===> FALSE
+145 The level of thyroid-stimulating hormone (TSH) leaving the pituitary is reduced by a decrease in thelevel of thyroxine in the general circulation. ===> FALSE
+146 Thyroid stimulating hormone (TSH) is synthesized by neurons of the hypothalamus. ===> FALSE
+147 Thyroid stimulating hormone (TSH) is a lipid soluble hormone. ===> FALSE
+148 Thyroid releasing hormone (TRH) is synthetized and secreted by thyrotropes. ===> FALSE
+149 Thyroid releasing hormone (TRH) is a steroid. ===> FALSE
+150 Thyroid hormone receptors are localized in the plasma membrane of target cells. ===> FALSE
+151 Thyroid hormones decrease the resting consumption of oxygen. ===> FALSE
+152 Thyroid hormones tend to enter the blood in the form of thyroglobulin. ===> FALSE
+153 Thyroid hormones tend to decrease the energy expenditure required to perform a given amount ofwork. ===> FALSE
+154 When a thyroid gland increases its activity, the follicles enlarge and fill with colloid. ===> FALSE
+155 When a thyroid gland increases its activity, plasma levels of T4 and T3 are ordinarily undetectable. ===> FALSE
+156 T3 andT4 stimulate the secretion of thyroid stimulating hormone (TSH) by the anterior pituitary. ===> FALSE
+157 When a thyroid gland increases its activity the resting rate of carbon dioxide production decreases. ===> FALSE
+158 Hypothyroidism can be associated with a rise in plasma T3 and T4 levels. ===> FALSE
+159 Hypothyroidism can be associated with high irritability and nervousness. ===> FALSE
+160 Cushing´s syndrome is caused by thyroid hormone deficiency. ===> FALSE
+161 Exophthalmos of the eye is a characteristic sign of cretinism. ===> FALSE
+162 Myxedema is associated with bulging eyes. ===> FALSE
+163 Thyroid hormones tend to increase the body weight. ===> FALSE
+164 Thyroid hormones tend to decrease the basal metabolic rate. ===> FALSE
+165 Thyroid hormones decrease cardiac output. ===> FALSE
+166 Thyroid hormones tend to decrease the heart rate. ===> FALSE
+167 Thyroid hormones exert negative inotropic effect. ===> FALSE
+168 Thyroid hormones tend to inhibit uptake of glucose by the cells and glycolysis. ===> FALSE
+169 Thyroid hormones tend to inhibit proteolysis. ===> FALSE
+170 Thyroid hormones tend to inhibit mobilization of lipids from the fat stores. ===> FALSE
+//171 ===> FALSE
+172 The adrenal glands consist of the inner medulla and the outer cortex. ===> TRUE
+173 The adrenal gland contains less medullary than cortical tissue. ===> TRUE
+174 The adrenal medulla is a modified sympathetic ganglion. ===> TRUE
+175 The adrenal cortex is a source of sex hormones. ===> TRUE
+176 The zona glomerulosa of the adrenal cortex lies just beneath the capsule. ===> TRUE
+177 The adrenal cortex will atrophy following removal of the anterior pituitary. ===> TRUE
+178 Principal glucocorticoid of the adrenal cortex is cortisol. ===> TRUE
+179 Cortisol is a hyperglycemic hormone. ===> TRUE
+180 Abnormally high glucocorticoid levels would be associated with high rate of gluconeogenesis. ===> TRUE
+181 Cortisol stimulates hepatic glucose production. ===> TRUE
+182 Cortisol decreases the glucose uptake in muscle cells. ===> TRUE
+183 Cortisol promotes conversion of fats to fatty acids. ===> TRUE
+184 Cortisol secretion increases following an injury to the body. ===> TRUE
+185 An increase in cortisol secretion would lead to increased storage of glycogen in the liver. ===> TRUE
+186 An increase in cortisol secretion would lead to increased plasma glucose concentration. ===> TRUE
+187 Glucocorticoids in the blood can inhibit the pituitary production of ACTH. ===> TRUE
+188 Glucocorticoids in the blood can inhibit the growth of lymphoid tissue. ===> TRUE
+189 ACTH stimulates secretion of cortisol. ===> TRUE
+190 ACTH output tends to increase when the circulating cortisol level falls. ===> TRUE
+191 ACTH secretion is greatest in the early morning. ===> TRUE
+192 Excessive glucocorticoid production (Cushing's syndrome) is characterized by a redistribution of fat. ===> TRUE
+193 A cortisol-deficient individual has a decreased ability to store glucose in the liver. ===> TRUE
+194 A cortisol-deficient individual has reduced resistance to stress. ===> TRUE
+195 Cortisol shows antiinflammatory effects. ===> TRUE
+196 Low levels of adrenal cortex hormones result in Addison disease. ===> TRUE
+197 Aldosterone is a lipophilic hormone. ===> TRUE
+198 Cortisol is a lipophilic hormone. ===> TRUE
+199 Adrenal insufficiency causes a fall in extracellular fluid volume. ===> TRUE
+200 Aldosterone is secreted by the zona glomerulosa of the adrenal cortex. ===> TRUE
+201 The rate of aldosterone secretion would decrease in response to a decrease in renin secretion by thekidney. ===> TRUE
+202 Aldosterone secretion is increased by a rises in the plasma potassium concentration. ===> TRUE
+203 Aldosterone promotes renal retention of sodium ions. ===> TRUE
+204 Aldosterone secretion is stimulated by angiotensin. ===> TRUE
+205 Aldosterone in the kidney acts mainly on the epithelial cells of the distal nephron. ===> TRUE
+206 Adrenal insufficiency causes a rise in the plasma potassium ratio. ===> TRUE
+207 Adrenal insufficiency causes low blood pressure. ===> TRUE
+208 Aldosterone promotes renal loss of potassium. ===> TRUE
+209 The main hormone secreted by the adrenal medulla is adrenaline. ===> TRUE
+210 Adrenal insufficiency causes a rise in the plasma sodium to potassium ratio. ===> FALSE
+211 Adrenal insufficiency causes high blood pressure. ===> FALSE
+212 Aldosterone secretion is increased by a fall in the plasma calcium level. ===> FALSE
+213 The rate of aldosterone secretion would decrease in response to a decrease in tubule fluid sodiumconcentration at the macula densa. ===> FALSE
+214 Aldosterone over-secretion results in a rise in the extracellular potassium concentration. ===> FALSE
+215 Aldosterone promotes renal loss of sodium. ===> FALSE
+216 Aldosterone is a derivative of amino acid tyrosine. ===> FALSE
+217 Aldosterone binds to the tubular epithelial cells and activates adenylylcyclase, which results in a risein the cAMP level. ===> FALSE
+218 Aldosterone increases reabsorption of water and thus decreases extracellular fluid volume and bloodpressure. ===> FALSE
+219 Aldosterone receptors are only located within the plasma membrane of target cells. ===> FALSE
+220 Excessive glucocorticoid production (Cushing's syndrome) is characterized by melaninpigmentation. ===> FALSE
+221 ACTH output has a greater effect on aldosterone secretion than on cortisol secretion. ===> FALSE
+222 Aldosterone output is principally dependent on adrenocorticotropic hormone. ===> FALSE
+223 The adrenal cortex secretes both peptide and steroid hormones. ===> FALSE
+224 The adrenal cortex is the only site in the body where steroid hormones are produced. ===> FALSE
+225 The main hormone secreted by the adrenal medulla is noradrenaline. ===> FALSE
+226 The adrenal cortex is the main body source of angiotensin. ===> FALSE
+227 ACTH inhibits secretion of epinephrine. ===> FALSE
+228 ACTH inhibits secretion of dopamine. ===> FALSE
+229 Cortisol is a protein. ===> FALSE
+230 Cortisol is a peptide. ===> FALSE
+231 Cortisol is a sex hormone. ===> FALSE
+232 Abnormally high glucocorticoid levels would be associated with high utilization of glucose. ===> FALSE
+233 Abnormally high glucocorticoid levels would be associated with hypoglycemia. ===> FALSE
+234 Abnormally high glucocorticoid levels would be associated with retention of potassium by the kidney. ===> FALSE
+235 Cortisol defends the body against hyperglycaemia. ===> FALSE
+236 Cortisol is lipogenetic hormone. ===> FALSE
+237 Cortisol secretion favours protein synthesis in extrahepatic tissues. ===> FALSE
+238 Cortisol secretion tends to lower the blood pressure. ===> FALSE
+239 Cortisol secretion directly increases production of CRH. ===> FALSE
+240 Cortisol causes a reduction in blood glucose concentration. ===> FALSE
+241 An increase in cortisol secretion would lead to increased ACTH secretion. ===> FALSE
+242 An increase in cortisol secretion would lead to increased protein synthesis in extrahepatic tissues. ===> FALSE
+243 Glucocorticoids in the blood can decrease sodium reabsorption by the kidney. ===> FALSE
+244 Glucocorticoids in the blood can increase potassium reabsorption by the kidney. ===> FALSE
+245 Cortisol secretion is under the control of the posterior pituitary gland. ===> FALSE
+246 Cortisol is a hypoglycemic hormone. ===> FALSE
+247 The adrenal cortex is a modified sympathetic ganglion. ===> FALSE
+248 The adrenal glands are located a top the kidneys. ===> TRUE
+249 Epinephrine constitutes majority of the total secretion of the adrenal medulla. ===> TRUE
+250 Release of catecholamines from the adrenal medulla increases the blood level of glucose byfavoring glycogenolysis in liver and muscle cells. ===> TRUE
+251 Norepinephrine differs from epinephrine in that it lacks a methyl group on its nitrogen atom. ===> TRUE
+252 Catecholamines travel in the blood in free solution. ===> TRUE
+253 Catecholamines break down into vanillylmandelic acid, metanephrine, and normetanephrine. ===> TRUE
+254 Adrenal medullary hormones stimulate both alpha and beta receptors. ===> TRUE
+255 Adrenal medullary hormones include dopamine. ===> TRUE
+256 Adrenal medullary hormones include norepinephrine. ===> TRUE
+257 A sudden rise in catecholamines concentrations increases plasma glucose level. ===> TRUE
+258 A sudden rise in catecholamines concentrations dilates pupils. ===> TRUE
+259 A sudden rise in catecholamines concentrations dilates bronchioles. ===> TRUE
+260 Removal of the adrenal gland would cause blood sodium concentration to decrease and that ofpotassium to increase. ===> TRUE
+261 Catecholamines help the body to respond to stress. ===> TRUE
+262 Chromaffin cells are found in the adrenal medulla. ===> TRUE
+263 Excess secretion of catecholamines will lead to hypertension. ===> TRUE
+264 Increased catecholamine secretion stimulate lipolysis. ===> TRUE
+265 Epinephrine and norepinephrine raise arterial blood pressure through their actions on both the heartand vasculature. ===> TRUE
+266 Pheochromocytoma can increase the amount of catecholamines in the blood. ===> TRUE
+267 Parathyroid hormone decreases calcium excretion by the kidney. ===> TRUE
+268 Parathyroid hormone mobilizes calcium from bone. ===> TRUE
+269 Parathyroid hormone secretion is inversely related to the circulating levels of ionized calcium. ===> TRUE
+270 High levels of circulating parathyroid hormone demineralize bone and elevate plasma calcium. ===> TRUE
+271 Parathyroid hormone stimulates calcium absorption by the renal tubules. ===> TRUE
+272 Parathyroid hormone has no direct action on the gut. ===> TRUE
+273 Calcitonin inhibits the activity of osteoclasts and tends to stimulate the activity of osteoblasts. ===> TRUE
+274 Calcitonin is a peptide hormone. ===> TRUE
+275 Vitamin D increases the intestinal absorption of calcium. ===> TRUE
+276 Low plasma calcium levels stimulate parathyroid hormone secretion. ===> TRUE
+277 High plasma calcium levels inhibit parathyroid hormone secretion. ===> TRUE
+278 Parathyroid hormone raises the plasma calcium level. ===> TRUE
+279 Parathyroid hormone decreases the plasma phosphate level. ===> TRUE
+280 Parathyroid hormone increases renal excretion of phosphate. ===> TRUE
+281 Vitamin D becomes inactive after its hydroxylation in the lungs. ===> FALSE
+282 Release of catecholamines from the adrenal medulla decreases when the sympathetic nerves to theadrenal gland are stimulated. ===> FALSE
+283 Release of catecholamines from the adrenal medulla increases when the parasympathetic nerves tothe adrenal gland are cut. ===> FALSE
+284 Calcitonin is produced by the parathyroid gland. ===> FALSE
+285 Adrenal medullary hormones can be inactivated by acetylcholinesterase. ===> FALSE
+286 Adrenal medullary hormones tend to decrease systolic blood pressure. ===> FALSE
+287 The plasma calcium is completely ionized. ===> FALSE
+288 Adrenal medullary hormones are steroids. ===> FALSE
+289 Adrenal medullary hormones stimulate nicotinic receptors. ===> FALSE
+290 The plasma calcium becomes less ionized when blood pH falls. ===> FALSE
+291 A rise in plasma calcium concentration leads to hypocalcemic tetany. ===> FALSE
+292 Parathyroid hormone causes a decrease in cAMP concentration within renal proximal tubular cells. ===> FALSE
+293 Low plasma calcium levels inhibit parathyroid hormone secretion. ===> FALSE
+294 When parathyroid hormone levels are elevated, osteoclast activity is inhibited. ===> FALSE
+295 Calcitonin stimulates the activity of osteoclasts. ===> FALSE
+296 Calcitonin is a steroid hormone. ===> FALSE
+297 A sudden rise in catecholamines concentrations stimulates GIT and urinary bladder motility. ===> FALSE
+298 Parathyroid hormone acts directly on bone cells to increase calcium deposition. ===> FALSE
+299 Parathyroid hormone increases renal excretion of calcium. ===> FALSE
+300 Normal plasma levels of parathyroid hormone stimulate bone formation through its action onosteoblasts. ===> FALSE
+301 Parathyroid hormone decreases the renal clearance of phosphate. ===> FALSE
+302 Parathyroid hormone in the blood is decreased in amount when the calcium level falls. ===> FALSE
+303 Parathyroid hormone is produced by the cells of the thyroid gland. ===> FALSE
+304 Parathyroid hormone is a steroid. ===> FALSE
+305 Parathyroid hormone raises the plasma phosphate level. ===> FALSE
+306 Epinephrine and norepinephrine are secreted by the adrenal cortex. ===> FALSE
+307 The heart rate is reduced by circulating epinephrine and norepinephrine. ===> FALSE
+308 Catecholamines increase the amount of blood going to the skin and intestine. ===> FALSE
+309 Removal of the adrenal gland would cause blood sodium and potassium concentrations to decrease. ===> FALSE
+310 Removal of the adrenal gland would cause blood sodium and potassium concentrations to increase. ===> FALSE
+311 A sudden rise in catecholamines concentrations constricts bronchioles. ===> FALSE
+312 Adrenal medullary hormones include dehydroepiandrosterone. ===> FALSE
+313 A sudden rise in catecholamines concentrations constricts pupils. ===> FALSE
+//314 ===> FALSE
+315 The hormones of the islets of Langerhans are associated with the body's utilization of glucose. ===> TRUE
+316 The islets of Langerhans contain beta cells whose granules contain insulin. ===> TRUE
+317 The most numerous cells of the islets of Langerhans are the beta cells that secrete the hormoneinsulin. ===> TRUE
+318 Insulin consists of two chains of amino acids linked by disulphide bridges. ===> TRUE
+319 Insulin is required for the transport of glucose across the skeletal muscle membrane. ===> TRUE
+320 Insulin increases protein synthesis. ===> TRUE
+321 Insulin release is stimulated by high blood glucose levels. ===> TRUE
+322 Insulin reduces ketone body formation in the liver. ===> TRUE
+323 Glucose movement across the cell membrane in a skeletal muscle cell is directly enhanced byinsulin. ===> TRUE
+324 Insulin has no direct effect on glucose movement across the hepatocytes cell membranes. ===> TRUE
+325 Insulin does not enhance glucose transport into the brain cells. ===> TRUE
+326 In a normal person, insulin secretion is increased by vagal nerve stimulation. ===> TRUE
+327 In a normal person, insulin secretion is inhibited by sympathetic nerve activity. ===> TRUE
+328 The only hormone that promotes building up glycogen, fats, and proteins is insulin. ===> TRUE
+329 Glucagon is a peptide. ===> TRUE
+330 After a heavy carbohydrate meal, the plasma concentration of glucagon falls. ===> TRUE
+331 Glucagon secretion is promoted by sympathetic nerve activity. ===> TRUE
+332 Glucagon promotes hepatic glycogenolysis. ===> TRUE
+333 Glucagon stimulates gluconeogenesis in the liver and increases lipolysis in adipose tissue. ===> TRUE
+334 Insulin and glucagon are antagonistic hormones because they increase and decrease glucose. ===> TRUE
+335 The primary target for glucagon is the liver. ===> TRUE
+336 Low insulin/glucagon ratio activates lipolysis in adipocytes. ===> TRUE
+337 Diabetes mellitus can result from inadequate insulin release as beta cells are destroyed. ===> TRUE
+338 A lack of or decrease in insulin hormone receptors on cells can result in type II diabetes mellitus. ===> TRUE
+339 In diabetes mellitus an osmotic diuresis can occur. ===> TRUE
+340 In diabetes mellitus the osmolarity of the extracellular fluid tends to rise. ===> TRUE
+341 In uncontrolled diabetes mellitus energy requirements of the body are largely met by metabolism offat. ===> TRUE
+342 In severe uncontrolled diabetes mellitus the renal tubular reabsorption mechanism for glucose isworking at its maximum rate. ===> TRUE
+343 In severe uncontrolled diabetes mellitus the blood is hyperosmolar. ===> TRUE
+344 Hypoglycemia promotes glucagon secretion. ===> TRUE
+345 Hyperglycemia promotes insulin secretion. ===> TRUE
+346 Glucagon stimulates lipolysis in fat tissue. ===> TRUE
+347 In severe uncontrolled diabetes mellitus the large volume of urine excreted is principally due to alack of secretion of ADH. ===> FALSE
+348 Insulin is a steroid. ===> FALSE
+349 Glucagon is a steroid. ===> FALSE
+350 In severe uncontrolled diabetes mellitus there is likely to be a metabolic alkalosis. ===> FALSE
+351 Insulin increases gluconeogenesis. ===> FALSE
+352 The islets of Langerhans contain alpha cells which secrete somatostatin. ===> FALSE
+353 The islets of Langerhans contain gamma cells which secrete glucagon. ===> FALSE
+354 The islets of Langerhans represent exocrine portion of pancreas. ===> FALSE
+355 Insulin stimulates the release of free fatty acids from adipose tissue. ===> FALSE
+356 Insulin secretion tends to cause the blood potassium level to rise. ===> FALSE
+357 Insulin binds to cytoplasmic receptor in a skeletal muscle cell. ===> FALSE
+358 Insulin increases plasma amino acid concentration. ===> FALSE
+359 Insulin promotes hydrolysis of liver glycogen and activation of glucose 6-phosphatase, releasing freeglucose molecules into the blood. ===> FALSE
+360 Insulin increases urine formation. ===> FALSE
+361 Insulin suppresses entry of amino acids and fatty acids into skeletal muscle cells. ===> FALSE
+362 In a normal person, insulin secretion is primarily controlled by the anterior pituitary gland. ===> FALSE
+363 Hyperglycemia promotes glucagon secretion. ===> FALSE
+364 In uncontrolled diabetes mellitus there is likely to be respiratory acidosis. ===> FALSE
+365 In diabetes mellitus, formation of ketone bodies is inhibited. ===> FALSE
+366 Diabetes insipidus is due to low levels of insulin. ===> FALSE
+367 Diabetes mellitus is due to low levels of ADH. ===> FALSE
+368 When a person is in the fasting state, glucose is the only fuel used by the central nervous system. ===> FALSE
+369 When a person is in the fasting state, liver glycogen levels are increased. ===> FALSE
+370 High insulin/glucagon ratio inhibits lipogenesis in liver. ===> FALSE
+371 After a meal, blood glucose levels increase and stimulate the secretion of glucagon. ===> FALSE
+372 Glucagon decreases hepatic gluconeogenesis. ===> FALSE
+373 Glucagon output is directly proportional to the blood glucose level. ===> FALSE
+374 Glucagon inhibits hepatic glycogenolysis. ===> FALSE
+375 In a normal person, insulin secretion is decreased by vagal nerve stimulation. ===> FALSE
+376 In a normal person, insulin secretion is stimulated by sympathetic nerve activity. ===> FALSE
+377 Insulin stimulates glucose transport into the brain cells. ===> FALSE
+378 Insulin promotes ketone body formation in the liver. ===> FALSE
+379 The development of male sex organs depends on the presence of testosterone. ===> TRUE
+380 In the absence of testosterone, sex development follows the female pattern. ===> TRUE
+381 Human spermatozoa contain 23 chromosomes. ===> TRUE
+382 Sertoli cells are required for mitotic and meiotic activity of male germ cells. ===> TRUE
+383 The interstitial cells secrete testosterone. ===> TRUE
+384 The germ cells are protected from changes in blood chemistry by the barrier of Sertoli cells. ===> TRUE
+385 Functions of the Sertoli cells in the seminiferous tubules include maintenance of the blood-testisbarrier. ===> TRUE
+386 Gonadal hormones are cholesterol-derived steroids. ===> TRUE
+387 Luteinizing hormone stimulates production of testosterone by male gonads. ===> TRUE
+388 Follicle stimulating hormone and androgens are required for the proper development and maturity ofthe seminiferous tubules. ===> TRUE
+389 Testosterone causes an increase in basal metabolic rate. ===> TRUE
+390 Testosterone production increases at puberty. ===> TRUE
+391 In males gonadal gametogenic function persists until later in life than in females. ===> TRUE
+392 In the normal menstrual cycle ovulation is associated with a sudden rise in blood luteinizing hormonelevels. ===> TRUE
+393 Estrogen in the normal human female causes development of secondary sex characteristics. ===> TRUE
+394 Compared with the 7th day of the menstrual cycle, on the 21st day there is a greater progesteronelevel in the blood. ===> TRUE
+395 Compared with the 7th day of the menstrual cycle, on the 21st day there is a higher thickness ofendometrium. ===> TRUE
+396 Fertilisation of the human ovum by one sperm normally prevents other sperms from entering theovum. ===> TRUE
+397 Human chorionic gonadotrophic hormone may be identified in the urine of pregnant women byimmunological techniques. ===> TRUE
+398 The source of estrogen and progesterone during the last seven months of pregnancy is placenta. ===> TRUE
+399 An indication that ovulation has taken place is an increase in serum progesterone levels. ===> TRUE
+400 An indication that ovulation has taken place is a rise in body temperature. ===> TRUE
+401 The luteal cells produce estrogen. ===> TRUE
+402 The luteal cells produce progesterone. ===> TRUE
+403 The corpus luteum plays an essential role in developing and maintaining the endometrium during thesecretory phase of the cycle. ===> TRUE
+404 The source of estrogen and progesterone during the first two months of pregnancy is the corpusluteum. ===> TRUE
+405 Ovulation is caused by a sudden increase in the secretion of luteinizing hormone. ===> TRUE
+406 The source of estrogen and progesterone during the first two months of pregnancy is the corpusluteum. ===> TRUE
+407 During pregnancy the placenta secretes a hormone which relaxes ligaments and connective tissue inthe walls of the birth canal. ===> TRUE
+408 In the mammary glands maintenance of lactation depends on afferent impulses passing to the brainfrom sensory receptors in the nipple areas. ===> TRUE
+409 Menopause in females is characterized by irregularity of menstrual cycles. ===> TRUE
+410 Fertilisation of the human ovum normally occurs in the Fallopian tube. ===> TRUE
+411 Basal temperature increases after ovulation. ===> TRUE
+412 Progesterone is dominantly secreted in the second half of the menstrual cycle. ===> TRUE
+413 Estrogen secretion shows a two-peak pattern of secretion during the menstrual cycle. ===> TRUE
+414 Aromatase is a critical enzyme for estrogen formation. ===> TRUE
+415 Leydig cell secretion of testosterone is promoted by luteinizing hormone. ===> TRUE
+416 The corpus luteum arises from proliferating theca nad granulosa cells. ===> TRUE
+417 Plasma levels of progesterone in females are higher than in males even in the follicular phase of themenstrual cycle. ===> TRUE
+418 Functions of the Sertoli cells in the seminiferous tubules include secretion of follicle stimulatinghormone into the tubular lumen. ===> FALSE
+419 Functions of the Sertoli cells in the seminiferous tubules include secretion of testosterone into thetubular lumen. ===> FALSE
+420 Production and release of spermatozoa is cyclical. ===> FALSE
+421 The sex of an individual is determined by a set of genes on the X chromosome. ===> FALSE
+422 Human spermatozoa are produced at a faster rate when testicular temperature is raised from 35 to 37 centigrade. ===> FALSE
+423 Human spermatozoa are motile in the seminiferous tubules. ===> FALSE
+424 Human spermatozoa are normally stored in the seminal vesicles before being expelled through theurethra. ===> FALSE
+425 Leydig cell secretion of testosterone requires follicle stimulating hormone. ===> FALSE
+426 Luteinizing hormone acts directly on Sertoli cells to promote cell division. ===> FALSE
+427 Testosterone causes an increase in scalp hair. ===> FALSE
+428 The interstitial cells are found among the germinal cells of the seminiferous tubules. ===> FALSE
+429 The interstitial cells secrete a fluid to nourish spermatozoa. ===> FALSE
+430 Most of the seminal fluid comes from the seminiferous tubules. ===> FALSE
+431 Testosterone causes stimulation of androgen secretion from the adrenal cortex. ===> FALSE
+432 Fertilisation of the human ovum normally occurs in the uterus. ===> FALSE
+433 Human chorionic gonadotrophic hormone is essential for the fertilization of an ovum. ===> FALSE
+434 Testosterone secretion shows a circadian rhythm, reaching a peak around 5-6 pm. ===> FALSE
+435 Males secrete different gonadotropic hormones from pituitary glands than females. ===> FALSE
+436 The proliferative phase of endometrial growth depends on progesterone secretion. ===> FALSE
+437 An indication that ovulation has taken place is an increase in serum estrogen levels. ===> FALSE
+438 Estrogen in the normal human female causes development of secretory phase of endometrium. ===> FALSE
+439 The development of the fetal gonads into female type depends on the presence of estrogens. ===> FALSE
+440 Compared with the 7th day of the menstrual cycle, on the 21st day there is a lower glycogen contentin the endometrium. ===> FALSE
+441 The source of estrogen and progesterone during the last seven months of pregnancy is ovary. ===> FALSE
+442 The source of estrogen and progesterone during the last seven months of pregnancy is corpusluteum. ===> FALSE
+443 The source of estrogen and progesterone during the last seven months of pregnancy is anteriorpituitary. ===> FALSE
+444 The corpus luteum arises from oocytes. ===> FALSE
+445 The corpus hemorrhagicum is a degenerating corpus luteum. ===> FALSE
+446 The corpus luteum is under the control of the posterior pituitary gland. ===> FALSE
+447 The corpus luteum continues to secrete ovarian hormones in early pregnancy due to continuedstimulation by pituitary gonadotrophins. ===> FALSE
+448 The corpus luteum begins to atrophy around the end of the first month of pregnancy. ===> FALSE
+449 Human chorionic gonadotrophic hormone production is greatest in the last three months ofpregnancy. ===> FALSE
+450 During pregnancy there is mixing of maternal and fetal blood in the sinusoids in the placenta. ===> FALSE
+451 The source of estrogen and progesterone during the first two months of pregnancy is the anteriorpituitary. ===> FALSE
+452 During pregnancy the smooth muscle of the uterus is highly excitable because of the action ofprogesterone. ===> FALSE
+453 During pregnancy the breasts enlarge due to the release of oxytocin from the posterior pituitary. ===> FALSE
+454 In the mammary glands milk production is fully developed in the day of delivery. ===> FALSE
+455 Human chorionic gonadotrophic hormone acts on the uterus to maintain the integrity of theendometrium in early pregnancy. ===> FALSE
+456 The luteal cells produce luteinizing hormone. ===> FALSE

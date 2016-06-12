@@ -1,0 +1,57 @@
+# Prefix_A = [CZ]\n\n\n , Prefix_B = [EN]\n\n\n
+// á č ď é ě í ň ó ř š ť ú ů ý ž
+
+// 1
+malý = small
+velký/vysoký = tall
+chudý = poor
+bochatý = rich
+hubený = skinny
+štíhlý = thin
+tlustý = fat
+zdravý = healthy
+nemocný = sick
+slabý = weak
+silný = strong
+lehký = light/easy
+těžký = heavy/difficult
+studený = cold
+teplý = warm/gay
+horký = hot
+mladý = young
+starý = old
+nový = new
+čistý = clean
+špinavý = dirty
+levný = cheap
+drahý = expensive
+krasný = beautiful
+ošklivý = ugly
+škaredý = ugly
+veselý = happy
+smutný = sad
+
+// á č ď é ě í ň ó ř š ť ú ů ý ž
+
+vlnité = wavy (hair)
+kratký = short (hair)
+
+// 2
+
+chytrý = smart
+hloupý = stupid
+široký = wide
+úzký = narrow
+hodný = kind
+zlý = mean
+dobrý = good
+špatný = vicious/bad/wrong
+zajímavý = interesting
+nudný = boring
+bezpečný = safe
+nebezpečný = dangerous
+
+// Second Semester
+
+staročeský = traditional Czech
+výborný = excellent

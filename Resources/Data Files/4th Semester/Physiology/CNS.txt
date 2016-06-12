@@ -1,0 +1,405 @@
+// CNS - GM - 2015/2016 29.4.2016
+1 Neurons often have many short dendrites and a long axons. ===> TRUE
+2 Neurons always have many short dendrites and a long axons. ===> FALSE
+3 The peripheral nervous system lies outside the central nervous system. ===> TRUE
+4 The peripheral nervous system is a component of the central nervous system. ===> FALSE
+5 The peripheral nerves are parts of either somatic system or the autonomic system. ===> TRUE
+6 The myelin sheath of the central nervous system axons is formed by oligodendrocytes. ===> TRUE
+7 The myelin sheath of the central nervous system axons is formed by Schwann cells. ===> FALSE
+8 The part of the body that integrates the information it receives from all over the body in order to makedecision is called the central nervous system. ===> TRUE
+9 Cell bodies in the peripheral nervous system generally occur in clusters called ganglia. ===> TRUE
+10 The central nervous system consists of the brain and spinal cord. ===> TRUE
+11 The central nervous system consists of the brain, spinal cord and autonomic nervous system. ===> FALSE
+12 The central nervous system consists of the cranial and spinal nerves. ===> FALSE
+13 The central nervous system consists solely of the brain. ===> FALSE
+14 The brain is never inactive while individual lives. ===> TRUE
+15 The diencephalon consists of the thalamus, hypothalamus, cerebellum and pons. ===> FALSE
+16 The central nervous system contains autonomic ganglia. ===> FALSE
+17 In the central nervous system, the majority of nerve cells bodies are found in grey matter. ===> TRUE
+18 The bundles of white matter are known as nerve tracts each of which contains large number ofmyelinated nerve fibres. ===> TRUE
+19 The two halves of the brain are NOT connected and share no communication. ===> FALSE
+20 The corpus callosum separates and joins the peripheral and central nervous system. ===> FALSE
+21 The microglia are phagocytes scattered throughout the grey and white matter. ===> TRUE
+22 The subarachnoid space is continuous around the whole central nervous system. ===> TRUE
+23 The cerebrospinal fluid is secreted by the choroid plexuses of the cerebral ventricles. ===> TRUE
+24 The cerebrospinal fluid is formed in the arachnoid granulations. ===> FALSE
+25 The total volume of the cerebrospinal fluid is about 140 ml. ===> TRUE
+26 Production of the cerebrospinal fluid varies between 500 ml per day. ===> TRUE
+27 The cerebrospinal fluid is an ultrafiltrate of plasma. ===> FALSE
+28 Blood brain barrier is the contact between capillary endothelium and neuronal processes. ===> FALSE
+29 Blood brain barrier transmits electrical signals between neurons. ===> FALSE
+30 The endfeet of the astrocytes form part of the blood brain barrier that isolates extracellular fluidaround neurons from changes in the composition of the blood. ===> TRUE
+31 The white and grey matter of the spinal cord is arranged in the same way as that of cerebralhemispheres. ===> FALSE
+32 In the spinal cord, the grey matter lies inside the white matter. ===> TRUE
+33 In the spinal card, the grey matter lies outside the white matter. ===> FALSE
+34 Grey matter contains the cell bodies and dendrites. ===> TRUE
+35 Each cerebral hemisphere is divided into two lobes. ===> FALSE
+36 The somatic nervous system contains nerves that control skeletal muscle. ===> TRUE
+37 The somatic nervous system contains nerves that control smooth muscles, cardiac muscle, andglands. ===> FALSE
+38 The autonomic nervous system contains nerves that control smooth muscles, cardiac muscle, andglands. ===> TRUE
+39 The somatic nervous system is responsible for monitoring and interacting with the external world. ===> TRUE
+40 The somatic portion of the peripheral nervous system utilizes norepinephrine as a neurotransmitter. ===> FALSE
+41 Humans have twelve pairs of spinal nerves. ===> FALSE
+42 Humans have 31 pairs of spinal nerves. ===> TRUE
+43 Humans have twelve pairs of cranial nerves. ===> TRUE
+44 Humans have 31 pairs of cranial nerves. ===> FALSE
+45 There are twelve pairs of cranial nerves in the peripheral nervous system. ===> TRUE
+46 Each spinal segment gives rise to four spinal nerves. ===> FALSE
+47 Dorsal roots of spinal nerves contain axons of sensory neurons. ===> TRUE
+48 Dorsal roots of spinal nerves contain axons of motor neurons. ===> FALSE
+49 Dorsal roots of spinal nerves contain the white ramus communicans. ===> FALSE
+50 Dorsal roots of spinal nerves contain the grey ramus communicans. ===> FALSE
+51 The dorsal root ganglion contains cells those axons form dorsal roots. ===> TRUE
+52 The dorsal root ganglion forms the dorsolateral motoneurone pool. ===> FALSE
+53 The dorsal root ganglion belongs to the paravertebral sympathetic chain. ===> FALSE
+54 The dorsal root ganglion contains the pseudounipolar neurons. ===> TRUE
+55 Ventral roots of the lumbar spinal nerves are associated with sympathetic chain ganglia. ===> TRUE
+56 Ventral root of each spinal nerve is generally associated with a dorsal root ganglion. ===> FALSE
+57 The spinal grey matter in the thoracic region is divided anatomically into three horns. ===> TRUE
+58 The spinal grey matter in the ventral horn is concerned with sensation. ===> FALSE
+59 The spinal grey matter in the dorsal horn is concerned with sensation. ===> TRUE
+60 The spinal grey matter in the ventral horn serves for a movement. ===> TRUE
+61 The spinal grey matter in the dorsal horn serves for a movement. ===> FALSE
+62 A somatic motor neuron of the spinal cord lies on the same side of the body as the muscle itinnervates. ===> TRUE
+63 A somatic motor neuron of the spinal cord usually innervates only one muscle fibre. ===> FALSE
+64 A somatic motor neuron of the spinal cord innervates smooth muscle fibres. ===> FALSE
+65 An alpha motor neuron in the human spinal cord innervates several muscle fibres. ===> TRUE
+66 Alpha motor neurons of the spinal cord are located in the ventral horns. ===> TRUE
+67 Alpha motor neurons of the spinal cord are lower motor neurons. ===> TRUE
+68 Alpha motor neurons of the spinal cord have unmyelinated axons. ===> FALSE
+69 The cell bodies of alpha motor neurons are found in the primary motor region of the cerebral cortex. ===> FALSE
+70 All the motor neurons that control a given muscle form a motor neuron pool. ===> TRUE
+71 Motor neurons of some cranial nerves belong to lower motor neurons. ===> TRUE
+72 Lower motor neurons have their origin in the spinal cord and brainstem. ===> TRUE
+73 Lower motor neurons directly innervate muscles of the body, neck and head. ===> TRUE
+74 Propriospinal neurons are interconnecting interneurons. ===> TRUE
+75 Descending motor system terminates exclusively on the lower motor neurons. ===> FALSE
+76 An alpha motor neuron in the human spinal cord receives synaptic inputs exclusively frominterneurons. ===> FALSE
+77 An alpha motor neuron in the human spinal cord may innervate fibres in more than one muscle. ===> FALSE
+78 Skeletal muscle contraction can only be initiated by neurons in the cerebral cortex. ===> FALSE
+79 Lower motor neuron lesions cause flaccid paralysis of the denervated muscle. ===> TRUE
+80 Lower motor neuron lesions cause atrophy of the denervated muscle. ===> TRUE
+81 Higher motor commands originate in the thalamus. ===> FALSE
+82 The corticospinal pathway originates in the Brodmann area 4, 6, and 3, 2, 1. ===> TRUE
+83 The corticospinal tract originates in the prefrontal area in the frontal lobe. ===> FALSE
+84 The corticospinal pathway begins in the cerebellar cortex. ===> FALSE
+85 The corticospinal pathway terminates in the white matter of the spinal cord. ===> FALSE
+86 The corticospinal pathway is uncrossed. ===> FALSE
+87 Corticospinal fibers may synapse directly on alpha motor neurons. ===> TRUE
+88 Corticospinal fibers terminate more commonly on interneurons near the motor neurons. ===> TRUE
+89 Corticospinal fibers may form direct inhibitory synapses on motor neurons. ===> FALSE
+90 Some corticospinal fibers affect the transmission of information in afferent pathways. ===> TRUE
+91 Axons of the lateral corticospinal tract synapse mainly with intermediolateral neurons of the spinalcord. ===> FALSE
+92 The ventral corticospinal tract projects bilaterally to the lower motor neurons of the ventromedial cellgroup. ===> TRUE
+93 The corticospinal tract is involved in initiation of automatic movements. ===> FALSE
+94 Neurons in the primary motor cortex are involved in discrete movements of individual muscles. ===> TRUE
+95 Neurons in the primary motor cortex are important for planning strategy of a movement. ===> FALSE
+96 Neurons in the posterior parietal cortex initiate body movements. ===> FALSE
+97 Neurons those axons form the corticospinal tract are located in the premotor and primary motorcortex. ===> TRUE
+98 Axons of the lateral corticospinal tract synapse with the dorsolateral motor neurons of the spinalcord. ===> TRUE
+99 Dorsolateral descending pathways descend in the lateral quadrant of the spinal cord. ===> TRUE
+100 Dorsolateral descending pathways terminate predominately on the ventrolateral groups of motorneurons. ===> FALSE
+101 Dorsolateral descending pathways control motor neurons innervating distal muscles. ===> TRUE
+102 Dorsolateral descending pathways are primarily composed of reticulospinal fibers. ===> FALSE
+103 Descending motor fibre tract that has the cell bodies in the brainstem includes vestibulospinal tract. ===> TRUE
+104 Descending motor fibre tract that has the cell bodies in the brainstem includes the spinothalamictract. ===> FALSE
+105 Descending motor fibre tract that has the cell bodies in the brainstem includes the propriospinaltract. ===> FALSE
+106 The rubrospinal tract originates from the pontine reticular formation. ===> FALSE
+107 The rubrospinal tract descends contralaterally. ===> TRUE
+108 The rubrospinal tract controls the activity of axial muscles. ===> FALSE
+109 The rubrospinal tract is a component of the ventromedial motor system. ===> FALSE
+110 Medial descending pathways from the brainstem descend in the ipsilateral ventral columns of thespinal cord. ===> TRUE
+111 Medial descending pathways from the brainstem contribute to the control of posture. ===> TRUE
+112 Medial descending pathways from the brainstem terminate predominately on the motor neurons foraxial and girdle muscles. ===> TRUE
+113 Medial descending pathways from the brainstem terminate on motor neurons that innervate moredistal limb muscles. ===> FALSE
+114 Medial descending pathways from the brainstem include the rubrospinal tract. ===> FALSE
+115 Vestibulospinal tract originates mainly from the medial geniculate body. ===> FALSE
+116 Vestibulospinal tracts carry information for the reflex control of equilibrium. ===> TRUE
+117 Tectospinal tract mediates responses initiated by sudden changes of head position. ===> TRUE
+118 Reticulospinal tract is descending motor tract. ===> TRUE
+119 The red nucleus gives rise to rubrospinal fibers. ===> TRUE
+120 The red nucleus is a part of the medulla oblongata. ===> FALSE
+121 The red nucleus belongs to the dorsolateral group of the descending motor pathways. ===> TRUE
+122 The red nucleus sends axons which influence mainly ipsilateral movements. ===> FALSE
+123 Upper motor neurons are located in the brainstem and cerebral cortex. ===> TRUE
+124 Upper motor neurons are located in the cerebellar cortex. ===> FALSE
+125 Neurons in the motor cortex are anatomically arranged in a somatotopic map. ===> TRUE
+126 Representation of the body is disproportionate to the actual anatomical size of the representedregion. ===> TRUE
+127 Representation of the body is proportionate to the actual anatomical size of the represented region. ===> FALSE
+128 The function of the cerebral cortex involves execution of the precision voluntary movements. ===> TRUE
+129 The primary motor cortex is located in the parietal lobe. ===> FALSE
+130 The primary motor cortex receives inputs arising from the hypothalamus. ===> FALSE
+131 The primary motor cortex projects efferent fibers to brainstem motor nuclei. ===> TRUE
+132 The primary motor cortex projects efferent fibers to motor neurons of the spinal cord. ===> TRUE
+133 The supplementary motor area is involved in motor programming. ===> TRUE
+134 The major subcortical input to the motor cortical areas comes from the thalamus. ===> TRUE
+135 A lesion of the upper motor neurons is followed by spasticity. ===> TRUE
+136 A lesion of the upper motor neurons is followed by peripheral paresis. ===> FALSE
+137 A lesion of the upper motor neurons causes Babinski sign. ===> TRUE
+138 In upper motor lesions, the response to plantar reflex becomes abnormal. ===> TRUE
+139 In upper motor lesions, the response to plantar reflex is absent. ===> FALSE
+140 Complete transection of the spinal cord produces permanent loss of voluntary movements ofmuscles innervated by the cord below level of lesion. ===> TRUE
+141 Complete transection of the spinal cord produces permanent loss of reflexes mediated by the cordbelow level of lesion. ===> FALSE
+142 Spinal shock after complete transection of the spinal cord is due to the sudden loss of inhibition fromhigher brain centers. ===> FALSE
+143 Spinal shock is due to severe pain felt at the site of the lesion. ===> FALSE
+144 In humans the usual duration of the stage of spinal shock is from 2-6 days. ===> FALSE
+145 The cerebellum is important for coordinating body movement. ===> TRUE
+146 The cerebellum does not influence voluntary movement. ===> FALSE
+147 The cerebellum influences voluntary movement. ===> TRUE
+148 The cerebellum controls performance of rapid movements by inhibiting antagonistic muscles. ===> FALSE
+149 The cerebellum sends output projections via axons of deep cerebellar nuclei. ===> TRUE
+150 The cerebellum receives input via mossy fibers which make synaptic contact with the granule cells. ===> TRUE
+151 The cerebellum receives projections from the vestibular nuclei. ===> TRUE
+152 The cerebellum does not receive proprioceptive input. ===> FALSE
+153 The cerebellar hemispheres control and receive inputs from ipsilateral muscles. ===> TRUE
+154 Purkinje neurons lie in the deep cerebellar nuclei. ===> FALSE
+155 Purkinje cells lie in the cerebellar cortex. ===> TRUE
+156 The cerebellum has direct efferent projections to the motor cortex. ===> FALSE
+157 Efferent projections from the cerebellum modify the motor patterns of the upper motor neurons of thecerebral cortex and the brainstem. ===> TRUE
+158 The cerebellum exhibits strictly contralateral input and output. ===> FALSE
+159 The cerebellum is the brain area most concerned with equilibrium and posture. ===> TRUE
+160 The cerebellum initiates body movement. ===> FALSE
+161 The major afferent input to the flocculonodular lobe is from the vestibular nuclei. ===> TRUE
+162 The major afferent input to the flocculonodular lobe is from the midbrain reticular formation. ===> FALSE
+163 The vermis of the cerebellum receives an input from body axial muscles. ===> TRUE
+164 The vermis of the cerebellum receives an input from the dentate nucleus. ===> FALSE
+165 The vermis of the cerebellum projects to the fastigial nucleus. ===> TRUE
+166 The vermis of the cerebellum projects to the interposed nuclei. ===> FALSE
+167 The cerebellum is important in control of stretch reflexes. ===> FALSE
+168 The paravermal cerebellar cortex receives an input from the spinocerebellar tract. ===> TRUE
+169 The Purkinje cells of cerebellum receive a direct input from the climbing fibers. ===> TRUE
+170 The Purkinje cells are excitatory neurons. ===> FALSE
+171 The Purkinje cells of the cerebellar cortex have axons which constitute the main efferent pathwayfrom the cerebellar cortex. ===> TRUE
+172 The Purkinje cells of the cerebellar cortex send axons which terminate on the deep cerebellar nuclei. ===> TRUE
+173 The Purkinje cells of the cerebellar cortex may terminate in the spinal cord. ===> FALSE
+174 Cerebrocerebellum receives input from cerebral hemispheres. ===> TRUE
+175 Cerebrocerebellum is the structure where the corticospinal tract originates. ===> FALSE
+176 Symptoms of cerebellar damage include tremor while reaching for an object. ===> TRUE
+177 Symptoms of cerebellar damage include paralysis. ===> FALSE
+178 Cerebellar lesion will result in hypotonia. ===> TRUE
+179 Cerebellar lesion will result in ataxia. ===> TRUE
+180 Cerebellar ataxia is manifested by static tremor. ===> FALSE
+181 Cerebellar lesion will result in dysarthria. ===> TRUE
+182 Cerebellar lesion will result in dysdiadochokinesia. ===> TRUE
+183 Hemiballism is a sign of cerebellar damage. ===> FALSE
+184 Basal ganglia is a group of diverse subcortical nuclei comprising thalamus and hypothalamus. ===> FALSE
+185 The part of the basal ganglia is the dentate nucleus. ===> FALSE
+186 The basal ganglia receive input from most cortical regions except primary auditory and visualcortices. ===> TRUE
+187 The basal ganglia selectively activate output from the thalamus to the cerebral cortex. ===> FALSE
+188 The basal ganglia are involved in motor control via their influence on the motor cortex. ===> TRUE
+189 Basal ganglia exert all of the influence via lower motor system. ===> FALSE
+190 Basal ganglia control upper motor system through disinhibition. ===> TRUE
+191 The corpus striatum output is inhibitory via striatopallidal GABAergic pathways. ===> TRUE
+192 The principle source of striatal afferents is the cerebral cortex. ===> TRUE
+193 The output of the basal ganglia is excitatory. ===> FALSE
+194 The globus pallidus projects to the cerebral cortex via thalamus. ===> TRUE
+195 The principal neurotransmitter of the substantia nigra is dopamine. ===> TRUE
+196 A midbrain structure which projects to the striatum is the substantia nigra. ===> TRUE
+197 The striatum comprises the caudate nucleus and putamen. ===> TRUE
+198 Striatal efferents terminate in the subthalamic nucleus. ===> FALSE
+199 The globus pallidus output is inhibitory. ===> TRUE
+200 Pallidal efferents terminate in the thalamus. ===> TRUE
+201 Thalamocortical fibers terminate in the premotor as well as the supplementary motor cortex. ===> TRUE
+202 There are reciprocal connections between the pallidum and the thalamus. ===> FALSE
+203 In Parkinson's disease, input from the substantia nigra to striatum is impaired. ===> TRUE
+204 Parkinson´s disease is caused by the lesion in the dopaminergic projections from the substantianigra. ===> TRUE
+205 In Parkinson's disease, ability to initiate voluntary movement is not impaired. ===> FALSE
+206 In Parkinson's disease, the intention tremor is present. ===> FALSE
+207 Parkinson's disease is characterized by hypotonia. ===> FALSE
+208 A reflex action is a fast brief response to a sensory stimulus. ===> TRUE
+209 Reflex actions could be classified according to neurotransmitters mediating them. ===> FALSE
+210 A reflex arc includes at least two types of sensory receptors. ===> FALSE
+211 A reflex arc includes at least two sets of sequential neurons. ===> TRUE
+212 Spinal reflexes may be both mono- and polysynaptic. ===> TRUE
+213 Every reflex involves at least one synapse. ===> TRUE
+214 Every reflex involves a synapse in a dorsal root ganglion. ===> FALSE
+215 The central terminals of afferent neurons mediating spinal reflexes are distributed within the spinalcord, so that all of them terminate on interneurons. ===> FALSE
+216 Myotatic reflex is stretch reflex. ===> TRUE
+217 Myotatic reflex is flexor reflex. ===> FALSE
+218 The stretch reflex is monosynaptic. ===> TRUE
+219 The stretch reflex is polysynaptic. ===> FALSE
+220 The stretch reflex is a visceral reflex. ===> FALSE
+221 Myotatic reflex may be organized in the spinal cord. ===> TRUE
+222 Stretch of an innervated skeletal muscle evokes contraction of its extrafusal fibers. ===> TRUE
+223 Stretch of an innervated skeletal muscle evokes relaxation of synergistic muscles. ===> FALSE
+224 Afferent nerve fibers involved in stretch reflex are myelinated. ===> TRUE
+225 Sensory impulses from spindles of a stretched muscle could inhibit antagonistic muscles byactivation of inhibitory interneurons. ===> TRUE
+226 Sensory impulses from spindles of a stretched muscle could inhibit antagonistic muscles by directlyinhibiting the alpha motor neurons of the antagonistic muscles. ===> FALSE
+227 Muscle spindles consist of a small number of extrafusal muscle fibers. ===> FALSE
+228 Muscle spindles are found only in large skeletal muscles. ===> FALSE
+229 When a normally innervated skeletal muscle is stretched, the initial response is contraction due tothe discharge from annulospiral endings of afferent nerve fibers. ===> TRUE
+230 When a normally innervated skeletal muscle is stretched the initial response is contraction due tosensation of pain. ===> FALSE
+231 Intrafusal muscle fibers are innervated by gamma motor neurons. ===> TRUE
+232 Intrafusal muscle fibers are not true muscle fibers because they cannot contract. ===> FALSE
+233 Intrafusal muscle fibers are innervated by alpha motor neurons. ===> FALSE
+234 Intrafusal muscle fibers do not have afferent innervation. ===> FALSE
+235 The central ends of afferents from muscle spindles synapse with alpha motor neurons of the samemuscle. ===> TRUE
+236 The nuclear bag fibers of muscle spindles are innervated by Ia afferents and A gamma efferent nervefibers. ===> TRUE
+237 The nuclear chain fibers of muscle spindles are innervated by Ia afferents and A gamma efferentnerve fibers. ===> TRUE
+238 Gamma motor innervation of muscle spindles produces contraction of the central region of thespindle fibers. ===> FALSE
+239 Gamma motor innervation of muscle spindles produces increased sensory discharge from thecentral region of the spindle fibers. ===> TRUE
+240 Discharge from muscle spindle could be increased by stretch of the extrafusal muscle fibers. ===> TRUE
+241 Increased gamma motor neurons discharge stimulates muscle spindles, because it causes stretch ofthe central region of the intrafusal fibers. ===> TRUE
+242 Local interneurons controlling the firing of motor neurons receive input from receptors in the musclethat is innervated by the motor neurons. ===> TRUE
+243 Interruption of gamma motor neurons discharge to a skeletal muscle produce relaxation of thespindle fibers. ===> TRUE
+244 Increased gamma motor neurons discharge stimulates muscle spindles, because it causes stretch ofthe peripheral regions of the intrafusal fibers. ===> FALSE
+245 When the gamma motor neuron discharge to a muscle decreases, it causes decreased spindlesensitivity to stretch. ===> TRUE
+246 Some skeletal muscles exhibit only alpha efferent innervation and the others only the gammaefferent innervation. ===> FALSE
+247 Alpha motor neurons and gamma motor neurons are activated simultaneously for the normalmovements. ===> TRUE
+248 Gamma motor fibers innervate central portions of muscle spindles. ===> FALSE
+249 Gamma efferent fibers initiate contraction of the extrafusal fibers. ===> FALSE
+250 The Golgi tendon organ is mounted on connective tissue lying in series with muscle fibers. ===> TRUE
+251 The Golgi tendon organ is a receptor of the contractile part of extrafusal muscle fibers. ===> FALSE
+252 The Golgi tendon organ signals a change in length of a muscle. ===> FALSE
+253 The Golgi tendon organ signals a change in tension of a muscle. ===> TRUE
+254 The Golgi tendon organ is innervated by Ib afferent fibers. ===> TRUE
+255 The Golgi tendon organ is innervated by A gamma fibers. ===> FALSE
+256 Inverse myotatic reflex is manifested by lengthening reaction. ===> TRUE
+257 Inverse myotatic reflex has no reciprocal innervation circuits. ===> FALSE
+258 If afferents from Golgi tendon organs are activated, the strengtht of muscle contraction is increased. ===> FALSE
+259 Flexor reflexes DO NOT involve flexor muscles. ===> FALSE
+260 Flexor reflexes DO NOT involve reciprocal inhibition. ===> FALSE
+261 Reciprocal innervation is a feature of both the stretch reflex and the withdrawal reflex. ===> TRUE
+262 Reciprocal inhibition is most accurately described as inhibition of flexor muscles during anextension. ===> TRUE
+263 Reciprocal inhibition between reflexes depends upon presence of inhibitory interneurons in the reflexpathways. ===> TRUE
+264 In flexor withdrawal reflexes, contraction of flexor muscles is associated with reciprocal inhibition ofipsilateral extensor muscles. ===> TRUE
+265 In flexor withdrawal reflexes, contraction of flexor muscles is associated with reciprocal inhibition ofsynergistic flexor muscles. ===> FALSE
+266 The flexor reflex is the contraction of flexors in response to potentially injurious stimulus. ===> TRUE
+267 The flexor reflex is primarily organized in the cerebral cortex. ===> FALSE
+268 The flexor reflex is myotatic reflex. ===> FALSE
+269 The flexion reflex is polysynaptic reflex. ===> TRUE
+270 The flexion reflex is monosynaptic reflex. ===> FALSE
+271 The flexion reflex is elicited by stimulation of a exteroreceptor. ===> TRUE
+272 The crossed extension reflex in a limb stimulates contraction of the contralateral extensor andinhibits contraction of the contralateral flexor. ===> TRUE
+273 The crossed extension reflex is a polysynaptic reflex. ===> TRUE
+274 The crossed extension reflex is a response to stimulation of Golgi tendon organ. ===> FALSE
+275 Coactivation of alpha and gamma motor neurons increases the alpha motor discharge whenever theactivity of gamma neurons rises to a high level. ===> TRUE
+276 Muscle tone is defined as the permanent mild contraction of a muscle. ===> TRUE
+277 Increased sensory discharge from muscle spindles increases muscle tone. ===> TRUE
+278 The shortest reflex time is recorded with a stretch reflex. ===> TRUE
+279 The normal EEG of an awake person is dominated by alpha waves. ===> FALSE
+280 The normal EEG of an awake person is dominated by beta waves. ===> TRUE
+281 In an awake individual, beta waves are the predominant waves of the EEG. ===> TRUE
+282 The amplitude of the alpha rhythm is 5 -100 microvolts. ===> TRUE
+283 The amplitude of the alpha rhythm is 2 - 20 microvolts. ===> FALSE
+284 The amplitude of the beta rhythm is 2 - 20 microvolts. ===> TRUE
+285 The alpha rhythm is prominent component of an EEG when the eyes are opened. ===> FALSE
+286 The alpha rhythm is the most prominent component of an EEG in an adult human at rest with eyesclosed. ===> TRUE
+287 The alpha rhythm is most marked in the frontal regiones of the brain. ===> FALSE
+288 Alpha block is fairly regular pattern of an EEG at rest with mind wandering and eyes closed. ===> FALSE
+289 The theta rhythm is called arousal or alerting response. ===> FALSE
+290 Frequency of alpha waves is in the range of 8 -13 Hz. ===> TRUE
+291 The beta waves consist of frequency in range of 20 - 50 Hz, which have low amplitude. ===> TRUE
+292 The theta waves have frequency of less than 3 Hz and a relatively high amplitude. ===> FALSE
+293 The delta waves have frequency in range of 4 - 7 Hz. ===> FALSE
+294 The delta waves have frequency in range of 0.5 - 4 Hz. ===> TRUE
+295 The theta waves have frequency in range of 5 - 7 Hz. ===> TRUE
+296 Alpha block is called the arousal response. ===> TRUE
+297 Alpha block is the replacement of the alpha rhythm with a pattern of large-amplitude, regular waves. ===> FALSE
+298 Alpha block appears during sleep. ===> FALSE
+299 An EEG records the potential difference between two points on the scalp's surface. ===> TRUE
+300 An EEG is a record of action potentials in the brain. ===> FALSE
+301 An EEG record of an alert or an awake brain shows waves of low amplitude and high frequency. ===> TRUE
+302 An EEG is a pattern of complex waves with amplitudes similar to those of action potentials. ===> FALSE
+303 Sleep is initiated by a decrease in the activity of the ascending reticular activating system. ===> TRUE
+304 Sleep centers lie in the thalamus. ===> FALSE
+305 Destruction of the reticular activating system produces permanent coma. ===> TRUE
+306 A state of alerted consciousness from which a person can be aroused by appropriate stimuli isknown as a coma. ===> FALSE
+307 Sleep is initiated by the activity of sleep centers in the visual cortex. ===> FALSE
+308 REM sleep is characterized by low voltage in EEG. ===> TRUE
+309 REM sleep is characterized by an increase in muscle tone in most skeletal muscles. ===> FALSE
+310 REM sleep is characterized by total lack of muscular activity. ===> FALSE
+311 REM sleep is a dreamless sleep. ===> FALSE
+312 Non-REM sleep exhibits four stages. ===> TRUE
+313 Non-REM sleep in stage one is marked by the appearance of sleep spindles. ===> FALSE
+314 Muscle tone is reduced during REM sleep. ===> TRUE
+315 Individuals in REM sleep are more likely to awake spontaneously. ===> FALSE
+316 As a person falls asleep, the EEG becomes dominated by slow waves. ===> TRUE
+317 Sleep reflects an intrinsic circadian rhythm of the brain. ===> TRUE
+318 The requirement for sleep decreases with age. ===> TRUE
+319 During deep sleep the EEG is always dominated by delta waves. ===> FALSE
+320 Short periods of fast waves are seen in deep (REM) sleep. ===> TRUE
+321 Slow wave sleep is associated with rapid eye movements. ===> FALSE
+322 Memory encoding involves cellular and molecular changes specific to different memories. ===> TRUE
+323 Working memory stores information for years, perhaps indefinitely. ===> FALSE
+324 Declarative memories are involved in remembering facts and events. ===> TRUE
+325 In retrograde amnesia, the ability to form new memories is lost. ===> FALSE
+326 Retrograde amnesia indicates inability to recall memories. ===> TRUE
+327 Retrograde amnesia indicates failure in working memory. ===> FALSE
+328 Anterograde amnesia results from damage to the limbic system including the hippocampus,thalamus and hypothalamus. ===> TRUE
+329 Prefrontal cortex and limbic regions of the temporal lobe are important brain areas for some forms ofmemory. ===> TRUE
+330 The cerebellum is an important site of storage for declarative memory. ===> FALSE
+331 Short term memories are converted into long term memories by a process known as consolidation. ===> TRUE
+332 Destruction of the hippocampus erases all previously stored memories. ===> FALSE
+333 Formation of long term memory probably involves changes in second messenger systems andprotein synthesis. ===> TRUE
+334 Learning requires formation of a memory trace. ===> TRUE
+335 Learning is not related to changes in the electrical activity of the brain. ===> FALSE
+336 Learning is generally facilitated if the material to be learned is emotionally neutral. ===> FALSE
+337 Relatively permanent change in behavior resulting from experience is called learning. ===> TRUE
+338 Disturbances in consciousness can result from damage confined to brain stem. ===> TRUE
+339 The part of the brain that controls emotional experiences is the limbic system. ===> TRUE
+340 The limbic system includes the cerebral cortex and corpus callosum. ===> FALSE
+341 The role of the limbic system in control of emotional behavior involves generalized sympatheticstimulation. ===> FALSE
+342 The hypothalamic nucleus that acts as a biological clock of the body is the suprachiasmatic nucleus. ===> TRUE
+343 Damage to the hippocampus may result in inability to regulate body temperature. ===> FALSE
+344 The four distinct lobes of the cortex are the occipital, parietal, temporal and frontal. ===> TRUE
+345 Relatively permanent change in behavior resulting from experience is called learning. ===> TRUE
+346 Relatively permanent change in behavior resulting from experience is called adaptation. ===> FALSE
+347 Habituation to a stimulus is a progressive decrease in a response to a repeated stimulus. ===> TRUE
+348 Habituation occurs due to receptor fatigue. ===> FALSE
+349 Habituation is an increase in the orienting reflex. ===> FALSE
+350 Habituatio nis a form of associative learning. ===> FALSE
+351 Sensitization is an example of nonassociative learning. ===> TRUE
+352 Learning which takes place as a result of pairing of a response to a previously neutral stimulus iscalled classical conditioning. ===> TRUE
+353 In classical conditioning salivation is initially the unconditioned response and the stimulus thatcomes to elicit salivation (a sound) is conditioned stimulus. ===> TRUE
+354 Learning which takes place as a result of pairing of a response to a previously neutral stimulus iscalled operant conditioning. ===> FALSE
+355 In operant conditioning, the animal performs some task in order to obtain reward or avoidpunishment. ===> TRUE
+356 Language is a function of the cerebral cortex. ===> TRUE
+357 Speech production and articulation is a function of the auditory cortex. ===> FALSE
+358 Language and speech require the participation of both Wernicke's area and Broca's area, and thefollowing connection between them via the arcuate fasciculus. ===> TRUE
+359 Language and speech require the participation of both Wernicke's area and Broca's area, and thefollowing connection between them via the prefrontal lobe. ===> FALSE
+360 The brain area concerned with the motor processes of word formation is Broca's area. ===> TRUE
+361 Lesions of the speech center in the frontal lobe results in inability to select appropriate words for usein speech. ===> TRUE
+362 The brain area concerned with the motor processes of word formation is Wernicke's area. ===> FALSE
+363 The brain area concerned with the motor processes of word formation is the auditory cortex. ===> FALSE
+364 In a human adult with loss of function of the left cerebral hemisphere, there is likely to be normalspeech. ===> FALSE
+365 The brain area concerned with language comprehension is Wernicke's area. ===> TRUE
+366 The brain area concerned with language comprehension is located in the left frontal lobe in mostindividuals. ===> FALSE
+367 The brain area concerned with language comprehension is located in the left temporal lobe in mostindividuals. ===> TRUE
+368 The brain area concerned with language comprehension plays critical role in ability to articulatewords. ===> FALSE
+369 Lesions of the speech center in the frontal lobe results in inability to understand spoken language. ===> FALSE
+370 Language deficits are collectively known as aphasias. ===> TRUE
+371 Inability to articulate words is known as motor aphasia. ===> TRUE
+372 Inability to articulate words is known as sensory aphasia. ===> FALSE
+373 Inability to articulate words can result from damage of Wernicke's area. ===> FALSE
+374 Wernike´s aphasia can result from damage of the superior temporal lobe. ===> TRUE
+375 An aphasia may be associated with a lesion of Broca´s area. ===> TRUE
+376 An aphasia is most likely to be associated with a lesion of the hippocampus. ===> FALSE
+377 Damage to the angular gyrus will result in word blindness accompanied by writing impairment. ===> TRUE
+378 Damage to the angular gyrus will result in complete muteness. ===> FALSE
+379 Damage to the angular gyrus will result in agrammatical speech. ===> FALSE
+380 In the cerebral cortex of a normal subject, the two hemispheres are usually of approximately equalimportance in speech. ===> FALSE
+381 A lesion of the cortical motor area for speech usually results in excessive talking. ===> FALSE
+382 Conduction aphasia is caused by damage of the arcuate fasciculus. ===> TRUE
+383 When the individual is unable to recognize every-day objects and name them correctly, this is knownas agnosia. ===> TRUE
+384 Loss of the ability to execute or carry learned movements despite having the physical ability toperform the movements is called apraxia. ===> TRUE
+385 The afferent stimulus for the pupillary light reflex is via the optic nerve. ===> TRUE
+386 The efferent limb of the pupillary light reflex is through the oculomotor nerve. ===> TRUE
+387 The pupillary light reflex is a consensual reflex. ===> TRUE
+388 The inferior colliculi are involved in auditory reflexes. ===> TRUE
+389 The superior colliculi mediate visual reflexes. ===> TRUE
+390 The facial nerve supplies the muscles of the facial expression. ===> TRUE
+391 The seventh cranial nerve supplies muscles of the soft palate. ===> FALSE
+392 The oculomotor nerve supplies all of the six extraocular muscles. ===> FALSE
+393 The oculomotor nerve supplies the pupillary spincter. ===> TRUE
+394 The cranial nerves that innervate the extraocular muscles include the trochlear, oculomotor, andfacial nerves. ===> FALSE
+395 The cranial nerves that are sensory only include the olfactory, optic, and vestibulocochlear nerves. ===> FALSE
+396 The cranial nerves that are sensory only include the optic, facial, and vestibulocochlear nerves. ===> FALSE
+397 The muscles involved of chewing are innervated by the vagus nerve. ===> FALSE
+398 The glossopharyngeal nerve carries both motor and sensory fibers. ===> TRUE
+399 The muscles involved in chewing are innervated by the vagus nerve. ===> FALSE
+400 Loss of somatic sensation over the anterior two-thirds of the tongue indicates damage to the chordatympani branch of the facial nerve. ===> FALSE
+401 The hypoglossal nerve is the motor nerve to the muscles of the tongue. ===> TRUE
+402 Two pairs of cranial nerves that do not enter or exit the central nervous system through the brainstem are olfactory and optic nerves. ===> TRUE
+403 A drooping upper eyelid is a symptom indicating damage to the optic nerve. ===> FALSE
+404 The largest commponet of the diencephalon is the thalamus. ===> TRUE

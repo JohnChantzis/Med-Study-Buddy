@@ -1,0 +1,500 @@
+// Physiology of Circulation - GM - 2015/2016 25.02.2016
+1 The myocardium is composed primarily of cardiac muscle cells. ===> TRUE
+2 Cardiac muscle cells form together with nerve endings motor units. ===> FALSE
+3 Cardiac muscle cells are usually small and single-nucleated. ===> TRUE
+4 Cardiac muscle cells are linked by gap junctions. ===> TRUE
+5 Cardiac muscle cells are arranged in bundles of parallel fibres bound together and surrounded byconnective tissue. ===> FALSE
+6 Cardiac muscle cells are coupled electrically. ===> TRUE
+7 The specialized conducting system of the myocardium comprises Purkinje fibres. ===> TRUE
+8 The specialized conducting system of the myocardium consists of neuronal network. ===> FALSE
+9 The specialized conducting system of the heart initiates cardiac action potentials and speeds theirspread through the heart. ===> TRUE
+10 Approximately 99 percent of cardiac muscle cells are contractile cells which produce force. ===> TRUE
+11 Cardiac pacemaker cells are localized both in the atria and ventricles. ===> TRUE
+12 The atrioventricular valves prevent flow from the ventricles back into the atria. ===> TRUE
+13 The tricuspid valve is located between the left atrium and left ventricle. ===> FALSE
+14 The right atrioventricular valve is called the mitral valve. ===> FALSE
+15 The pulmonary valve prevents backflow from the pulmonary trunk into the left ventricle. ===> FALSE
+16 The aortic valve prevents backflow from the aorta into the left ventricle. ===> TRUE
+17 The semilunar valves prevent blood from flowing backwards into the atria. ===> FALSE
+18 The papillary muscles open and close valves. ===> FALSE
+19 Blood returning to the heart from the inferior vena cava would enter the left atrium. ===> FALSE
+20 Blood in the pulmonary arteries flows from the lungs towards the left atrium. ===> FALSE
+21 Blood in the right ventricle is relatively deoxygenated after returning from the tissues. ===> TRUE
+22 Normally, blood leaving the right ventricle immediately flows through the pulmonary semilunar valve. ===> TRUE
+23 Blood leaving the left atrium normally flows through the aortic semilunar valve. ===> FALSE
+24 Deoxygeneted blood is normally found only in the right side of the heart. ===> TRUE
+25 The cardiac muscle does not contract unless stimulated by the nervous system. ===> FALSE
+26 Most of the cardiac muscle cells undergo spontaneous contraction. ===> FALSE
+27 Action potentials must be initiated in cardiac cells for contraction to occur. ===> TRUE
+28 The cardiac muscle is enclosed in a double walled membranous sac called the mediastinum. ===> FALSE
+29 The lining of the inner walls of the heart큦 chambers is termed the endocardium. ===> TRUE
+30 The interventricular septum and interatrial septum separate aorta and pulmonary artery. ===> FALSE
+31 Cardiac muscle cells are cross-striated. ===> TRUE
+32 The cardiac muscle contracts automatically without external stimulation. ===> TRUE
+33 The cardiac muscle commonly undergoes prolonged tetanic contraction. ===> FALSE
+34 Only cardiac muscle contains sarcoplasmic reticulum. ===> FALSE
+35 The specialized conducting system of the myocardium consists of papillary muscles. ===> FALSE
+36 The specialized conducting system of the myocardium consists of cardiomyocytes. ===> TRUE
+37 Conduction of the electrical depolarization from one muscle cell to the next in the myocardiumdepens upon low-resistance electrical connections between myocytes. ===> TRUE
+38 Conduction of the electrical depolarization from one muscle cell to the next in the myocardiumoccurs in Purkinje fibers but not in other cardiac muscle cells. ===> FALSE
+39 Conduction of the electrical depolarization from one muscle cell to the next in the myocardiumdepens upon an elaborated system of nerve fibers within the heart. ===> FALSE
+40 Connective tissue in the heart큦 wall aids in the conduction of an action potential. ===> FALSE
+41 The cardiac muscle has less developed sarcoplasmic reticulum than the skeletal muscle. ===> TRUE
+42 The valve located between the left atrium and left ventricle is the bicuspid (mitral valve). ===> TRUE
+43 The electrical initiation of a heartbeat begins in the right atrium. ===> TRUE
+44 The heart큦 natural pacemaker is termed the sinoatrial node. ===> TRUE
+45 The heart큦 electrical conduction network found within the ventricular myocardium is termed the leftand right bundle branches. ===> TRUE
+46 If the heart큦 natural pacemaker fails to fire, then the node in the left ventricle would act as asecondary pacemaker. ===> FALSE
+47 The stimulatory impulse from the sinoatrial node is normaly delayed for a short time atatrioventricular node. ===> TRUE
+48 Purkinje fibres exhibit the slowest rate of firing. ===> TRUE
+49 Ventricular systole represents greatest cardiac output. ===> TRUE
+50 Gap junctions are part of the intercalated disk ===> TRUE
+51 Heart cells are held together at the intercalated disk. ===> TRUE
+52 Velocity of conduction of action potential in cardiac muscle is highest in Purkinje`s fibers. ===> TRUE
+53 During isovolumetric ventricular contraction phase the intraventricular pressure is increased withoutchange in ventricular volume. ===> TRUE
+54 During isovolumetric ventricular contraction phase QRS complex coincides with ventricularcontraction. ===> TRUE
+55 The speed of ECG paper is 25 mm/s. ===> TRUE
+56 The unipolar ECG lead is not III. ===> TRUE
+57 The valve between the right atrium and the right ventricle is called the tricuspidal valve. ===> TRUE
+58 The valve between the left ventricle and the blood vessel leaving the left ventricle is the aorticsemilunar valve. ===> TRUE
+59 The pulse is a direct reflection of the heart beat. ===> TRUE
+60 Blood transported by the pulmonary veins returns to the left atrium. ===> TRUE
+61 The action potential of pacemaker cell does not exhibit plateau phase. ===> TRUE
+62 The action potentials of pacemaker cells can change under the influence of acetylcholine. ===> TRUE
+63 The action potentials of pacemaker cells last about 2 msec. ===> FALSE
+64 The action potentials of pacemaker cells do not differ from the action potentials of workingmyocardium. ===> FALSE
+65 The action potentials of pacemaker cells do not occur in the absence of the autonomic innervation. ===> FALSE
+66 The action potential of myocardial cell is prevented from spreading from cell to cell by gap junction. ===> FALSE
+67 The most important ion for cardiac resting membrane potential is potassium. ===> TRUE
+68 The cardiac cell membrane resting potential is closest to the equilibrium potential of potassium. ===> TRUE
+69 In the resting state, cardiac membrane is permeable to calcium. ===> FALSE
+70 In the resting state, cardiac membrane is permeable to potassium. ===> TRUE
+71 The resting membrane potential of cardiac muscle (non-pacemaker cell) is -60 mV. ===> FALSE
+72 Hyperkalemia decreases the resting membrane potential. ===> TRUE
+73 The cells that normally have the fastest rate of spontaneous diastolic depolarization are located inthe sinoatrial node. ===> TRUE
+74 Primary inward, depolarizing current carrying ion in sinoatrial and atrioventricular nodal tissues iscalcium. ===> TRUE
+75 The cells that normally have the fastest rate of spontaneous diastolic depolarization are located inthe atrioventricular node. ===> FALSE
+76 The cells that normally have the fastest rate of spontaneous diastolic depolarization are located inthe sinoatrial node. ===> TRUE
+77 Action potential in contractile cardiac cells starts with slow depolarization. ===> FALSE
+78 At the start of the initial depolarization phase of the myocardial cells calcium ions cannot enterbecause of the delay in the opening of their slow channels. ===> TRUE
+79 During the initial depolarization phase of the myocardial cells no change of ion fluxes occurs. ===> FALSE
+80 During the initial depolarization phase of the myocardial cells sodium permeability increases. ===> TRUE
+81 During the initial depolarization phase of the myocardial cells potassium ions cannot enter the cellthrough voltage-gated channels. ===> FALSE
+82 The rapid depolarization of the action potential in atrial and ventricular muscle cells is mainly due toa positive feedback increase in sodium permeability. ===> TRUE
+83 The plateau phase of the action potential of the myocardial cells is caused primarily by slow influx ofcalcium. ===> TRUE
+84 The plateau phase of the action potential of the myocardial cells is caused primarily by fast influx ofsodium. ===> FALSE
+85 The plateau phase of the action potential of the myocardial cells is caused primarily by slow influx ofpotassium. ===> FALSE
+86 In the normal excitation sequence of the heart, the structure activated just after the SA node is atrialmuscle. ===> TRUE
+87 In the normal excitation sequence of the heart, the structure activated just after the SA node isatrioventricular node. ===> FALSE
+88 In the normal excitation sequence of the heart, the structure activated just after the SA node isbundle of His. ===> FALSE
+89 All myocardial cells are capable of spontaneous activity. ===> FALSE
+90 All of the myocardial cells in the ventricles are normally in the refractory period at the same time. ===> TRUE
+91 The refractory period of myocardium is much shorter than that in skeletal muscle. ===> FALSE
+92 Duration of the cardiac action potential is between 200-400 ms. ===> TRUE
+93 The cardiac conduction system initiates and delivers an electrical impulse that begins in thesinoatrial node. ===> TRUE
+94 The sinoatrial node is made up of autorhythmic cells that generate impulses about 100 times aminute. ===> TRUE
+95 Between action potentials, the cells of the sinoatrial node have a steady resting potential. ===> FALSE
+96 The atrioventricular node sets the normal rhythm for the heart. ===> FALSE
+97 The cardiac action potential is conducted through the atria via Purkinje fibers. ===> FALSE
+98 The cardiac action potential is conducted through the atria via specialized conducting fibres. ===> TRUE
+99 The component of the conduction system providing the only electrical connection between the atriaand the ventricles is the atrioventricular bundle. ===> TRUE
+100 The slowest conduction (velocity) occurs in the atrioventricular node. ===> TRUE
+101 The fastest conduction (velocity) occurs in the Purkinje fibres. ===> TRUE
+102 The spread of cardiac excitation speeds up at the atrioventricular node. ===> FALSE
+103 The initial depolarization phase of the myocardial cells is due to the sodium influx through rapidlyopening sodium channels. ===> TRUE
+104 The action potential of cardiac muscle fibres is initiated by action potentials in sympathetic nervefibres. ===> FALSE
+105 Action potential of cardiac muscle fibre follows contraction. ===> FALSE
+106 The repolarization phase of an action potential in the cardiac muscle is due to potassium influxthrough slowly opening potassium channels. ===> FALSE
+107 The repolarization phase of an action potential in the cardiac muscle is due to potassium effluxthrough slowly opening potassium channels. ===> TRUE
+108 The action potential of working myocardial cells has an overshoot. ===> TRUE
+109 The action potential of working myocardial cells lasts about 4 ms. ===> FALSE
+110 The action potential of working myocardial cells appears spontaneously. ===> FALSE
+111 The action potential of working myocardial cells is a result of the rapid inward sodium current. ===> TRUE
+112 Cardiac muscle excitation-contraction coupling is associated with ATP splitting. ===> TRUE
+113 Cardiac muscle excitation-contraction coupling is associated with a decrease of the cytosoliccalcium concentration. ===> FALSE
+114 Cardiac muscle excitation-contraction coupling is associated with active transfer of Ca2+ from thevicinity of the myofibrils back into the cistrenae of the sarcoplasmic reticulum. ===> FALSE
+115 Cardiac muscle excitation-contraction coupling is associated with Ca2+ combination with theregulatory protein tropomyosin. ===> FALSE
+116 Cardiac muscle excitation-contraction coupling involves entry of Ca2+ through L- type Ca2+channels. ===> TRUE
+117 All of the Ca2+ required for cardiac muscle contraction enter a myocyte from the extracellular fluid. ===> FALSE
+118 In cardiac muscle, Ca2+ release and contraction strength are graded. ===> TRUE
+119 In cardiac muscle, calcium initiates contraction by binding to troponin. ===> TRUE
+120 The influx of extracellular potassium ions is the initiating event resulting in myocardial contraction. ===> FALSE
+121 Cardiac action potential has the same duration as that of skeletal muscle. ===> FALSE
+122 The action potentials in the heart are about 100 times longer than those of skeletal muscle. ===> TRUE
+123 The inferior vena cava brings blood from the lower regions of the body and empties into the rightatrium. ===> TRUE
+124 The inferior vena cava brings blood from the lower regions of the body and empties into the leftatrium. ===> FALSE
+125 The correct sequence of blood flow through the chambers of the heart is right atrium, right ventricle,lungs, left atrium, left ventricle. ===> TRUE
+126 The correct sequence of blood flow through the chambers of the heart is right ventricle, leftventricle, left atrium, right atrium. ===> FALSE
+127 The pulmonary veins carry deoxygenated blood away from the heart. ===> FALSE
+128 The pulmonary veins carry deoxygenated blood towards the heart. ===> FALSE
+129 During the cardiac cycle the opening of the aortic valve takes place at the end of isovolumetriccontraction. ===> TRUE
+130 During the cardiac cycle the opening of the aortic valve takes place at the beginning of systole. ===> FALSE
+131 The left ventricular systole is associated with closure of the atrioventricular valve. ===> TRUE
+132 The atrioventricular valves open at the end of isovolumetric relaxation phase. ===> TRUE
+133 When the mitral valve closes, it prevents the backflow of blood from the left ventricle into the leftatrium. ===> TRUE
+134 The left ventricular systole is associated with a constant fall in blood pressure in the left ventricle. ===> FALSE
+135 The left ventricular systole is associated with contraction of the left atrium. ===> FALSE
+136 The left ventricular systole is associated with decreased blood pressure in the left atrium during theejection phase. ===> TRUE
+137 When aortic pressure is less than ventricular pressure, this causes the aortic semilunar valve toclose. ===> FALSE
+138 In the resting cardiac cycle the atrial systole is a part of the ventricular diastole. ===> TRUE
+139 In the resting cardiac cycle the atrial contraction takes approximately 0.6 second. ===> FALSE
+140 In the resting cardiac cycle systole takes approximately 0.3 second. ===> TRUE
+141 In the resting cardiac cycle diastole takes approximately 0.6 second. ===> TRUE
+142 During isovolumetric ventricular contraction entry and exit valves of the ventricles are closed. ===> TRUE
+143 During isovolumetric ventricular contraction the heart muscle does not expend any energy. ===> FALSE
+144 During isovolumetric ventricular contraction pressure is rising steadily in the ventricles. ===> TRUE
+145 During isovolumetric ventricular contraction blood flow velocity in the aorta increases. ===> FALSE
+146 Blood is moved through the vascular system by pressure gradients created by the heart. ===> TRUE
+147 The left ventricle큦 myocardium is thicker than the right ventricle큦 myocardium in order to contractwith a greater pressure. ===> TRUE
+148 The left ventricle큦 myocardium is thicker than the right ventricle큦 myocardium in order toaccommodate a greater volume of blood. ===> FALSE
+149 Ventricular pressure peak is reached during the ejection phase. ===> TRUE
+150 Ventricular pressure peak is reached during the isovolumetric contraction. ===> FALSE
+151 Ventricular pressure peak is reached when atrioventricular valves are closed and aortic valve isopen. ===> TRUE
+152 Ventricular pressure peak is reached when all valves are closed. ===> FALSE
+153 The atrioventricular valves are prevented from everting during ventricular contraction by chordaetendineae. ===> TRUE
+154 The atrioventricular valves are prevented from everting during ventricular contraction by annulifibrosi. ===> FALSE
+155 The atrioventricular valves are prevented from everting during ventricular contraction by atrialcardiomyocytes. ===> FALSE
+156 The atrioventricular valves prevent the flow of blood from the ventricles to the atria. ===> TRUE
+157 The atrioventricular valves prevent the flow of blood from the pulmonary trunk into the right ventricleand from the aorta into the left ventricle. ===> FALSE
+158 The atrioventricular valves prevent the flow of blood between the two atria and between the twoventricles. ===> FALSE
+159 At the beginning of the ventricular systole blood pressure in the ventricles starts to rise. ===> TRUE
+160 At the beginning of the ventricular systole each ventricle fills with blood. ===> FALSE
+161 At the beginning of the ventricular systole pressure is rising in the atria. ===> TRUE
+162 At the beginning of the ventricular systole all valves are closed. ===> TRUE
+163 During the cardiac cycle the isovolumetric relaxation is associated with a reduction of bothventricular pressures. ===> TRUE
+164 During the cardiac cycle blood pressure in the ventricles declines rapidly after the closure ofatrioventricular valves. ===> FALSE
+165 During the cardiac cycle the lowest pressure in the left ventricle is about 0 mmHg. ===> TRUE
+166 During the cardiac cycle there is no pressure change in the ventricles during period of isovolumetriccontraction. ===> FALSE
+167 Passive filling of ventricles occurs in diastole. ===> TRUE
+168 During diastole atrioventricular valves are closed throughout the whole phase. ===> FALSE
+169 During ventricular diastole semilunar valves are closed. ===> TRUE
+170 At the beginning of the ejection phase the pressure in the ventricles declines. ===> FALSE
+171 During the initial stage of ventricular contraction the volume of blood in the ventricle does notchange. ===> TRUE
+172 During ventricular systole, all the blood from the ventricles is ejected. ===> FALSE
+173 Normal heart sounds are produced by closure of the aortic and pulmonary valves at the end of thesystole. ===> TRUE
+174 Normal heart sounds have the same frequency and duration. ===> FALSE
+175 The first heart sound occurs synchronously with a rise in ventricular pressure. ===> TRUE
+176 The first heart sound occurs synchronously with a decline in atrial pressure. ===> FALSE
+177 The first heart sound occurs synchronously with closure of the atrioventricular valves. ===> TRUE
+178 The first heart sound occurs synchronously with the P wave of the electrocardiogram. ===> FALSE
+179 The first heart sound is produced by closing of the aortic and pulmonary valves. ===> FALSE
+180 The first heart sound is produced at the end of diastole. ===> TRUE
+181 The first heart sound is produced when the pressure in the ventricles rises above the pressure in theatria. ===> TRUE
+182 The first heart sound is produced when the pressure in the ventricles reaches its maximum. ===> FALSE
+183 The first heart sound corresponds with the closure of the mitral and tricuspid valves. ===> TRUE
+184 The first heart sound is largely due to vibrations set up by the closure of the semilunar valves. ===> FALSE
+185 The first heart sound is largely due to turbulent flow of blood through the open atrioventricular valves. ===> FALSE
+186 The first heart sound occurs early in atrial systole. ===> FALSE
+187 The second heart sound is associated with the end of ventricular systole. ===> TRUE
+188 The second heart sound occurs at the end of the QRS complex. ===> FALSE
+189 The second heart sound is longer and louder than the first heart sound. ===> FALSE
+190 The second heart sound immediately follows the occurence of the T wave. ===> TRUE
+191 The second heart sound is caused by closure of the semilunar valves. ===> TRUE
+192 Ventricular filling gives rise to a third heart sound in some healthy people. ===> TRUE
+193 Ventricular filling depends mainly on contraction of the atria. ===> FALSE
+194 Ventricular filling follows the isovolumetric ventricular relaxation. ===> TRUE
+195 Concerning the cardiac cycle, the peak pressure in the right ventricle is about 25 mmHg. ===> TRUE
+196 Concerning the cardiac cycle, the lowest pressure in the right ventricle is about 10 mmHg. ===> FALSE
+197 Concerning the cardiac cycle, the peak pressure in the left ventricle is about 120 mmHg. ===> TRUE
+198 Concerning the cardiac cycle, the lowest pressure in the left ventricle is about 80 mmHg. ===> FALSE
+199 In the jugulogram, the wave a corresponds to the right atrial contraction. ===> TRUE
+200 In the jugulogram, the wave c corresponds to decreased pressure in the right atrium during theejection phase. ===> FALSE
+201 In the jugulogram, the wave x corresponds to decreased pressure in the right atrium during theejection phase. ===> TRUE
+202 In the jugulogram, anacrotic and catacrotic phases occur. ===> FALSE
+203 The time from the upstroke of the carotid artery volume pulse to the dicrotic notch (incisura) is ameasure of the period of ventricular ejection. ===> TRUE
+204 The time from the upstroke of the carotid artery volume pulse to the dicrotic notch (incisura) is ameasure of the period of atrial diastole. ===> FALSE
+205 The P wave on the ECG reflects atrial depolarization. ===> TRUE
+206 The P wave on the ECG reflects atrial contraction. ===> FALSE
+207 The P-Q interval on the ECG is normally about 0.12 to 0.2 s. ===> TRUE
+208 P-R interval on the ECG corresponds to time from the beginning of the P wave to the begining of theQRS complex. ===> TRUE
+209 The QRS complex on the ECG reflects atrial repolarization. ===> FALSE
+210 Atrial repolarization is NOT recorded on standard 12-lead ECG trace. ===> TRUE
+211 The QRS complex on the ECG reflects the start of ventricular depolarization. ===> TRUE
+212 The normal polarity of the QRS complex in lead aVR results from the conduction delay caused bythe atrioventricular node. ===> FALSE
+213 The T wave on the ECG reflects the repolarization of the ventricular fibers. ===> TRUE
+214 The T wave on the ECG represents ventricular systole. ===> FALSE
+215 The Q-T interval on the ECG varies with the heart rate. ===> TRUE
+216 In the ECG, a vertical movement of 1 cm is produced by a potential change of 1 mV. ===> TRUE
+217 In the ECG, standard leads are unipolar. ===> FALSE
+218 In the ECG, chest leads are unipolar. ===> TRUE
+219 In the ECG, QRS complex varies from 0.16 to 0.2 sec. ===> FALSE
+220 An ECG that reveals no P wave in any lead indicates a block of impulses coming from the SA node. ===> TRUE
+221 An ECG that reveals no P wave in any lead indicates a block of impulses coming from the bundle ofHis. ===> FALSE
+222 Increasing vagal stimulation of the heart will increase P - R interval. ===> TRUE
+223 Increasing vagal stimulation of the heart will increase ventricular contractility. ===> FALSE
+224 If a rhythm is described as sinus, a QRS complex precedes each T wave. ===> FALSE
+225 If a rhythm is described as sinus, a P wave precedes each QRS complex. ===> TRUE
+226 If a rhythm is generated by the atrioventricular node it is termed to as idioventricular rhythm. ===> FALSE
+227 The normal heart rate is about 14 beats per minute. ===> FALSE
+228 Action on the ECG is either regular or irregular. ===> TRUE
+229 Cardiac contraction is normally regulated by changes in contractility. ===> TRUE
+230 The volume of blood ejected with each heart beat is the stroke volume. ===> TRUE
+231 The volume of blood ejected with each heart beat is the end systolic volume. ===> FALSE
+232 Difference between the end diastolic and end systolic volume is cardiac output. ===> FALSE
+233 Stroke volume is increased in response to the increased filling of the ventricles. ===> TRUE
+234 Stroke volume equals end diastolic volume plus end systolic volume. ===> FALSE
+235 Ventricular volume is the lowest at the start of isovolumetric relaxation. ===> TRUE
+236 Ventricular volume is the lowest at the start of atrial contraction. ===> FALSE
+237 An increase in venous return to the heart will result in an increase in end diastolic volume. ===> TRUE
+238 The magnitude of the maximal (end diastolic) ventricular volume is preload. ===> TRUE
+239 Cardiac contraction is normally regulated by changes in initial fiber length. ===> TRUE
+240 The pressure against which the ventricle ejects blood is afterload. ===> TRUE
+241 The term afterload refers to end diastolic volume. ===> FALSE
+242 End systolic ventricular volume is about 120 ml. ===> FALSE
+243 The amount of blood in the ventricles at the end of diastolic filling is known as end systolic volume. ===> FALSE
+244 A person whose heart rate is 70 beats per minute and whose cardiac output is 4.9 L/min has a strokevolume of 7.0 ml per beat. ===> FALSE
+245 A person whose heart rate is 70 beats per minute and whose cardiac output is 4.9 L/min has normalvalues. ===> TRUE
+246 Stroke volume divided by the end diastolic volume is ejection fraction. ===> TRUE
+247 Normal range of ejection fraction is about 85 per cent. ===> FALSE
+248 The Frank-Starling law of the heart states that cardiac output equals heart rate times stroke volume. ===> FALSE
+249 An increased preload would most likely be caused by an increase in venous tone. ===> TRUE
+250 An increased preload would most likely be caused by myocardial contractility. ===> FALSE
+251 The term afterload refers to the pressure that must be overcome before semilunar valves can open. ===> TRUE
+252 The term afterload refers to the pressure in blood vessels necessary to cause the semilunar valveclose. ===> FALSE
+253 The pulse pressure is a difference between the systolic and diastolic pressure. ===> TRUE
+254 The pulse pressure is equal to the mean arterial pressure. ===> FALSE
+255 The pulse pressure is higher in the rigid artery than in the elastic one. ===> TRUE
+256 The pulse pressure is inversely proportional to the stroke volume. ===> FALSE
+257 The pulse pressure of a person who has an arterial blood pressure of 160/100 mmHg is 60 mm Hg. ===> TRUE
+258 Venous return increases during period of ejection. ===> TRUE
+259 Venous return increases during period of isovolumetric contraction. ===> FALSE
+260 Venous return decreases during expiration. ===> TRUE
+261 At the end of isovolumetric relaxation left ventricle pressure is approximately the same asatmospheric pressure. ===> TRUE
+262 At the end of isovolumetric relaxation left ventricle pressure is approximately about 80 mmHg. ===> FALSE
+263 Right ventricle volume in the period of isovolumetric contraction is the same as end-diastolic volume. ===> TRUE
+264 Right ventricle volume in the period of isovolumetric contraction is about 60 ml. ===> FALSE
+265 The Frank-Starling law of the heart states that a greater force of contraction can occue if the heartmuscle is stretched first ===> TRUE
+266 With regard to Frank-Starling law of the heart, an increase in venous return to the heart will result inan increase in end diastolic volume. ===> TRUE
+267 With regard to Frank-Starling law of the heart, an increase in venous return to the heart will result ina decrease in stroke volume. ===> FALSE
+268 During exercise there is an increase in a person큦 stroke volume. ===> TRUE
+269 During exercise there is a substantial increase in a person큦 diastolic pressure. ===> FALSE
+270 When the ventricles relax at the beginning of diastole, the aortic and pulmonary valves close. ===> TRUE
+271 When the ventricles relax at the beginning of diastole, the ventricular pressures rise significantly. ===> FALSE
+272 At the onset of systole aortic and pulmonary valves are nor yet open. ===> TRUE
+273 At the onset of systole ejection occurs. ===> FALSE
+274 At the onset of systole the second heart sound is heard. ===> FALSE
+275 At the onset of systole, ventricular pressures fall rapidly below perssures in the atria. ===> FALSE
+276 If heart rate increases to very high levels, then end distolic volume drops because ventricular fillingtime is so short. ===> TRUE
+277 The discharge rate of the sinoatrial node is increased by the sympathetic stimulation. ===> TRUE
+278 The discharge rate of the sinoatrial node is increased by acetylcholine. ===> FALSE
+279 Increased sympathetic stimulation of the heart tends to increase the heart rate. ===> TRUE
+280 Increased sympathetic stimulation of the heart tends to decrease the calcium entry. ===> FALSE
+281 When myocardial contractility increases, blood pressure increases. ===> TRUE
+282 When myocardial contractility increases, stroke volume decreases. ===> FALSE
+283 The preganglionic sympathetic neurons for the heart synapse in cervical ganglia with postganglionicneurons. ===> TRUE
+284 The preganglionic sympathetic neurons for the heart are located in the lumbar segments of thespinal cord. ===> FALSE
+285 The postganglionic sympathetic neurons for the heart innervate the myocardium. ===> TRUE
+286 The preganglionic sympathetic neurons for the heart are pacemaker cells. ===> FALSE
+287 Increased activity of the vagus nerve supplying the heart can even block the transmission ofexcitation to the ventricles. ===> TRUE
+288 Increased activity of the vagus nerve supplying the heart causes increased strength of cardiaccontraction. ===> FALSE
+289 Increased activity of the vagus nerve supplying the heart has negative dromotropic effect on theatrial muscle. ===> TRUE
+290 Increased activity of the vagus nerve supplying the heart accelerates depolarization of cells of theSA node. ===> FALSE
+291 The transmitter substance influencing the heart rate, but NOT the force of ventricular contraction isacetylcholine. ===> TRUE
+292 The transmitter substance influencing the heart rate, but NOT the force of ventricular contraction isnorepinephrine. ===> FALSE
+293 The cardiac centers are located in the medulla oblongata of the brainstem. ===> TRUE
+294 Sympathetic impulses travel through the vagus nerve. ===> FALSE
+295 Stimulation of the vagus nerve would result in bradycardia. ===> TRUE
+296 If acetylcholine is applied to the heart, but cardiac output is to remain constant, stroke volume mustincrease. ===> TRUE
+297 Stimulation of the heart by autonomic nerve fibers traveling with the vagus nerve causes decreasedheart rate. ===> TRUE
+298 Stimulation of the heart by autonomic nerve fibers traveling with the vagus nerve causes directlydecreased ventricular contractility. ===> FALSE
+299 Stimulation of the heart by autonomic nerve fibers traveling with the vagus nerve causes increasedheart rate and increased ventricular contractility. ===> FALSE
+300 Sympathetic stimulation and epinephrine increase the concentration of intracellular Ca2+ therebyincreasing the cardiac contractility and stroke volume. ===> TRUE
+301 The parasympathetic control of the heart affects muscarinic receptors. ===> TRUE
+302 The parasympathetic control of the heart can be blocked by beta blockers. ===> FALSE
+303 The parasympathetic control of the heart decreases conduction velocity via the atrioventricular node. ===> TRUE
+304 Sympathetic nerve stimulation of the heart increases the rate and force of the heart. ===> TRUE
+305 Postganglionic sympathetic neurons which innervate the heart are cholinergic. ===> FALSE
+306 The cell bodies of the preganglionic sympathetic neurons of adrenergic innervation of the heart arelocated in the spinal cord. ===> TRUE
+307 Stimulation of the parasympathetic innervation of the heart increases the conduction time betweenthe atria and ventricles. ===> TRUE
+308 Stimulation of the parasympathetic innervation of the heart accelerates the rates at which cardiacmuscle fibres shorten and relax. ===> FALSE
+309 Norepinephrine accelerates the rates at which cardiac muscle fibres shorten and relax. ===> TRUE
+310 Norepinephrine is released by the postganglionic sympathetic neurons. ===> TRUE
+311 In normal resting conditions the influence of parasympathetic nerve supply on the sinoatrial nodepredominates over that of the sympathetic one. ===> TRUE
+312 In normal resting conditions the duration of diastole equals that of systole. ===> FALSE
+313 Acetylcholine is a neurotransmitter of both pre- and postganglionic parasympathetic neurons. ===> TRUE
+314 Acetylcholine accelerates the firing frequency of the heart. ===> FALSE
+315 Concerning the control of the heart beat: a denervated heart can beat spontaneously. ===> TRUE
+316 The pressure gradient moving blood through the systemic circulation is aortic pressure minus rightatrial pressure. ===> TRUE
+317 The pressure gradient moving blood through the systemic circulation is right atrial pressure minuspulmonary arterial pressure. ===> FALSE
+318 The pressure gradient moving blood through the systemic circulation is left atrial pressure minuspulmonary arterial pressure. ===> FALSE
+319 The pressure gradient moving blood through the systemic circulation is aortic pressure minus leftatrial pressure. ===> FALSE
+320 During systemic circulation, blood leaves the left ventricle and goes directly to the aorta. ===> TRUE
+321 During systemic circulation, blood leaves the right atrium and goes directly to the lungs. ===> FALSE
+322 All arteries contain valves to prevent backflow of blood. ===> FALSE
+323 All arteries carry oxygenated blood towards the heart. ===> FALSE
+324 The greatest resistence to blood flow occurs in arterioles. ===> TRUE
+325 The greatest resistence to blood flow occurs in large arteries. ===> FALSE
+326 The greatest resistence to blood flow occurs in capillaries. ===> FALSE
+327 With regard to resistance in the cardiovascular system, the parameter with the largest effect isvessel radius. ===> TRUE
+328 With regard to resistance in the cardiovascular system, the parameter with the largest effect is bloodviscosity. ===> FALSE
+329 The constriction of a blood vessel to one-half of its resting diameter would increase its resistance toblood flow by a factor 16. ===> TRUE
+330 An increase in blood pressure results in increased firing rate in the aortic baroreceptors. ===> TRUE
+331 Stimulation of the high-pressure baroreceptors leads to a fall in the arterial pressure. ===> TRUE
+332 Stimulation of the high-pressure baroreceptors leads to an increase in the systemic vascularresistance. ===> FALSE
+333 Stimulation of the high-pressure baroreceptors leads to an increase of the cardiac contractility. ===> FALSE
+334 Baroreceptors are located in the carotid bodies and aortic bodies. ===> FALSE
+335 Baroreceptors are specialized corpuscles. ===> FALSE
+336 Increases in cardiac parasympathetic nerve activity caused by elevated pressure inside the carotidsinus tend to depress the slope of the pacemaker potential in cells of sinoatrial node. ===> TRUE
+337 Increased sympathetic adrenergic tone causes vascular smooth muscle to contract via activation ofbeta-muscarinic receptors. ===> FALSE
+338 Increased blood pressure inside the carotid sinus tends to increase activity in the glossopharyngealnerve. ===> TRUE
+339 Vasodilatation in systemic circulation is caused by alpha-adrenergic blockade. ===> TRUE
+340 Vasodilatation in systemic circulation is caused by beta-adrenergic blockade. ===> FALSE
+341 Vasodilatation in systemic circulation is caused by parasympathetic stimulation. ===> FALSE
+342 Bradycardia occurs when baroreceptors are stimulated. ===> TRUE
+343 Bradycardia occurs when a person stands up after having been lying. ===> FALSE
+344 Bradycardia occurs when sympathetic nervous system is stimulated. ===> FALSE
+345 An increase in angiotensin II formation occurs when arterial blood pressure falls. ===> TRUE
+346 An increase in angiotensin II formation occurs when extracellular fluid volume decreases. ===> TRUE
+347 An increase in angiotensin II formation occurs when renin secretion increases. ===> TRUE
+348 A decrease in angiotensin II formation causes a decrease of arterial blood pressure. ===> TRUE
+349 A decrease in angiotensin II formation causes the adrenal glands to secrete more aldosterone. ===> FALSE
+350 A decrease in angiotensin II formation causes a decrease in total peripheral resistance. ===> TRUE
+351 During exercise the blood flow increases in skeletal muscles. ===> TRUE
+352 During exercise the blood flow increases in viscera. ===> FALSE
+353 Vasodilation in skeletal muscle during exercise is primarily due to the effects of beta-adrenergicstimulation. ===> TRUE
+354 Vasodilation in skeletal muscle during exercise is primarily due to alpha-adrenergic stimulation. ===> FALSE
+355 Vasodilation in skeletal muscle during exercise is primarily due to cholinergic stimulation. ===> FALSE
+356 Most of the blood volume at any given time is in veins. ===> TRUE
+357 Most of the blood volume at any given time is in pulmonary vessels. ===> FALSE
+358 Most of the blood volume at any given time is in capillaries. ===> FALSE
+359 The velocity of blood flow is the slowest in capillaries. ===> TRUE
+360 The velocity of blood flow is the fastest in the aorta. ===> TRUE
+361 The velocity of blood flow is inversely related to the cross-sectional area of blood vessels. ===> TRUE
+362 Most of the blood volume at any given time is in arteries. ===> FALSE
+363 A decrease in vessel diameter causes an increased resistance to the blood flow. ===> TRUE
+364 A decrease in blood viscosity causes an increased resistance to the blood flow. ===> FALSE
+365 A decrease in vessel length causes an increased resistance to the blood flow. ===> FALSE
+366 Peripheral resistance of blood vessels does not play a major role in affecting one큦 blood pressure. ===> FALSE
+367 Capillaries have the greatest total cross-sectional area of the circulatory system. ===> TRUE
+368 Veins have the greatest total cross-sectional area of the circulatory system. ===> FALSE
+369 With the progressive change from capillaries to venules to veins, the total cross-sectional areadecreases. ===> TRUE
+370 With the progressive change from capillaries to venules to veins, the diameter of the individualvessels decreases. ===> FALSE
+371 With the progressive change from capillaries to venules to veins, the blood pressure increases. ===> FALSE
+372 If one examines the arterial system at progressively greater distance from the heart, one finds anincreasing proportion of smooth muscle. ===> TRUE
+373 If one examines the arterial system at progressively greater distance from the heart, one finds nochange in mean arterial blood pressure until the capillaries are reached. ===> FALSE
+374 Distribution of the blood flow is regulated mainly by arteries and arterioles. ===> TRUE
+375 The major determinants of vascular resistance are arterioles. ===> TRUE
+376 Distribution of the blood flow is regulated mainly by capillaries. ===> FALSE
+377 Capillaries are about (inside diameter in micrometers) 7. ===> TRUE
+378 Capillaries are about (inside diameter in micrometers) 70. ===> FALSE
+379 Blood pressure is higher at the venule end of a capillary than at the arteriole end. ===> FALSE
+380 Blood pressure is the same at the arteriole and venule ends of a capillary. ===> FALSE
+381 Precapillary sphincters are openings that allow large molecules and blood cells to leave thecapillary. ===> FALSE
+382 Precapillary sphincters contract when oxygen levels in the tissues are low. ===> FALSE
+383 In a capillary bed, relaxation of the precapillary sphincters causes more blood flow throughcapillaries. ===> TRUE
+384 In a capillary bed, relaxation of the precapillary sphincters is controlled by local factors. ===> TRUE
+385 Blood flow to a tissue increases if the level of carbon dioxide in the tissue increases. ===> TRUE
+386 Blood flow to a tissue increases if the tissue fluid pH rises. ===> FALSE
+387 The most important mechanism for blood-tissue transport of small hydrophilic solutes is passivediffusion. ===> TRUE
+388 The most important mechanism for blood-tissue transport of small hydrophilic solutes is activetransport. ===> FALSE
+389 The most important mechanism for blood-tissue transport of small hydrophilic solutes is filtration. ===> FALSE
+390 Material which typically CANNOT move through the capillary wall is protein. ===> TRUE
+391 When evaluating the dynamics of capillary blood flow, capillary blood hydrostatic pressure does notplay a role. ===> FALSE
+392 When evaluating the dynamics of capillary blood flow, capillary blood hydrostatic pressure forcesfluid from the intestitial spaces into the capillary. ===> FALSE
+393 An increase in blood pressure would increase the movement of fluid out of the capillaries. ===> TRUE
+394 An increase in blood pressure would increase blood flow to a tissue. ===> TRUE
+395 Lymph capillaries begin with blind ends throughout the interstitial fluid. ===> TRUE
+396 Lymph capillaries contain red blood cells. ===> FALSE
+397 Plasma that leaks out of the blood in the capillary bed is returned to the venous circulation by thelymphatic system. ===> TRUE
+398 The speed of blood as it passes through the capillaries drops almost to zero. ===> TRUE
+399 The amount of fluid that leaves the capillaries per day in an average person is about 1 liter. ===> FALSE
+400 Accummulation of cell waste would cause nearby precapillary sphincters to relax. ===> TRUE
+401 Accummulation of cell waste would cause nearby precapillary sphincters to contract. ===> FALSE
+402 The major factors determining blood pressure are cardiac output and peripheral vascular resistence. ===> TRUE
+403 If the blood pressure is elevated, the cardiovascular centers would compensate by causingvasodilation. ===> TRUE
+404 If blood pressure is too low, the cardiovascular control center in the medulla oblongata attempts tocompensate by increased contractility of the myocardial cells. ===> TRUE
+405 Epinephrine and norepinephrine are secreted by the adrenal medulla and raise blood pressure bycausing vasoconstriction of arteries and veins. ===> TRUE
+406 Angiotensin II is the main systemic vasodilator. ===> FALSE
+407 Antidiuretic hormone which is secreted by the posterior pituitary decreases water retention. ===> FALSE
+408 Atrial natriuretic peptide lowering blood pressure by reducing blood volume is synthetized andsecreted by the kidneys. ===> FALSE
+409 Information about blood pressure is collected and sent to the brain by endothelial cells. ===> FALSE
+410 Venous return would be increased by loss of the venous valves. ===> FALSE
+411 Vasoconstriction occurs when smooth muscle in the vessel wall relaxes. ===> FALSE
+412 Vasoconstriction can be caused by signals from the sympathetic nervous system. ===> TRUE
+413 Chemoreceptors are found in the wall of the carotid sinus and the aortic arch. ===> FALSE
+414 Most effective in controlling long term changes in blood pressure is renal sodim and water excretion. ===> TRUE
+415 Reduced renal blood flow decreases release of renin and then decreases water retention. ===> FALSE
+416 A decrease in mean arterial pressure tends to result in a reflex tachycardia and increased leftventricular stroke volume. ===> TRUE
+417 A decrease in mean arterial pressure tends to result in a reflex decline in ventricular inotropism. ===> FALSE
+418 A decrease in mean arterial pressure tends to result in a reflex increase in the activity in the cardiacbranches of the vagus nerve. ===> FALSE
+419 A decrease in mean arterial pressure tends to result in a reflex decrease in heart rate and increase invascular smooth muscle contraction. ===> FALSE
+420 Generalized arterioloconstriction leads to a decrease in lymph production. ===> TRUE
+421 Generalized arterioloconstriction leads to an increase in blood flow through capillaries. ===> FALSE
+422 Generalized arterioloconstriction leads to an increase in total peripheral resistance. ===> TRUE
+423 Flow through a blood vessel is decreased in response to vasoconstriction. ===> TRUE
+424 Flow through a blood vessel is directly proportional to the pressure gradient. ===> TRUE
+425 Flow through a blood vessel is directly proportional to the blood viscosity. ===> FALSE
+426 The major pressure drop in the systemic circulation occurs as blood flows through the arterioles. ===> TRUE
+427 The major pressure drop in the systemic circulation occurs as blood flows through the capillaries. ===> FALSE
+428 Stretching the wall of the aortic arch likely leads to a fall in blood pressure. ===> TRUE
+429 Decreased activity of the carotic sinus baroreceptors likely leads to a fall in blood pressure. ===> FALSE
+430 Blood pressure is equal to the cardiac output multiplied by total peripheral resistance. ===> TRUE
+431 Blood pressure is equal to the cardiac output multiplied by total systemic blood flow. ===> FALSE
+432 Blood pressure is equal to the cardiac output multiplied by viscosity of the blood. ===> FALSE
+433 The tendency for blood flow to be turbulent is greater in large than in small vesels. ===> TRUE
+434 The tendency for blood flow to be turbulent is greater when the blood is more viscous. ===> FALSE
+435 The tendency for blood flow to be turbulent is greater when the velocity is high. ===> TRUE
+436 An increase in plasma colloid osmotic pressure would increase the movement of fluid out of thecapillaries. ===> FALSE
+437 The colloid osmotic pressure of the blood is caused by the presence of proteins in the plasma. ===> TRUE
+438 Blood colloid osmotic pressure is usually greater than tissue coloid osmotic pressure. ===> TRUE
+439 Blood colloid osmotic pressure and tissue hydrostatic pressure oppose capillary filtration. ===> TRUE
+440 Blood colloid osmotic pressure and tissue coloid osmotic pressure oppose capillary filtration. ===> FALSE
+441 Tissue hydrostatic pressure and tissue coloid osmotic pressure oppose capillary filtration. ===> FALSE
+442 A decrease in arteriolar resistance will increase the transcapillary flux of liquids, solids and gases. ===> TRUE
+443 An increase in capillary surface area will increase the transcapillary flux of liquids, solids and gases. ===> TRUE
+444 In response to a decrease in protein content of the blood, fluid will be filtered as a result of adecrease in plasma colloid osmotic pressure. ===> TRUE
+445 In response to a decrease in protein content of the blood, fluid will be filtered as a result of anincrease in tissue coloid osmotic pressure. ===> FALSE
+446 In response to a decrease in protein content of the blood, fluid will be filtered as a result of adecrease in capillary blood pressure. ===> FALSE
+447 An decrease in tissue hydrostatic pressure would increase the movement of fluid out of thecapillaries. ===> TRUE
+448 A decrease in tissue colloid osmotic pressure would increase the movement of fluid out of thecapillaries. ===> FALSE
+449 Blood hydrostatic pressure forces fluid out of the capillary and into the interstitial space. ===> TRUE
+450 Tissue hydrostatic pressure is usually greater than blood hydrostatic pressure. ===> FALSE
+451 Tissue hydrostatic pressure and tissue coloid osmotic pressure oppose capillary filtration. ===> FALSE
+452 A decrease in arteriolar resistance will increase the transcapillary flux of liquids, solids and gases. ===> TRUE
+453 An increase in capillary surface area will increase the transcapillary flux of liquids, solids and gases. ===> TRUE
+454 In response to a decrease in protein content of the blood, fluid will be filtered as a result of adecrease in plasma colloid osmotic pressure. ===> TRUE
+455 In response to a decrease in protein content of the blood, fluid will be filtered as a result of anincrease in tissue coloid osmotic pressure. ===> FALSE
+456 In response to a decrease in protein content of the blood, fluid will be filtered as a result of adecrease in capillary blood pressure. ===> FALSE
+457 Lymph production can be increased due to histamine release. ===> TRUE
+458 Lymph production can be increased due to arteriolar constriction. ===> FALSE
+459 Lymph production can be increased due to high plasma protein concentration. ===> FALSE
+460 In most healthy individuals you would expect QRS complexes to be around 0.12 seconds or slightlyless. ===> TRUE
+461 Left axis deviation is rarely the result of left ventricular hypertrophy and more often due to defects inthe conduction system of the heart. ===> TRUE
+462 The leads I, aVL, V5, V6 represent lateral view of he heart. ===> TRUE
+463 The leads V3 & V4 represent anterior view of he heart. ===> TRUE
+464 The leads V1 & V2 represent septal view of he heart. ===> TRUE
+465 The leads II, III, aVF represent inferior view of he heart. ===> TRUE
+466 Normal individuals the PR-interval is between 0.12-2.0 seconds. ===> TRUE
+467 If a rhythm is described as sinus it indicates that a P-wave precedes each QRS-complex. ===> TRUE
+468 If lead I became more positive and lead III became negative - it suggest left axis deviation. ===> TRUE
+469 In right ventricular hypertrophy the increased muscle mass of the right ventricle causes increasedsignal on the ECG. As a result the axis of the heart is shifted to the right. ===> TRUE
+470 Cardiac output is determined in part by stroke volume. ===> TRUE
+471 Cardiac output decreases during exercise. ===> FALSE
+472 Cardiac output is determined in part by heart rate. ===> TRUE
+473 Cardiac output is expressed in liters per beat. ===> FALSE
+474 Cardiac output is equal to the heart rate multiplied by stroke volume. ===> TRUE
+475 If heart rate increases to very high levels, then stroke volume increases to keep cardiac outputconstant. ===> FALSE
+476 Cardiac output is higher than pulmonary blood flow. ===> FALSE
+477 Cardiac output rises when the subject changes from the standing to the lying down position. ===> TRUE
+478 Cardiac output may rise to 3 times its resting value maximally during exercise. ===> FALSE
+479 Cardiac output is equal to end-diastolic volume minus end-systolic volume. ===> FALSE
+480 The sum of all the stroke volumes ejected from the ventricle over one minute period is cardiacoutput. ===> TRUE
+481 Cardiac output is about 5 liters of blood per minute at rest. ===> TRUE
+482 Cardiac output can be measured by dividing the oxygen consumption by the difference inconcentration of oxygen of the venous and arterial blood. ===> TRUE
+483 Cardiac output can be measured by dividing the oxygen consumption by the difference in partialpressure of oxygen of the venous and arterial blood. ===> FALSE
+484 In normal resting conditions cardiac output is the sum of the combined outputs of left and rightventricles. ===> FALSE
+485 From all of the organs, blood flow in ml per 100 g per min is greatest in the chemoreceptors. ===> TRUE
+486 The coronary vessel external to the heart that empties blood into the right atrium is the superior venacava. ===> FALSE
+487 The right coronary artery generally supplies the right atrium and ventricle. ===> TRUE
+488 Coronary arteries have maximal blood flow during the ventricular diastole. ===> TRUE
+489 Coronary vessels are not innervated. ===> FALSE
+490 Reduction of oxygen level and increase of metabolic products like CO2, H+, K+, prostaglandines,adenosine lead to constriction of the coronary arteries. ===> FALSE
+491 With respect to the blood supply of the brain, white matter has higher blood flow than grey matter. ===> FALSE
+492 The liver consumes about 20% of all the total oxygen consumption. ===> TRUE
+493 In the fetal circulation there are two umbilical arteries and one umbilical vein. ===> TRUE
+494 The umbilical artery carries oxygenated blood from the placenta to the fetus. ===> FALSE
+495 The foramen ovale allows oxygenated blood to bypass the pulmonary circulation. ===> TRUE
+496 The oxygen dissociation curve of fetal hemoglobin is shifted to the left compared with adulthemoglobin ensuring oxygen delivery to the fetus despite low oxygen partial pressures. ===> TRUE
+497 At birth pulmonary vascular resistance rises. ===> FALSE
+498 At birth the systemic vascular resistance rises. ===> TRUE
+499 At birth the left atrial pressure falls. ===> FALSE

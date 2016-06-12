@@ -1,0 +1,70 @@
+# Prefix_A = [CZ]\n\n\n , Prefix_B = [EN]\n\n\n
+// á č ď é ě í ň ó ř š ť ú ů ý ž
+
+byt = apartment
+být = (to) be
+máma = mom
+táta = dad
+litr = liter
+sýr = cheese
+pas = passport/licence/waist
+petr = Peter
+lék = medicine
+jídlo = food
+pití = drinks (noun)
+dům = house
+úkol = job/task/homework
+otózka = question
+otpověd = answer
+katedra = department
+ústav = institute
+začátec = beginning
+zápočet = credit (card?)
+zkouška = exam
+kolej = dorm
+dědeček = grandfather
+sešit = notebook
+učebnice = studybook
+
+//page 2
+počítač = computer
+třída = class
+světlo = light
+tužka = pencil
+menza = canteen
+tabule = blackboard
+okno = window
+slovník = dictionary
+
+//page 3
+kluk = boy
+holka = girl
+kamarád = friend
+přítel = boyfriend
+manžel = husband
+
+//page 4
+strýc = uncle
+teta = aunt
+vnuk = grandson
+ženatý (vdaná) = married
+svobodný = unmarried (free)
+rozvedený = divorced
+
+//page 7
+hodina = hour
+den = day
+týden = week
+měsíc = month
+rok = year
+
+
+// á č ď é ě í ň ó ř š ť ú ů ý ž
+
+nikdy = never
+
+// Second Semester
+
+pochoutka = sweet (το γλυκό)
+
+

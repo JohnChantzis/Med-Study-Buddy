@@ -1,0 +1,16 @@
+# Prefix_A = [CZ]\n\n\n , Prefix_B = [EN]\n\n\n
+// á č ď é ě í ň ó ř š ť ú ů ý ž
+
+leden = January
+únor = February
+březen = March
+duben = April
+květen = May
+červen = June
+červenec = July
+srpen = August
+září = September
+říjen = October
+listopad = November
+prosinec = December
+
